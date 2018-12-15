@@ -45,7 +45,7 @@
               <td><a :href="props.item.detailUrl" target="_blank">{{ props.item.title }}</a></td>
               <td>{{ props.item.pay }}{{ props.item.paidBy ? ` - ${props.item.paidBy}`: '' }}</td>
               <td>{{ props.item.location }}</td>
-              <td><v-chip :color="tag.tag ? 'primary' : ''" text-color="white" v-for="tag in props.item.tags" style="cursor:pointer" @click="() => tag.url ? openNewTab(tag.url) : {}">{{tag.tag ? tag.tag : tag }}</v-chip></td>
+              <td><v-chip :color="tag.tag ? 'primary' : 'grey darken-2'" text-color="white" v-for="tag in props.item.tags" style="cursor:pointer" @click="() => tag.url ? openNewTab(tag.url) : {}">{{tag.tag ? tag.tag : tag }}</v-chip></td>
             </tr>
           </template>
           <template slot="expand" slot-scope="props" v-if="props.item.summary">
