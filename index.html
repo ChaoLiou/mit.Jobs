@@ -45,7 +45,7 @@
               <td><a :href="props.item.detailUrl" target="_blank">{{ props.item.title }}</a></td>
               <td>{{ props.item.pay }}{{ props.item.paidBy ? ` - ${props.item.paidBy}`: '' }}</td>
               <td>{{ props.item.location }}</td>
-              <td><v-chip color="primary" text-color="white" v-for="tag in props.item.tags" style="cursor:pointer" @click="() => tag.url ? openNewTab(tag.url) : {}">{{tag.tag ? tag.tag : tag }}</v-chip></td>
+              <td><v-chip :color="tag.tag ? 'primary' : ''" text-color="white" v-for="tag in props.item.tags" style="cursor:pointer" @click="() => tag.url ? openNewTab(tag.url) : {}">{{tag.tag ? tag.tag : tag }}</v-chip></td>
             </tr>
           </template>
           <template slot="expand" slot-scope="props" v-if="props.item.summary">
@@ -111,7 +111,7 @@
                 detailUrl: jobs[0].employerDetailUrl,
                 employerDetailUrl: jobs[0].employerDetailUrl,
                 location: jobs[0].location,
-                title: `開放 ${jobs.length} 個職位`,
+                title: `${jobs.length} 個職位`,
                 tags: jobs.map(job => { return { tag: job.title, url: job.detailUrl }})
               }
             })
