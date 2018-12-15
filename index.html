@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>mit.Jobs</title>
+  <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons' rel="stylesheet" type="text/css">
+  <link href="https://unpkg.com/vuetify/dist/vuetify.min.css" rel="stylesheet" type="text/css"></link>
+  <link href="styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <div id="app">
+    <v-app id="inspire">
+      <v-card>
+        <v-card-title>
+          <v-switch label="公司分群" v-model="employerOnly" @change="(on) => filterChange(this.radioGroup, on)"></v-switch>
+          <v-radio-group v-model="radioGroup">
+            <v-radio
+            v-for="item in [{ title: '國內', value: 1 }, { title: '國外', value: 2 }, { title: '全部', value: 0 }]"
+            :key="item.value"
+            :label="item.title"
+            :value="item.value"
+            @change="(selected) => filterChange(selected, employerOnly)"
+            ></v-radio>
+          </v-radio-group>
+          <v-text-field
+            v-model="search"
+            append-icon="search"
+            label="Search"
+            single-line
+            hide-details
+          ></v-text-field>
+        </v-card-title>
+        <v-data-table
+          :headers="headers"
+          :items="jobs"
+          :search="search"
+          item-key="id"
+          :rows-per-page-items="[ 20, 50 ]"
+        >
+          <template slot="items" slot-scope="props">
+            <tr @click="props.expanded = !props.expanded" :style="props.item.summary ? 'cursor:pointer' : ''">
+              <td><a :href="props.item.employerDetailUrl" target="_blank">{{ props.item.employer }}</a></td>
+              <td><a :href="props.item.detailUrl" target="_blank">{{ props.item.title }}</a></td>
+              <td>{{ props.item.pay }}{{ props.item.paidBy ? ` - ${props.item.paidBy}`: '' }}</td>
+              <td>{{ props.item.location }}</td>
+              <td><v-chip color="primary" text-color="white" v-for="tag in props.item.tags" style="cursor:pointer" @click="() => tag.url ? openNewTab(tag.url) : {}">{{tag.tag ? tag.tag : tag }}</v-chip></td>
+            </tr>
+          </template>
+          <template slot="expand" slot-scope="props" v-if="props.item.summary">
+            <v-card flat>
+              <v-card-text>{{ props.item.summary }}</v-card-text>
+            </v-card>
+          </template>
+          <v-alert slot="no-results" :value="true" color="error" icon="warning">
+            Your search for "{{ search }}" found no results.
+          </v-alert>
+        </v-data-table>
+      </v-card>
+    </v-app>
+  </div>
+
+  <script src="https://unpkg.com/vue/dist/vue.js"></script>
+  <script src="https://unpkg.com/vuetify/dist/vuetify.js"></script>
+  <script src="https://fastcdn.org/Underscore.js/1.8.3/underscore-min.js"></script>
+  <script>
+    Vue.component('page', {
+      template: '#page'
+    })
+    new Vue({
+      el: '#app',
+      data () {
+        return {
+          radioGroup: 0,
+          employerOnly: false,
+          search: '',
+          headers: [
+            { text: '公司', value: 'employer' },
+            { text: '職位', value: 'title' },
+            { text: '薪資', value: 'paidBy', sortable: false },
+            { text: '地點', value: 'location' },
+            { text: '標籤', value: 'tags', width: '100px', sortable: false },
+          ],
+          jobs_bk: [],
+          jobs: []
+        }
+      },
+      mounted: function() {
+        fetch("/data.json").then(response => response.json()).then(json => {
+          this.jobs_bk = json.jobs
+          this.jobs = this.filter(json.jobs).map((j, i) => {
+            j.id = i
+            return j
+          })
+        })
+      },
+      methods: {
+        filterChange: function(radioSelected, employerOnlyOn) {
+          let jobs = this.filter(this.jobs_bk, radioSelected).map((j, i) => {
+            j.id = i
+            return j
+          });
+          if (employerOnlyOn) {
+            const employers = _.groupBy(jobs, 'employer')
+            jobs = Object.keys(employers).map((employerName, i) => {
+              const jobs = employers[employerName]
+              return {
+                id: i,
+                employer: employerName,
+                detailUrl: jobs[0].employerDetailUrl,
+                employerDetailUrl: jobs[0].employerDetailUrl,
+                location: jobs[0].location,
+                title: `開放 ${jobs.length} 個職位`,
+                tags: jobs.map(job => { return { tag: job.title, url: job.detailUrl }})
+              }
+            })
+          }
+          this.jobs = jobs
+        },
+        filter: function(jobs, radioSelected) {
+          return jobs.filter(job => {
+            const tw = job.location.toLowerCase().includes('taiwan') ||
+            job.location.toLowerCase().includes('台灣') ||
+            job.title.toLowerCase().includes('taiwan') ||
+            job.title.toLowerCase().includes('台灣') ||
+            job.summary.toLowerCase().includes('taiwan') ||
+            job.summary.toLowerCase().includes('台灣')
+            if (radioSelected == 1) {
+              return tw 
+            } else if (radioSelected == 2) {
+              return !tw
+            } else {
+              return true
+            }
+          })
+        },
+        openNewTab: function(url) {
+          window.open(url, 'blank')
+        }
+      }
+    })
+  </script>
+</body>
+</html>
