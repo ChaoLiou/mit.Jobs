@@ -87,7 +87,7 @@
         }
       },
       mounted: function() {
-        fetch("/data.json").then(response => response.json()).then(json => {
+        fetch(location.href + "/data.json").then(response => response.json()).then(json => {
           this.jobs_bk = json.jobs
           this.jobs = this.filter(json.jobs).map((j, i) => {
             j.id = i
