@@ -1,51 +1,51 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>mit.Jobs</title>
   <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons' rel="stylesheet" type="text/css">
-  <link href="https://unpkg.com/vuetify/dist/vuetify.min.css" rel="stylesheet" type="text/css"></link>
+  <link href="https://unpkg.com/vuetify/dist/vuetify.min.css" rel="stylesheet" type="text/css">
+  </link>
   <link href="styles.css" rel="stylesheet" type="text/css">
 </head>
+
 <body>
   <div id="app">
     <v-app id="inspire">
+      <div>
+        <v-combobox v-model="selectedTags" :items="allTags.map(t => t.name)" label="標籤" multiple chips clearable @change="(selectedTags) => filterChange({ selectedTags })">
+          <template slot="selection" slot-scope="data">
+            <v-chip :selected="data.selected" :disabled="data.disabled" :key="data.item" class="v-chip--select-multi"
+              @input="data.parent.selectItem(data.item)">
+              <v-avatar class="accent white--text" v-text="allTags.find(t => t.name == data.item).count"></v-avatar>
+              {{ data.item }}
+            </v-chip>
+          </template>
+        </v-combobox>
+      </div>
       <v-card>
         <v-card-title>
-          <v-switch label="公司分群" v-model="employerOnly" @change="(on) => filterChange(this.radioGroup, on)"></v-switch>
-          <v-radio-group v-model="radioGroup">
-            <v-radio
-            v-for="item in [{ title: '國內', value: 1 }, { title: '國外', value: 2 }, { title: '全部', value: 0 }]"
-            :key="item.value"
-            :label="item.title"
-            :value="item.value"
-            @change="(selected) => filterChange(selected, employerOnly)"
-            ></v-radio>
+          <v-switch label="公司分群" v-model="employerOnly" @change="(employerOnly) => filterChange({ employerOnly })"></v-switch>
+          <v-radio-group v-model="selectedArea">
+            <v-radio v-for="item in [{ title: '國內', value: 1 }, { title: '國外', value: 2 }, { title: '全部', value: 0 }]"
+              :key="item.value" :label="item.title" :value="item.value" @change="(selectedArea) => filterChange({ selectedArea })"></v-radio>
           </v-radio-group>
-          <v-text-field
-            v-model="search"
-            append-icon="search"
-            label="Search"
-            single-line
-            hide-details
-          ></v-text-field>
+          <v-text-field v-model="search" append-icon="search" label="Search" single-line hide-details></v-text-field>
         </v-card-title>
-        <v-data-table
-          :headers="headers"
-          :items="jobs"
-          :search="search"
-          item-key="id"
-          :rows-per-page-items="[ 20, 50 ]"
-        >
+        <v-data-table :headers="headers" :items="jobs" :search="search" item-key="id" :rows-per-page-items="[ 20, 50 ]">
           <template slot="items" slot-scope="props">
             <tr @click="props.expanded = !props.expanded" :style="props.item.summary ? 'cursor:pointer' : ''">
               <td><a :href="props.item.employerDetailUrl" target="_blank">{{ props.item.employer }}</a></td>
               <td><a :href="props.item.detailUrl" target="_blank">{{ props.item.title }}</a></td>
               <td>{{ props.item.pay }}{{ props.item.paidBy ? ` - ${props.item.paidBy}`: '' }}</td>
               <td>{{ props.item.location }}</td>
-              <td><v-chip color="primary" text-color="white" v-for="tag in props.item.tags" style="cursor:pointer" @click="() => tag.url ? openNewTab(tag.url) : {}">{{tag.tag ? tag.tag : tag }}</v-chip></td>
+              <td>
+                <v-chip color="primary" text-color="white" v-for="tag in props.item.tags" style="cursor:pointer" @click="() => tag.url ? openNewTab(tag.url) : {}">{{tag.tag
+                  ? tag.tag : tag }}</v-chip>
+              </td>
             </tr>
           </template>
           <template slot="expand" slot-scope="props" v-if="props.item.summary">
@@ -70,38 +70,80 @@
     })
     new Vue({
       el: '#app',
-      data () {
+      data() {
         return {
-          radioGroup: 0,
+          selectedTags: [],
+          selectedArea: 0,
           employerOnly: false,
           search: '',
-          headers: [
-            { text: '公司', value: 'employer' },
-            { text: '職位', value: 'title' },
-            { text: '薪資', value: 'paidBy', sortable: false },
-            { text: '地點', value: 'location' },
-            { text: '標籤', value: 'tags', width: '100px', sortable: false },
+          headers: [{
+              text: '公司',
+              value: 'employer'
+            },
+            {
+              text: '職位',
+              value: 'title'
+            },
+            {
+              text: '薪資',
+              value: 'paidBy',
+              sortable: false
+            },
+            {
+              text: '地點',
+              value: 'location'
+            },
+            {
+              text: '標籤',
+              value: 'tags',
+              width: '100px',
+              sortable: false
+            },
           ],
           jobs_bk: [],
-          jobs: []
+          jobs: [],
+          allTags: [],
+          allTags_bk: []
         }
       },
-      mounted: function() {
-        fetch("/data.json").then(response => response.json()).then(json => {
+      mounted: function () {
+        fetch(location.href + "/data.json").then(response => response.json()).then(json => {
           this.jobs_bk = json.jobs
           this.jobs = this.filter(json.jobs).map((j, i) => {
             j.id = i
             return j
           })
+          let allTags = []
+          const tagGroups = _.groupBy(_.flatten(json.jobs.map(j => j.tags)))
+          allTags = Object.keys(tagGroups).map(tg => {
+            return {
+              name: tg,
+              count: tagGroups[tg].length
+            }
+          })
+          allTags = _.sortBy(allTags, 'count').reverse()
+          this.allTags = allTags
         })
       },
       methods: {
-        filterChange: function(radioSelected, employerOnlyOn) {
-          let jobs = this.filter(this.jobs_bk, radioSelected).map((j, i) => {
+        filterChange: function ({ selectedArea = this.selectedArea, selectedTags = this.selectedTags, employerOnly = this.employerOnly }) {
+          let jobs = this.filter(this.jobs_bk, selectedArea).map((j, i) => {
             j.id = i
             return j
           });
-          if (employerOnlyOn) {
+
+          let allTags = []
+          const tagGroups = _.groupBy(_.flatten(this.jobs_bk.map(j => j.tags)))
+          allTags = Object.keys(tagGroups).map(tg => {
+            return {
+              name: tg,
+              count: tagGroups[tg].length
+            }
+          })
+          allTags = _.sortBy(allTags, 'count').reverse()
+          this.allTags = allTags
+
+          if (employerOnly) {
             const employers = _.groupBy(jobs, 'employer')
             jobs = Object.keys(employers).map((employerName, i) => {
               const jobs = employers[employerName]
@@ -112,34 +154,45 @@
                 employerDetailUrl: jobs[0].employerDetailUrl,
                 location: jobs[0].location,
                 title: `開放 ${jobs.length} 個職位`,
-                tags: jobs.map(job => { return { tag: job.title, url: job.detailUrl }})
+                tags: jobs.map(job => {
+                  return {
+                    tag: job.title,
+                    url: job.detailUrl
+                  }
+                })
               }
             })
           }
+
+          if (selectedTags && selectedTags.length > 0) {
+            jobs = jobs.filter(job => selectedTags.some(tag => job.tags.includes(tag)))
+          }
+
           this.jobs = jobs
         },
-        filter: function(jobs, radioSelected) {
+        filter: function (jobs, selectedArea) {
           return jobs.filter(job => {
             const tw = job.location.toLowerCase().includes('taiwan') ||
-            job.location.toLowerCase().includes('台灣') ||
-            job.title.toLowerCase().includes('taiwan') ||
-            job.title.toLowerCase().includes('台灣') ||
-            job.summary.toLowerCase().includes('taiwan') ||
-            job.summary.toLowerCase().includes('台灣')
-            if (radioSelected == 1) {
-              return tw 
-            } else if (radioSelected == 2) {
+              job.location.toLowerCase().includes('台灣') ||
+              job.title.toLowerCase().includes('taiwan') ||
+              job.title.toLowerCase().includes('台灣') ||
+              job.summary.toLowerCase().includes('taiwan') ||
+              job.summary.toLowerCase().includes('台灣')
+            if (selectedArea == 1) {
+              return tw
+            } else if (selectedArea == 2) {
               return !tw
             } else {
               return true
             }
           })
         },
-        openNewTab: function(url) {
+        openNewTab: function (url) {
           window.open(url, 'blank')
         }
       }
     })
   </script>
 </body>
+
 </html>
