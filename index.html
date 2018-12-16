@@ -43,7 +43,7 @@
               <td>{{ props.item.pay }}{{ props.item.paidBy ? ` - ${props.item.paidBy}`: '' }}</td>
               <td>{{ props.item.location }}</td>
               <td>
-                <v-chip color="primary" text-color="white" v-for="tag in props.item.tags" style="cursor:pointer" @click="() => tag.url ? openNewTab(tag.url) : {}">{{tag.tag
+                <v-chip :color="tag.tag ? 'primary' : 'grey darken-2'" text-color="white" v-for="tag in props.item.tags" style="cursor:pointer" @click="() => tag.url ? openNewTab(tag.url) : {}">{{tag.tag
                   ? tag.tag : tag }}</v-chip>
               </td>
             </tr>
@@ -106,7 +106,11 @@
           allTags_bk: []
         }
       },
+<<<<<<< HEAD
       mounted: function () {
+=======
+      mounted: function() {
+>>>>>>> e9b9ec5c35bd6d23c48427f89f992d6b06c78f2e
         fetch(location.href + "/data.json").then(response => response.json()).then(json => {
           this.jobs_bk = json.jobs
           this.jobs = this.filter(json.jobs).map((j, i) => {
@@ -153,6 +157,7 @@
                 detailUrl: jobs[0].employerDetailUrl,
                 employerDetailUrl: jobs[0].employerDetailUrl,
                 location: jobs[0].location,
+<<<<<<< HEAD
                 title: `開放 ${jobs.length} 個職位`,
                 tags: jobs.map(job => {
                   return {
@@ -160,6 +165,10 @@
                     url: job.detailUrl
                   }
                 })
+=======
+                title: `${jobs.length} 個職位`,
+                tags: jobs.map(job => { return { tag: job.title, url: job.detailUrl }})
+>>>>>>> e9b9ec5c35bd6d23c48427f89f992d6b06c78f2e
               }
             })
           }
