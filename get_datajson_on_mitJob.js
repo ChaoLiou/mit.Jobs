@@ -38,6 +38,7 @@ const intervalId = setInterval(() => {
         }
     } else {
         console.save({
+            updated: new Date().toString(),
             jobs: [...document.querySelectorAll(".job-item")].map(e => {
                 return {
                     title: format(e.querySelector(".job-title").textContent),
