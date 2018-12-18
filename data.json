@@ -1,6 +1,98 @@
 {
-    "updated": "Mon Dec 17 2018 17:20:44 GMT+0800 (台北標準時間)",
+    "updated": "Tue Dec 18 2018 12:58:49 GMT+0800 (台北標準時間)",
     "jobs": [
+        {
+            "title": "Sr. Python Engineer",
+            "employer": "創順科技有限公司",
+            "detailUrl": "https://mit.jobs/jobs/10476-sr-python-engineer",
+            "employerDetailUrl": "https://unnotech.mit.jobs/",
+            "pay": "80,000 -120,000",
+            "paidBy": "TWD 每月",
+            "location": "台北市, Taiwan",
+            "summary": "",
+            "tags": [
+                "#python/django",
+                "#Web Development",
+                "#Django/Flask",
+                "#Google Cloud Platform",
+                "#Python frameworks",
+                "#AZURE",
+                "#Python + Django/Flask",
+                "#English",
+                "#Chinese"
+            ]
+        },
+        {
+            "title": "Sr. Front-end Engineer",
+            "employer": "創順科技有限公司",
+            "detailUrl": "https://mit.jobs/jobs/10475-sr-front-end-engineer",
+            "employerDetailUrl": "https://unnotech.mit.jobs/",
+            "pay": "80,000 -120,000",
+            "paidBy": "TWD 每月",
+            "location": "台北市, Taiwan",
+            "summary": "此職務為資深職缺，希望您有多年前端經驗，熟悉 Vue，應徵請附上詳細履歷及作品。",
+            "tags": [
+                "#HTML",
+                "#CSS",
+                "#JavaScript",
+                "#Vue.js",
+                "#English",
+                "#Chinese"
+            ]
+        },
+        {
+            "title": "React Native Engineer",
+            "employer": "創順科技有限公司",
+            "detailUrl": "https://mit.jobs/jobs/10474-react-native-engineer",
+            "employerDetailUrl": "https://unnotech.mit.jobs/",
+            "pay": "50,000 -80,000",
+            "paidBy": "TWD 每月",
+            "location": "台北市, Taiwan",
+            "summary": "",
+            "tags": [
+                "#JavaScript",
+                "#iOS Development",
+                "#ReactNative",
+                "#English",
+                "#Chinese"
+            ]
+        },
+        {
+            "title": "技術主管",
+            "employer": "創順科技有限公司",
+            "detailUrl": "https://mit.jobs/jobs/10473-%E6%8A%80%E8%A1%93%E4%B8%BB%E7%AE%A1",
+            "employerDetailUrl": "https://unnotech.mit.jobs/",
+            "pay": "130,000+",
+            "paidBy": "TWD 每月",
+            "location": "台北市, Taiwan",
+            "summary": "人生苦短，我用 Python。\n",
+            "tags": [
+                "#WEB",
+                "#DevOps",
+                "#python/django",
+                "#Docker",
+                "#k8s",
+                "#English",
+                "#Chinese"
+            ]
+        },
+        {
+            "title": "資深人事行政主管（工作地點：馬尼拉）",
+            "employer": "創順科技有限公司",
+            "detailUrl": "https://mit.jobs/jobs/10472-%E8%B3%87%E6%B7%B1%E4%BA%BA%E4%BA%8B%E8%A1%8C%E6%94%BF%E4%B8%BB%E7%AE%A1%E5%B7%A5%E4%BD%9C%E5%9C%B0%E9%BB%9E%E9%A6%AC%E5%B0%BC%E6%8B%89",
+            "employerDetailUrl": "https://unnotech.mit.jobs/",
+            "pay": "150,000 -200,000",
+            "paidBy": "TWD 每月",
+            "location": "no office location",
+            "summary": "-- 此職務為委派招募，工作地馬尼拉，相關福利制度以對方公司為主 --",
+            "tags": [
+                "#Recruiting",
+                "#Human Resources",
+                "#Payroll",
+                "#Performance",
+                "#English"
+            ]
+        },
         {
             "title": "Senior DevOps Engineer",
             "employer": "honestbee",
@@ -439,98 +531,6 @@
                 "#Frontend Development",
                 "#Web Development",
                 "#ReactJS"
-            ]
-        },
-        {
-            "title": "Sr. Python Engineer",
-            "employer": "創順科技有限公司",
-            "detailUrl": "https://mit.jobs/jobs/10428-sr-python-engineer",
-            "employerDetailUrl": "https://unnotech.mit.jobs/",
-            "pay": "80,000 -120,000",
-            "paidBy": "TWD 每月",
-            "location": "台北市, Taiwan",
-            "summary": "",
-            "tags": [
-                "#python/django",
-                "#Web Development",
-                "#Django/Flask",
-                "#Google Cloud Platform",
-                "#Python frameworks",
-                "#AZURE",
-                "#Python + Django/Flask",
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "Sr. Front-end Engineer",
-            "employer": "創順科技有限公司",
-            "detailUrl": "https://mit.jobs/jobs/10427-sr-front-end-engineer",
-            "employerDetailUrl": "https://unnotech.mit.jobs/",
-            "pay": "80,000 -120,000",
-            "paidBy": "TWD 每月",
-            "location": "台北市, Taiwan",
-            "summary": "此職務為資深職缺，希望您有多年前端經驗，熟悉 Vue，應徵請附上詳細履歷及作品。",
-            "tags": [
-                "#HTML",
-                "#CSS",
-                "#JavaScript",
-                "#Vue.js",
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "React Native Engineer",
-            "employer": "創順科技有限公司",
-            "detailUrl": "https://mit.jobs/jobs/10426-react-native-engineer",
-            "employerDetailUrl": "https://unnotech.mit.jobs/",
-            "pay": "50,000 -80,000",
-            "paidBy": "TWD 每月",
-            "location": "台北市, Taiwan",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#iOS Development",
-                "#ReactNative",
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "技術主管",
-            "employer": "創順科技有限公司",
-            "detailUrl": "https://mit.jobs/jobs/10425-%E6%8A%80%E8%A1%93%E4%B8%BB%E7%AE%A1",
-            "employerDetailUrl": "https://unnotech.mit.jobs/",
-            "pay": "130,000+",
-            "paidBy": "TWD 每月",
-            "location": "台北市, Taiwan",
-            "summary": "人生苦短，我用 Python。\n",
-            "tags": [
-                "#WEB",
-                "#DevOps",
-                "#python/django",
-                "#Docker",
-                "#k8s",
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "資深人事行政主管（工作地點：馬尼拉）",
-            "employer": "創順科技有限公司",
-            "detailUrl": "https://mit.jobs/jobs/10424-%E8%B3%87%E6%B7%B1%E4%BA%BA%E4%BA%8B%E8%A1%8C%E6%94%BF%E4%B8%BB%E7%AE%A1%E5%B7%A5%E4%BD%9C%E5%9C%B0%E9%BB%9E%E9%A6%AC%E5%B0%BC%E6%8B%89",
-            "employerDetailUrl": "https://unnotech.mit.jobs/",
-            "pay": "150,000 -200,000",
-            "paidBy": "TWD 每月",
-            "location": "no office location",
-            "summary": "-- 此職務為委派招募，工作地馬尼拉，相關福利制度以對方公司為主 --",
-            "tags": [
-                "#Recruiting",
-                "#Human Resources",
-                "#Payroll",
-                "#Performance",
-                "#English"
             ]
         },
         {
@@ -1260,7 +1260,7 @@
             "pay": "32,000 -48,000",
             "paidBy": "TWD 每月",
             "location": "Taipei, Taiwan",
-            "summary": "1. 協助執行長安排各項工作，工作性質類似於機要秘書\n2. 月薪新台幣 34,000 - 48,000 TWD/ mth\n3. 歡迎剛出社會，還未確定職涯發展方向，想要多方嘗試的熱血青年",
+            "summary": "1. 協助執行長安排各項工作，工作性質類似於機要秘書\n2. 月薪新台幣 32,000 - 48,000 TWD/ mth\n3. 歡迎剛出社會，還未確定職涯發展方向，想要多方嘗試的熱血青年",
             "tags": [
                 "#MS Office",
                 "#English",
@@ -6955,28 +6955,6 @@
             ]
         },
         {
-            "title": "PHP后台开发工程师",
-            "employer": "蜻蜓FM",
-            "detailUrl": "https://mit.jobs/jobs/8662-php%E5%90%8E%E5%8F%B0%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88",
-            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
-            "pay": "10,000 -20,000",
-            "paidBy": "CNY 每月",
-            "location": "Shanghai, China",
-            "summary": "",
-            "tags": []
-        },
-        {
-            "title": "后台工程师 - 开发运维方向",
-            "employer": "蜻蜓FM",
-            "detailUrl": "https://mit.jobs/jobs/8587-%E5%90%8E%E5%8F%B0%E5%B7%A5%E7%A8%8B%E5%B8%88-%E5%BC%80%E5%8F%91%E8%BF%90%E7%BB%B4%E6%96%B9%E5%90%91",
-            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
-            "pay": "10,000 -20,000",
-            "paidBy": "CNY 每月",
-            "location": "Shanghai, China",
-            "summary": "",
-            "tags": []
-        },
-        {
             "title": "後端工程師",
             "employer": "悠達天下股份有限公司",
             "detailUrl": "https://mit.jobs/jobs/8586-%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB",
@@ -7743,28 +7721,6 @@
             ]
         },
         {
-            "title": "后台开发工程师 （上海）",
-            "employer": "蜻蜓FM",
-            "detailUrl": "https://mit.jobs/jobs/8349-%E5%90%8E%E5%8F%B0%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88-%E4%B8%8A%E6%B5%B7",
-            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
-            "pay": "15,000 -30,000",
-            "paidBy": "CNY 每月",
-            "location": "Shanghai, China",
-            "summary": "",
-            "tags": []
-        },
-        {
-            "title": "高级Android开发工程师",
-            "employer": "蜻蜓FM",
-            "detailUrl": "https://mit.jobs/jobs/8348-%E9%AB%98%E7%BA%A7android%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88",
-            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
-            "pay": "18,000 -35,000",
-            "paidBy": "CNY 每月",
-            "location": "Shanghai, China",
-            "summary": "",
-            "tags": []
-        },
-        {
             "title": "資深全端工程師_Senior Full Stack",
             "employer": "SARAcares生活保險聰明選",
             "detailUrl": "https://mit.jobs/jobs/8345-%E8%B3%87%E6%B7%B1%E5%85%A8%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB_senior-full-stack",
@@ -7894,17 +7850,6 @@
                 "#Exlira",
                 "#English"
             ]
-        },
-        {
-            "title": "架构师",
-            "employer": "蜻蜓FM",
-            "detailUrl": "https://mit.jobs/jobs/8323-%E6%9E%B6%E6%9E%84%E5%B8%88",
-            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
-            "pay": "25,000 -40,000",
-            "paidBy": "CNY 每月",
-            "location": "Shanghai, China",
-            "summary": "",
-            "tags": []
         },
         {
             "title": "Vietnameses Only: Junior Software Engineer",
@@ -8452,17 +8397,6 @@
             ]
         },
         {
-            "title": "技术经理",
-            "employer": "蜻蜓FM",
-            "detailUrl": "https://mit.jobs/jobs/8007-%E6%8A%80%E6%9C%AF%E7%BB%8F%E7%90%86",
-            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
-            "pay": "25,000 -40,000",
-            "paidBy": "CNY 每月",
-            "location": "Shanghai, China",
-            "summary": "",
-            "tags": []
-        },
-        {
             "title": "Senior GUI Designer",
             "employer": "Positive Grid",
             "detailUrl": "https://mit.jobs/jobs/8006-senior-gui-designer",
@@ -8558,39 +8492,6 @@
             ]
         },
         {
-            "title": "GO-开发工程师（北京）",
-            "employer": "蜻蜓FM",
-            "detailUrl": "https://mit.jobs/jobs/7988-go-%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%8C%97%E4%BA%AC",
-            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
-            "pay": "20,000 -40,000",
-            "paidBy": "CNY 每月",
-            "location": "Beijing, China",
-            "summary": "",
-            "tags": []
-        },
-        {
-            "title": "推荐技术专家 （上海）",
-            "employer": "蜻蜓FM",
-            "detailUrl": "https://mit.jobs/jobs/7987-%E6%8E%A8%E8%8D%90%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6-%E4%B8%8A%E6%B5%B7",
-            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
-            "pay": "30,000 -45,000",
-            "paidBy": "CNY 每月",
-            "location": "Shanghai, China",
-            "summary": "",
-            "tags": []
-        },
-        {
-            "title": "前端架构师/主管",
-            "employer": "蜻蜓FM",
-            "detailUrl": "https://mit.jobs/jobs/7986-%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E5%B8%88%E4%B8%BB%E7%AE%A1",
-            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
-            "pay": "25,000 -40,000",
-            "paidBy": "CNY 每月",
-            "location": "Shanghai, China",
-            "summary": "",
-            "tags": []
-        },
-        {
             "title": "IT技術人員 (IT Support Technician)",
             "employer": "KUMON(孔孟文化事業有限公司)",
             "detailUrl": "https://mit.jobs/jobs/7974-it%E6%8A%80%E8%A1%93%E4%BA%BA%E5%93%A1-it-support-technician",
@@ -8660,117 +8561,6 @@
             "tags": [
                 "#Product Management",
                 "#English"
-            ]
-        },
-        {
-            "title": "测试工程师（北京）",
-            "employer": "蜻蜓FM",
-            "detailUrl": "https://mit.jobs/jobs/7965-%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%8C%97%E4%BA%AC",
-            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
-            "pay": "8,000 -16,000",
-            "paidBy": "CNY 每月",
-            "location": "Beijing, China",
-            "summary": "",
-            "tags": []
-        },
-        {
-            "title": "Node.js开发工程师（北京）",
-            "employer": "蜻蜓FM",
-            "detailUrl": "https://mit.jobs/jobs/7964-nodejs%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%8C%97%E4%BA%AC",
-            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
-            "pay": "20,000 -40,000",
-            "paidBy": "CNY 每月",
-            "location": "Beijing, China",
-            "summary": "",
-            "tags": []
-        },
-        {
-            "title": "后端开发工程师（北京）",
-            "employer": "蜻蜓FM",
-            "detailUrl": "https://mit.jobs/jobs/7963-%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%8C%97%E4%BA%AC",
-            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
-            "pay": "20,000 -40,000",
-            "paidBy": "CNY 每月",
-            "location": "Beijing, China",
-            "summary": "",
-            "tags": []
-        },
-        {
-            "title": "算法工程师（北京）",
-            "employer": "蜻蜓FM",
-            "detailUrl": "https://mit.jobs/jobs/7962-%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%8C%97%E4%BA%AC",
-            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
-            "pay": "30,000 -60,000",
-            "paidBy": "CNY 每月",
-            "location": "Beijing, China",
-            "summary": "",
-            "tags": []
-        },
-        {
-            "title": "算法专家（北京）",
-            "employer": "蜻蜓FM",
-            "detailUrl": "https://mit.jobs/jobs/7960-%E7%AE%97%E6%B3%95%E4%B8%93%E5%AE%B6%E5%8C%97%E4%BA%AC",
-            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
-            "pay": "30,000 -60,000",
-            "paidBy": "CNY 每月",
-            "location": "Beijing, China",
-            "summary": "",
-            "tags": []
-        },
-        {
-            "title": "GO-开发工程师（北京）",
-            "employer": "蜻蜓FM",
-            "detailUrl": "https://mit.jobs/jobs/7959-go-%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%8C%97%E4%BA%AC",
-            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
-            "pay": "20,000 -40,000",
-            "paidBy": "CNY 每月",
-            "location": "Beijing, China",
-            "summary": "",
-            "tags": []
-        },
-        {
-            "title": "大数据开发工程师（北京）",
-            "employer": "蜻蜓FM",
-            "detailUrl": "https://mit.jobs/jobs/7958-%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%8C%97%E4%BA%AC",
-            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
-            "pay": "25,000 -50,000",
-            "paidBy": "CNY 每月",
-            "location": "Beijing, China",
-            "summary": "",
-            "tags": [
-                "#Python",
-                "#Java",
-                "#scala"
-            ]
-        },
-        {
-            "title": "web前端工程师",
-            "employer": "蜻蜓FM",
-            "detailUrl": "https://mit.jobs/jobs/7957-web%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88",
-            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
-            "pay": "18,000 -36,000",
-            "paidBy": "CNY 每月",
-            "location": "Beijing, China",
-            "summary": " ",
-            "tags": [
-                "#HTML",
-                "#CSS",
-                "#JavaScript"
-            ]
-        },
-        {
-            "title": "ios工程师",
-            "employer": "蜻蜓FM",
-            "detailUrl": "https://mit.jobs/jobs/7956-ios%E5%B7%A5%E7%A8%8B%E5%B8%88",
-            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
-            "pay": "18,000 -36,000",
-            "paidBy": "CNY 每月",
-            "location": "Beijing, China",
-            "summary": "",
-            "tags": [
-                "#Swift",
-                "#ios",
-                "#OC"
             ]
         },
         {
@@ -15657,9 +15447,9 @@
             ]
         },
         {
-            "title": "PHP/Wordpress 軟體工程師",
+            "title": "PHP/MySQL/JS 軟體工程師",
             "employer": "TEEPR 亮新聞",
-            "detailUrl": "https://mit.jobs/jobs/10204-phpwordpress-%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB",
+            "detailUrl": "https://mit.jobs/jobs/10204-phpmysqljs-%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB",
             "employerDetailUrl": "https://teepr.mit.jobs/",
             "pay": "50,000 -100,000",
             "paidBy": "TWD 每月",
@@ -20032,48 +19822,6 @@
             "paidBy": "TWD 每月",
             "location": "Taiwan",
             "summary": "Develop ",
-            "tags": [
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "品牌商品企劃專員(US skincare branding product development specialist)",
-            "employer": "暉曄生技社股份有限公司",
-            "detailUrl": "https://mit.jobs/jobs/9651-%E5%93%81%E7%89%8C%E5%95%86%E5%93%81%E4%BC%81%E5%8A%83%E5%B0%88%E5%93%A1us-skincare-branding-product-development-specialist",
-            "employerDetailUrl": "https://tridl.mit.jobs/",
-            "pay": "30,000 -70,000",
-            "paidBy": "TWD 每月",
-            "location": "Taiwan",
-            "summary": "職務類別：產品管理師,產品企劃開發人員,廣告文案／企劃 \n工作經歷：1年以上\n學歷要求：大學以上\n產業類別：FMCG保養品製造業",
-            "tags": [
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "品牌行銷專員/資深行銷專員(branding marketing specialist/senior specialist)",
-            "employer": "暉曄生技社股份有限公司",
-            "detailUrl": "https://mit.jobs/jobs/9649-%E5%93%81%E7%89%8C%E8%A1%8C%E9%8A%B7%E5%B0%88%E5%93%A1%E8%B3%87%E6%B7%B1%E8%A1%8C%E9%8A%B7%E5%B0%88%E5%93%A1branding-marketing-specialistsenior-specialist",
-            "employerDetailUrl": "https://tridl.mit.jobs/",
-            "pay": "30,000 -70,000",
-            "paidBy": "TWD 每月",
-            "location": "Taiwan",
-            "summary": "職務類別：產行銷企劃人員、廣告文案／企劃、網站行銷企劃\n工作經歷：2年以上\n學歷要求：大學以上\n產業類別：FMCG保養品製造業",
-            "tags": [
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "資深商品開發人員(Sr. Product Development)_台北",
-            "employer": "暉曄生技社股份有限公司",
-            "detailUrl": "https://mit.jobs/jobs/9647-%E8%B3%87%E6%B7%B1%E5%95%86%E5%93%81%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1sr-product-development_%E5%8F%B0%E5%8C%97",
-            "employerDetailUrl": "https://tridl.mit.jobs/",
-            "pay": "30,000 -60,000",
-            "paidBy": "TWD 每月",
-            "location": "Taiwan",
-            "summary": "職務類別：產品企劃開發人員、行銷企劃人員\n工作經歷：2年以上\n學歷要求：專科以上\n產業類別：FMCG保養品製造業\n",
             "tags": [
                 "#English",
                 "#Chinese"
