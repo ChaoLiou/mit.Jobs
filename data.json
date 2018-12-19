@@ -1,6 +1,237 @@
 {
-    "updated": "Tue Dec 18 2018 12:58:49 GMT+0800 (台北標準時間)",
+    "updated": "Wed Dec 19 2018 12:44:57 GMT+0800 (台北標準時間)",
     "jobs": [
+        {
+            "title": "資深人資專員 (HR Specialist)",
+            "employer": "愛卡拉 iKala",
+            "detailUrl": "https://mit.jobs/jobs/10495-%E8%B3%87%E6%B7%B1%E4%BA%BA%E8%B3%87%E5%B0%88%E5%93%A1-hr-specialist",
+            "employerDetailUrl": "https://ikala.mit.jobs/",
+            "pay": "40,000+",
+            "paidBy": "TWD 每月",
+            "location": "Taipei City, Taiwan",
+            "summary": "愛卡拉是一間以 AI 為核心的行銷科技公司，我們致力於發展行銷技術產品，協助廣告主及企業主進行精準行銷投放。總部設於台灣，營運遍佈新加坡、台灣、日本、泰國、及越南。",
+            "tags": [
+                "#Human Resources",
+                "#Recruiting/Talent Acquisition/ HR Reporting",
+                "#HR",
+                "#English"
+            ]
+        },
+        {
+            "title": "資料工程師 (Data Engineer)",
+            "employer": "愛卡拉 iKala",
+            "detailUrl": "https://mit.jobs/jobs/10492-%E8%B3%87%E6%96%99%E5%B7%A5%E7%A8%8B%E5%B8%AB-data-engineer",
+            "employerDetailUrl": "https://ikala.mit.jobs/",
+            "pay": "65,000+",
+            "paidBy": "TWD 每月",
+            "location": "Taipei City, Taiwan",
+            "summary": "愛卡拉是一間以 AI 為核心的行銷科技公司，我們致力於發展行銷技術產品，協助廣告主及企業主進行精準行銷投放。總部設於台灣，營運遍佈新加坡、台灣、日本、泰國、及越南。",
+            "tags": [
+                "#NodeJS",
+                "#Software Development",
+                "#Golang",
+                "#Data Engineering",
+                "#English"
+            ]
+        },
+        {
+            "title": "整合行銷業務專員 (Sales Specialist)",
+            "employer": "愛卡拉 iKala",
+            "detailUrl": "https://mit.jobs/jobs/10493-%E6%95%B4%E5%90%88%E8%A1%8C%E9%8A%B7%E6%A5%AD%E5%8B%99%E5%B0%88%E5%93%A1-sales-specialist",
+            "employerDetailUrl": "https://ikala.mit.jobs/",
+            "pay": "25,000 -40,000",
+            "paidBy": "TWD 每月",
+            "location": "Taipei City, Taiwan",
+            "summary": "愛卡拉是一間以 AI 為核心的行銷科技公司，我們致力於發展行銷技術產品，協助廣告主及企業主進行精準行銷投放。總部設於台灣，營運遍佈新加坡、台灣、日本、泰國、及越南。",
+            "tags": []
+        },
+        {
+            "title": "資深影音串流前端工程師 (Senior Frontend Engineer)",
+            "employer": "愛卡拉 iKala",
+            "detailUrl": "https://mit.jobs/jobs/10494-%E8%B3%87%E6%B7%B1%E5%BD%B1%E9%9F%B3%E4%B8%B2%E6%B5%81%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB-senior-frontend-engineer",
+            "employerDetailUrl": "https://ikala.mit.jobs/",
+            "pay": "70,000+",
+            "paidBy": "TWD 每月",
+            "location": "Taipei City, Taiwan",
+            "summary": "\tiKala is an AI-driven marketing technology company. Headquartered in Taiwan and operating in Sin...",
+            "tags": [
+                "#React.js"
+            ]
+        },
+        {
+            "title": "資深軟體工程師 (Senior Software Engineer) (有 Node.js 經驗)",
+            "employer": "愛卡拉 iKala",
+            "detailUrl": "https://mit.jobs/jobs/10487-%E8%B3%87%E6%B7%B1%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB-senior-software-engineer-%E6%9C%89-nodejs-%E7%B6%93%E9%A9%97",
+            "employerDetailUrl": "https://ikala.mit.jobs/",
+            "pay": "70,000+",
+            "paidBy": "TWD 每月",
+            "location": "Taipei City, Taiwan",
+            "summary": "愛卡拉是一間以 AI 為核心的行銷科技公司，我們致力於發展行銷技術產品，協助廣告主及企業主進行精準行銷投放。總部設於台灣，營運遍佈新加坡、台灣、日本、泰國、及越南。\n\n旗下 KOL Rada...",
+            "tags": [
+                "#NodeJS",
+                "#English"
+            ]
+        },
+        {
+            "title": "資深社群電商產品經理 (Senior Product Manager)",
+            "employer": "愛卡拉 iKala",
+            "detailUrl": "https://mit.jobs/jobs/10488-%E8%B3%87%E6%B7%B1%E7%A4%BE%E7%BE%A4%E9%9B%BB%E5%95%86%E7%94%A2%E5%93%81%E7%B6%93%E7%90%86-senior-product-manager",
+            "employerDetailUrl": "https://ikala.mit.jobs/",
+            "pay": "65,000+",
+            "paidBy": "TWD 每月",
+            "location": "no office location",
+            "summary": "iKala is an AI-driven marketing technology company. Headquartered in Taiwan and operating in Sing...",
+            "tags": [
+                "#Product Management"
+            ]
+        },
+        {
+            "title": "雲端服務專案業務經理 (Cloud Service Project Sales Manager)",
+            "employer": "愛卡拉 iKala",
+            "detailUrl": "https://mit.jobs/jobs/10489-%E9%9B%B2%E7%AB%AF%E6%9C%8D%E5%8B%99%E5%B0%88%E6%A1%88%E6%A5%AD%E5%8B%99%E7%B6%93%E7%90%86-cloud-service-project-sales-manager",
+            "employerDetailUrl": "https://ikala.mit.jobs/",
+            "pay": "60,000+",
+            "paidBy": "TWD 每月",
+            "location": "Taipei City, Taiwan",
+            "summary": "愛卡拉是一間以 AI 為核心的行銷科技公司，我們致力於發展行銷技術產品，協助廣告主及企業主進行精準行銷投放。總部設於台灣，營運遍佈新加坡、台灣、日本、泰國、及越南。",
+            "tags": [
+                "#Business Development",
+                "#Sales and Marketing",
+                "#International Business",
+                "#English"
+            ]
+        },
+        {
+            "title": "機器學習工程師 (machine learning engineer)",
+            "employer": "愛卡拉 iKala",
+            "detailUrl": "https://mit.jobs/jobs/10490-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%B7%A5%E7%A8%8B%E5%B8%AB-machine-learning-engineer",
+            "employerDetailUrl": "https://ikala.mit.jobs/",
+            "pay": "70,000+",
+            "paidBy": "TWD 每月",
+            "location": "Taipei City, Taiwan",
+            "summary": "iKala is an AI-driven marketing technology company. Headquartered in Taiwan and operating in Sing...",
+            "tags": [
+                "#Python",
+                "#Machine Learning"
+            ]
+        },
+        {
+            "title": "資深廣告數據平台前端工程師 (Senior Frontend Engineer)",
+            "employer": "愛卡拉 iKala",
+            "detailUrl": "https://mit.jobs/jobs/10491-%E8%B3%87%E6%B7%B1%E5%BB%A3%E5%91%8A%E6%95%B8%E6%93%9A%E5%B9%B3%E5%8F%B0%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB-senior-frontend-engineer",
+            "employerDetailUrl": "https://ikala.mit.jobs/",
+            "pay": "70,000+",
+            "paidBy": "TWD 每月",
+            "location": "Taipei City, Taiwan",
+            "summary": "愛卡拉是一間以 AI 為核心的行銷科技公司，我們致力於發展行銷技術產品，協助廣告主及企業主進行精準行銷投放。總部設於台灣，營運遍佈新加坡、台灣、日本、泰國、及越南。",
+            "tags": [
+                "#Vue JS"
+            ]
+        },
+        {
+            "title": "广告数据分析（上海）",
+            "employer": "蜻蜓FM",
+            "detailUrl": "https://mit.jobs/jobs/10485-%E5%B9%BF%E5%91%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8A%E6%B5%B7",
+            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
+            "pay": "15,000 -25,000",
+            "paidBy": "CNY 每月",
+            "location": "Shanghai, China",
+            "summary": "",
+            "tags": []
+        },
+        {
+            "title": "算法工程师 （上海）",
+            "employer": "蜻蜓FM",
+            "detailUrl": "https://mit.jobs/jobs/10484-%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88-%E4%B8%8A%E6%B5%B7",
+            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
+            "pay": "20,000 -25,000",
+            "paidBy": "CNY 每月",
+            "location": "Shanghai, China",
+            "summary": "",
+            "tags": []
+        },
+        {
+            "title": "Go开发工程师 (上海)",
+            "employer": "蜻蜓FM",
+            "detailUrl": "https://mit.jobs/jobs/10486-go%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88-%E4%B8%8A%E6%B5%B7",
+            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
+            "pay": "20,000 -40,000",
+            "paidBy": "CNY 每月",
+            "location": "Shanghai, China",
+            "summary": "",
+            "tags": []
+        },
+        {
+            "title": "研发经理 （上海）",
+            "employer": "蜻蜓FM",
+            "detailUrl": "https://mit.jobs/jobs/10483-%E7%A0%94%E5%8F%91%E7%BB%8F%E7%90%86-%E4%B8%8A%E6%B5%B7",
+            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
+            "pay": "30,000 -45,000",
+            "paidBy": "CNY 每月",
+            "location": "Shanghai, China",
+            "summary": "",
+            "tags": []
+        },
+        {
+            "title": "算法专家（北京）",
+            "employer": "蜻蜓FM",
+            "detailUrl": "https://mit.jobs/jobs/10482-%E7%AE%97%E6%B3%95%E4%B8%93%E5%AE%B6%E5%8C%97%E4%BA%AC",
+            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
+            "pay": "30,000 -60,000",
+            "paidBy": "CNY 每月",
+            "location": "Beijing, China",
+            "summary": "",
+            "tags": []
+        },
+        {
+            "title": "推荐技术专家 （上海）",
+            "employer": "蜻蜓FM",
+            "detailUrl": "https://mit.jobs/jobs/10481-%E6%8E%A8%E8%8D%90%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6-%E4%B8%8A%E6%B5%B7",
+            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
+            "pay": "35,000 -60,000",
+            "paidBy": "CNY 每月",
+            "location": "Shanghai, China",
+            "summary": "",
+            "tags": []
+        },
+        {
+            "title": "大数据开发工程师",
+            "employer": "蜻蜓FM",
+            "detailUrl": "https://mit.jobs/jobs/10480-%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88",
+            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
+            "pay": "20,000 -40,000",
+            "paidBy": "CNY 每月",
+            "location": "Beijing, China",
+            "summary": "",
+            "tags": []
+        },
+        {
+            "title": "全栈开发工程师",
+            "employer": "蜻蜓FM",
+            "detailUrl": "https://mit.jobs/jobs/10479-%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88",
+            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
+            "pay": "20,000 -36,000",
+            "paidBy": "CNY 每月",
+            "location": "Beijing, China",
+            "summary": "",
+            "tags": [
+                "#JavaScript",
+                "#Python",
+                "#Ruby",
+                "#Go"
+            ]
+        },
+        {
+            "title": "GO-开发工程师（北京）",
+            "employer": "蜻蜓FM",
+            "detailUrl": "https://mit.jobs/jobs/10478-go-%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%8C%97%E4%BA%AC",
+            "employerDetailUrl": "https://qingtingfm.mit.jobs/",
+            "pay": "20,000 -40,000",
+            "paidBy": "CNY 每月",
+            "location": "Beijing, China",
+            "summary": "",
+            "tags": []
+        },
         {
             "title": "Sr. Python Engineer",
             "employer": "創順科技有限公司",
@@ -215,17 +446,6 @@
                 "#English",
                 "#Chinese"
             ]
-        },
-        {
-            "title": "TW.W-【企劃經理】（台北）",
-            "employer": "傲勝遊戲股份有限公司",
-            "detailUrl": "https://mit.jobs/jobs/10448-tww-%E4%BC%81%E5%8A%83%E7%B6%93%E7%90%86%E5%8F%B0%E5%8C%97",
-            "employerDetailUrl": "https://awesomegaming.mit.jobs/",
-            "pay": "60,000 -100,000",
-            "paidBy": "TWD 每月",
-            "location": "Taiwan",
-            "summary": "1. 需4年以上工作經驗 \n2.對於區塊鏈生態鏈有基本了解 \n3.對於博弈類遊戲平台有基本了解 \n4.需有軟體相關專案服務開發並上線之經驗 \n5.思考清晰，邏輯概念佳，細心、熱情、具責任...",
-            "tags": []
         },
         {
             "title": "TW.S-【PHP後端工程師】（台北）",
@@ -559,12 +779,8 @@
                 "#Linux",
                 "#Frontend Development",
                 "#Automation",
-                "#AI",
                 "#Docker",
-                "#Artificial Intelligence",
-                "#Cloud Computing",
                 "#Database Systems",
-                "#System design",
                 "#system architecture design",
                 "#Python frameworks",
                 "#Python + Django/Flask",
@@ -1400,32 +1616,6 @@
             ]
         },
         {
-            "title": "資深影音串流前端工程師 (Senior Frontend Engineer)",
-            "employer": "愛卡拉 iKala",
-            "detailUrl": "https://mit.jobs/jobs/10169-%E8%B3%87%E6%B7%B1%E5%BD%B1%E9%9F%B3%E4%B8%B2%E6%B5%81%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB-senior-frontend-engineer",
-            "employerDetailUrl": "https://ikala.mit.jobs/",
-            "pay": "70,000+",
-            "paidBy": "TWD 每月",
-            "location": "Taipei City, Taiwan",
-            "summary": "\tiKala is an AI-driven marketing technology company. Headquartered in Taiwan and operating in Sin...",
-            "tags": [
-                "#React.js"
-            ]
-        },
-        {
-            "title": "資深廣告數據平台前端工程師 (Senior Frontend Engineer)",
-            "employer": "愛卡拉 iKala",
-            "detailUrl": "https://mit.jobs/jobs/10168-%E8%B3%87%E6%B7%B1%E5%BB%A3%E5%91%8A%E6%95%B8%E6%93%9A%E5%B9%B3%E5%8F%B0%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB-senior-frontend-engineer",
-            "employerDetailUrl": "https://ikala.mit.jobs/",
-            "pay": "70,000+",
-            "paidBy": "TWD 每月",
-            "location": "Taipei City, Taiwan",
-            "summary": "愛卡拉是一間以 AI 為核心的行銷科技公司，我們致力於發展行銷技術產品，協助廣告主及企業主進行精準行銷投放。總部設於台灣，營運遍佈新加坡、台灣、日本、泰國、及越南。",
-            "tags": [
-                "#Vue JS"
-            ]
-        },
-        {
             "title": "eCommerce Product Manager",
             "employer": "UrbanFox Pte Ltd",
             "detailUrl": "https://mit.jobs/jobs/10125-ecommerce-product-manager",
@@ -1495,26 +1685,6 @@
             "summary": "",
             "tags": [
                 "#English"
-            ]
-        },
-        {
-            "title": "Influencer Marketing Executive",
-            "employer": "AnyMind Group",
-            "detailUrl": "https://mit.jobs/jobs/10122-influencer-marketing-executive",
-            "employerDetailUrl": "https://anymindgroup.mit.jobs/",
-            "pay": "35,000 -45,000",
-            "paidBy": "TWD 每月",
-            "location": "Taipei City, Taiwan",
-            "summary": "Be the part of the most popular Influencer Marketing, use AI technology to find most suitable KOL...",
-            "tags": [
-                "#Social Media Marketing",
-                "#Sales/Marketing and Strategic Partnerships",
-                "#Business Development & Partnerships",
-                "#KOL Management",
-                "#Influencers marketing",
-                "#blogger",
-                "#English",
-                "#mandarin"
             ]
         },
         {
@@ -1700,47 +1870,6 @@
             "location": "Taipei City, Taiwan",
             "summary": "我們在尋找對教育充滿熱忱的您，提供獨當一面的發展舞台\n把握好機會，自己創造豐收成果，馬上加入我們成為溫暖的推手！",
             "tags": []
-        },
-        {
-            "title": "整合行銷業務專員 (Sales Specialist)",
-            "employer": "愛卡拉 iKala",
-            "detailUrl": "https://mit.jobs/jobs/10101-%E6%95%B4%E5%90%88%E8%A1%8C%E9%8A%B7%E6%A5%AD%E5%8B%99%E5%B0%88%E5%93%A1-sales-specialist",
-            "employerDetailUrl": "https://ikala.mit.jobs/",
-            "pay": "25,000 -40,000",
-            "paidBy": "TWD 每月",
-            "location": "Taipei City, Taiwan",
-            "summary": "愛卡拉是一間以 AI 為核心的行銷科技公司，我們致力於發展行銷技術產品，協助廣告主及企業主進行精準行銷投放。總部設於台灣，營運遍佈新加坡、台灣、日本、泰國、及越南。",
-            "tags": []
-        },
-        {
-            "title": "機器學習工程師 (machine learning engineer)",
-            "employer": "愛卡拉 iKala",
-            "detailUrl": "https://mit.jobs/jobs/10094-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%B7%A5%E7%A8%8B%E5%B8%AB-machine-learning-engineer",
-            "employerDetailUrl": "https://ikala.mit.jobs/",
-            "pay": "70,000+",
-            "paidBy": "TWD 每月",
-            "location": "Taipei City, Taiwan",
-            "summary": "iKala is an AI-driven marketing technology company. Headquartered in Taiwan and operating in Sing...",
-            "tags": [
-                "#Python",
-                "#Machine Learning"
-            ]
-        },
-        {
-            "title": "雲端服務專案業務經理 (Cloud Service Project Sales Manager)",
-            "employer": "愛卡拉 iKala",
-            "detailUrl": "https://mit.jobs/jobs/10089-%E9%9B%B2%E7%AB%AF%E6%9C%8D%E5%8B%99%E5%B0%88%E6%A1%88%E6%A5%AD%E5%8B%99%E7%B6%93%E7%90%86-cloud-service-project-sales-manager",
-            "employerDetailUrl": "https://ikala.mit.jobs/",
-            "pay": "60,000+",
-            "paidBy": "TWD 每月",
-            "location": "Taipei City, Taiwan",
-            "summary": "愛卡拉是一間以 AI 為核心的行銷科技公司，我們致力於發展行銷技術產品，協助廣告主及企業主進行精準行銷投放。總部設於台灣，營運遍佈新加坡、台灣、日本、泰國、及越南。",
-            "tags": [
-                "#Business Development",
-                "#Sales and Marketing",
-                "#International Business",
-                "#English"
-            ]
         },
         {
             "title": "Senior 維運開發工程師(子公司職缺)",
@@ -2234,19 +2363,6 @@
             "location": "Taiwan",
             "summary": "1. 月薪資50k - 70k。只要你實力夠堅強，歡迎挑戰更高薪！ \n2. 產品市場資料分析，提出市場/用戶潛在需求，發展產品策略。 \n3. 具備3年以上生醫或電生理相關領域經驗優先考慮。",
             "tags": []
-        },
-        {
-            "title": "資深社群電商產品經理 (Senior Product Manager)",
-            "employer": "愛卡拉 iKala",
-            "detailUrl": "https://mit.jobs/jobs/9968-%E8%B3%87%E6%B7%B1%E7%A4%BE%E7%BE%A4%E9%9B%BB%E5%95%86%E7%94%A2%E5%93%81%E7%B6%93%E7%90%86-senior-product-manager",
-            "employerDetailUrl": "https://ikala.mit.jobs/",
-            "pay": "65,000+",
-            "paidBy": "TWD 每月",
-            "location": "no office location",
-            "summary": "iKala is an AI-driven marketing technology company. Headquartered in Taiwan and operating in Sing...",
-            "tags": [
-                "#Product Management"
-            ]
         },
         {
             "title": "資料庫工程師 DBA",
@@ -3425,19 +3541,6 @@
             ]
         },
         {
-            "title": "TW.W-【遊戲企劃】（台北）",
-            "employer": "傲勝遊戲股份有限公司",
-            "detailUrl": "https://mit.jobs/jobs/9650-tww-%E9%81%8A%E6%88%B2%E4%BC%81%E5%8A%83%E5%8F%B0%E5%8C%97",
-            "employerDetailUrl": "https://awesomegaming.mit.jobs/",
-            "pay": "45,000 -55,000",
-            "paidBy": "TWD 每月",
-            "location": "Taiwan",
-            "summary": "1. 2年以上遊戲行業相關經驗。 \n2. 擁有至少1款及以上從立項前期到上線後的開發經歷。 \n3. 擁有很強的團隊合作精神及自律能力。 \n4. 擁有企劃經歷和團隊管理經驗更佳。 \n5. ...",
-            "tags": [
-                "#English"
-            ]
-        },
-        {
             "title": "Accupass 活動通 新加坡業務拓展專員",
             "employer": "Accupass",
             "detailUrl": "https://mit.jobs/jobs/9638-accupass-%E6%B4%BB%E5%8B%95%E9%80%9A-%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%A5%AD%E5%8B%99%E6%8B%93%E5%B1%95%E5%B0%88%E5%93%A1",
@@ -3738,23 +3841,6 @@
             ]
         },
         {
-            "title": "資料工程師 (Data Engineer)",
-            "employer": "愛卡拉 iKala",
-            "detailUrl": "https://mit.jobs/jobs/9614-%E8%B3%87%E6%96%99%E5%B7%A5%E7%A8%8B%E5%B8%AB-data-engineer",
-            "employerDetailUrl": "https://ikala.mit.jobs/",
-            "pay": "65,000+",
-            "paidBy": "TWD 每月",
-            "location": "Taipei City, Taiwan",
-            "summary": "愛卡拉是一間以 AI 為核心的行銷科技公司，我們致力於發展行銷技術產品，協助廣告主及企業主進行精準行銷投放。總部設於台灣，營運遍佈新加坡、台灣、日本、泰國、及越南。",
-            "tags": [
-                "#NodeJS",
-                "#Software Development",
-                "#Golang",
-                "#Data Engineering",
-                "#English"
-            ]
-        },
-        {
             "title": "【B2C】Senior Front-End Engineer 資深前端工程師",
             "employer": "索夫特科技有限公司",
             "detailUrl": "https://mit.jobs/jobs/9531-b2csenior-front-end-engineer-%E8%B3%87%E6%B7%B1%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB",
@@ -3984,12 +4070,8 @@
                 "#JavaScript",
                 "#SQL",
                 "#Backend Development",
-                "#Software Testing",
-                "#Node.js",
-                "#Image Processing",
                 "#Web Integration & APIs",
                 "#C#.NET",
-                "#Recognition",
                 "#Back End Engineer",
                 "#back-end engineering"
             ]
@@ -4113,11 +4195,7 @@
                 "#jQuery",
                 "#Ajax",
                 "#Frontend Development",
-                "#React.js",
-                "#Angular.JS",
                 "#javascript/html/css",
-                "#HTML5 & CSS3",
-                "#Image Processing",
                 "#Vue.js",
                 "#Web Integration & APIs",
                 "#Front-end Engineering",
@@ -4141,7 +4219,6 @@
                 "#C/C++",
                 "#recognition algorithm",
                 "#Tensorflow",
-                "#C#.NET",
                 "#Paddle",
                 "#Caffe",
                 "#CNTK",
@@ -4584,20 +4661,6 @@
             ]
         },
         {
-            "title": "資深軟體工程師 (Senior Software Engineer) (有 Node.js 經驗)",
-            "employer": "愛卡拉 iKala",
-            "detailUrl": "https://mit.jobs/jobs/9426-%E8%B3%87%E6%B7%B1%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB-senior-software-engineer-%E6%9C%89-nodejs-%E7%B6%93%E9%A9%97",
-            "employerDetailUrl": "https://ikala.mit.jobs/",
-            "pay": "70,000+",
-            "paidBy": "TWD 每月",
-            "location": "Taipei City, Taiwan",
-            "summary": "愛卡拉是一間以 AI 為核心的行銷科技公司，我們致力於發展行銷技術產品，協助廣告主及企業主進行精準行銷投放。總部設於台灣，營運遍佈新加坡、台灣、日本、泰國、及越南。\n\n旗下 KOL Rada...",
-            "tags": [
-                "#NodeJS",
-                "#English"
-            ]
-        },
-        {
             "title": "Business Developer",
             "employer": "Outerboro",
             "detailUrl": "https://mit.jobs/jobs/9423-business-developer",
@@ -4781,9 +4844,9 @@
             ]
         },
         {
-            "title": "Sr. Front-End Developer 資深前端工程師",
+            "title": "Sr. Front-End Developer 資深前端工程師 (Javascript, RWD)",
             "employer": "兆洋資訊股份有限公司",
-            "detailUrl": "https://mit.jobs/jobs/9391-sr-front-end-developer-%E8%B3%87%E6%B7%B1%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB",
+            "detailUrl": "https://mit.jobs/jobs/9391-sr-front-end-developer-%E8%B3%87%E6%B7%B1%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB-javascript-rwd",
             "employerDetailUrl": "https://pacsoft.mit.jobs/",
             "pay": "60,000 -90,000",
             "paidBy": "TWD 每月",
@@ -4797,9 +4860,9 @@
             ]
         },
         {
-            "title": "Front-End Developer / 前端工程師",
+            "title": "Front-End Website Designer (Javascript) 前端工程師",
             "employer": "兆洋資訊股份有限公司",
-            "detailUrl": "https://mit.jobs/jobs/9361-front-end-developer-%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB",
+            "detailUrl": "https://mit.jobs/jobs/9361-front-end-website-designer-javascript-%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB",
             "employerDetailUrl": "https://pacsoft.mit.jobs/",
             "pay": "40,000 -65,000",
             "paidBy": "TWD 每月",
@@ -5923,17 +5986,6 @@
             ]
         },
         {
-            "title": "Search Engine Engineer (Solr)",
-            "employer": "Infocast",
-            "detailUrl": "https://mit.jobs/jobs/8961-search-engine-engineer-solr",
-            "employerDetailUrl": "https://infocast.mit.jobs/",
-            "pay": "60,000+",
-            "paidBy": "TWD 每年",
-            "location": "Taiwan",
-            "summary": "As a search engine & data processing engineer, you will be working on developing, maintaining, te...",
-            "tags": []
-        },
-        {
             "title": "Director of Business Development",
             "employer": "Infocast",
             "detailUrl": "https://mit.jobs/jobs/9070-director-of-business-development",
@@ -6120,86 +6172,6 @@
             "location": "New Taipei, Taiwan",
             "summary": "- Support existing CI/CD flow & functions and optimize it. \n- Manage service availability and sc...",
             "tags": []
-        },
-        {
-            "title": "TW.W-【後端工程師】（台北）",
-            "employer": "傲勝遊戲股份有限公司",
-            "detailUrl": "https://mit.jobs/jobs/9078-tww-%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB%E5%8F%B0%E5%8C%97",
-            "employerDetailUrl": "https://awesomegaming.mit.jobs/",
-            "pay": "60,000 -100,000",
-            "paidBy": "TWD 每月",
-            "location": "Taiwan",
-            "summary": "1. 兩年以上相關工作經驗\n2. 熟練掌握 Node js、Restuful、gRPC\n3. 熟練掌握 No SQL、My SQL 等資料庫設計\n4. 了解區塊鏈運作方式\n5. 有良好的...",
-            "tags": [
-                "#Git",
-                "#MySQL",
-                "#API",
-                "#NoSQL",
-                "#Node.js",
-                "#Blockchain",
-                "#CI/CD"
-            ]
-        },
-        {
-            "title": "TW.W-【區塊鏈工程師】（台北）",
-            "employer": "傲勝遊戲股份有限公司",
-            "detailUrl": "https://mit.jobs/jobs/9077-tww-%E5%8D%80%E5%A1%8A%E9%8F%88%E5%B7%A5%E7%A8%8B%E5%B8%AB%E5%8F%B0%E5%8C%97",
-            "employerDetailUrl": "https://awesomegaming.mit.jobs/",
-            "pay": "60,000 -100,000",
-            "paidBy": "TWD 每月",
-            "location": "Taiwan",
-            "summary": "1. 兩年以上程式開發經驗\n2. 熟練掌握 GO、Node js、C++、WASM、Web3、Restuful、gRPC\n3. 熟練掌握 No SQL、My SQL 等資料庫設計\n4. 理...",
-            "tags": [
-                "#Git",
-                "#MySQL",
-                "#NoSQL",
-                "#Blockchain",
-                "#Golang",
-                "#CI/CD",
-                "#Wab3"
-            ]
-        },
-        {
-            "title": "TW.W-【網頁平台工程師】（台北）",
-            "employer": "傲勝遊戲股份有限公司",
-            "detailUrl": "https://mit.jobs/jobs/9076-tww-%E7%B6%B2%E9%A0%81%E5%B9%B3%E5%8F%B0%E5%B7%A5%E7%A8%8B%E5%B8%AB%E5%8F%B0%E5%8C%97",
-            "employerDetailUrl": "https://awesomegaming.mit.jobs/",
-            "pay": "40,000 -80,000",
-            "paidBy": "TWD 每月",
-            "location": "Taiwan",
-            "summary": "1. 兩年以上相關工作經驗\n2. 熟練掌握HTML、CSS3、SCSS、JavaScript、Webpack、Vue2+、Restuful\n3. 有良好的程式設計習慣和編碼風格 \n4. 扎...",
-            "tags": [
-                "#Git",
-                "#HTML",
-                "#CSS",
-                "#JavaScript",
-                "#WEB",
-                "#CSS3",
-                "#Blockchain",
-                "#Webpack",
-                "#CI/CD",
-                "#Vue2+"
-            ]
-        },
-        {
-            "title": "TW.W-【網頁遊戲工程師】（台北）",
-            "employer": "傲勝遊戲股份有限公司",
-            "detailUrl": "https://mit.jobs/jobs/9075-tww-%E7%B6%B2%E9%A0%81%E9%81%8A%E6%88%B2%E5%B7%A5%E7%A8%8B%E5%B8%AB%E5%8F%B0%E5%8C%97",
-            "employerDetailUrl": "https://awesomegaming.mit.jobs/",
-            "pay": "45,000 -80,000",
-            "paidBy": "TWD 每月",
-            "location": "no office location",
-            "summary": "1. 兩年以上相關工作經驗\n2. 熟練掌握HTML、CSS、JavaScript、Restuful、COCOS 2D\n3. 有良好的程式設計習慣和編碼風格 \n4. 扎實的電腦理論和網路知識...",
-            "tags": [
-                "#Git",
-                "#HTML",
-                "#CSS",
-                "#JavaScript",
-                "#WEB",
-                "#Blockchain",
-                "#CI/CD",
-                "#cocos2d"
-            ]
         },
         {
             "title": "Head of Sales",
@@ -9662,24 +9634,6 @@
             ]
         },
         {
-            "title": "TW.W-【iOS工程師】（台北）",
-            "employer": "傲勝遊戲股份有限公司",
-            "detailUrl": "https://mit.jobs/jobs/7249-tww-ios%E5%B7%A5%E7%A8%8B%E5%B8%AB%E5%8F%B0%E5%8C%97",
-            "employerDetailUrl": "https://awesomegaming.mit.jobs/",
-            "pay": "40,000 -60,000",
-            "paidBy": "TWD 每月",
-            "location": "Taiwan",
-            "summary": "1.\t2年以上 iOS 開發經驗\n2.\t熟練掌握Swift、Object-C(加分)\n3.\t有良好的程式設計習慣和編碼風格 \n4.\t熟悉 Git 版本測試工具\n5.\t熟悉 CI/CD 工...",
-            "tags": [
-                "#Objective C",
-                "#Swift",
-                "#ios",
-                "#Blockchain",
-                "#CI/CD",
-                "#app"
-            ]
-        },
-        {
             "title": "Field Engineer",
             "employer": "Lucent Sky",
             "detailUrl": "https://mit.jobs/jobs/7231-field-engineer",
@@ -12827,6 +12781,24 @@
                 "#autocad",
                 "#CAD",
                 "#mandarin"
+            ]
+        },
+        {
+            "title": "[跨境電商] 前端工程師 Front-End Developer",
+            "employer": "PrimePlus 美商恆昌盛電子商務有限公司台灣分公司",
+            "detailUrl": "https://mit.jobs/jobs/10477-%E8%B7%A8%E5%A2%83%E9%9B%BB%E5%95%86-%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB-front-end-developer",
+            "employerDetailUrl": "https://primeplus.mit.jobs/",
+            "pay": "450,000 -1,200,000",
+            "paidBy": "TWD 每年",
+            "location": "Taipei City, Taiwan",
+            "summary": "【跨境電商】前端工程師招募中！\n實作專案為：\n1) 產品銷售數據管理後台\n2) 官方網站功能擴充\n3) Product Landing Page等方向/項目\n4) 平台功能開發\n\n...",
+            "tags": [
+                "#HTML",
+                "#CSS",
+                "#JavaScript",
+                "#jQuery",
+                "#Node.js",
+                "#English"
             ]
         },
         {
