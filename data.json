@@ -1,5 +1,5 @@
 {
-    "updated": "Sat Dec 22 2018 15:51:28 GMT+0800 (台北標準時間)",
+    "updated": "Mon Dec 24 2018 13:49:32 GMT+0800 (台北標準時間)",
     "jobs": [
         {
             "title": "Site Reliability Engineer (AIM BA) (8481)",
@@ -8133,7 +8133,7 @@
             "detailUrl": "https://mit.jobs/jobs/8153-data-scientist",
             "employerDetailUrl": "https://shopee.mit.jobs/",
             "pay": "4,000 -8,000",
-            "paidBy": "USD 每月",
+            "paidBy": "SGD 每月",
             "location": "Singapore",
             "summary": "",
             "tags": []
@@ -12628,6 +12628,177 @@
             ]
         },
         {
+            "title": "React Developer",
+            "employer": "Pytheas",
+            "detailUrl": "https://mit.jobs/jobs/10535-react-developer",
+            "pay": "3,500 -6,500",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#JavaScript",
+                "#React.js",
+                "#UI/UX Design",
+                "#Mobile User Experience"
+            ]
+        },
+        {
+            "title": "Backend Developer",
+            "employer": "MediLOT Technologies",
+            "detailUrl": "https://mit.jobs/jobs/10534-backend-developer",
+            "pay": "4,000 -6,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Java",
+                "#C/C++",
+                "#Javascript Frameworks"
+            ]
+        },
+        {
+            "title": "Full-Stack Developers",
+            "employer": "Zilliqa",
+            "detailUrl": "https://mit.jobs/jobs/10533-full-stack-developers",
+            "pay": "4,000 -8,000",
+            "paidBy": "SGD 每年",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#MySQL",
+                "#HTML",
+                "#Linux",
+                "#JavaScript",
+                "#Python",
+                "#MongoDB",
+                "#jQuery",
+                "#AngularJS",
+                "#React.js",
+                "#bootstrap",
+                "#NoSQL",
+                "#Node.js",
+                "#HTML5 & CSS3",
+                "#angular",
+                "#HTML+CSS",
+                "#Javascript Frameworks",
+                "#jQuery Mobile"
+            ]
+        },
+        {
+            "title": "Software Engineer (Backend)",
+            "employer": "Toki.Games",
+            "detailUrl": "https://mit.jobs/jobs/10532-software-engineer-backend",
+            "pay": "3,000 -4,200",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Java",
+                "#spring",
+                "#agile",
+                "#Amazon Web Services (AWS)",
+                "#maven"
+            ]
+        },
+        {
+            "title": "Sr. PHP Developer",
+            "employer": "ABSS",
+            "detailUrl": "https://mit.jobs/jobs/10531-sr-php-developer",
+            "pay": "4,500 -6,000",
+            "paidBy": "MYR 每月",
+            "location": "Kuala Lumpur, Malaysia",
+            "summary": "",
+            "tags": [
+                "#PHP",
+                "#AngularJS",
+                "#Agile Software Development"
+            ]
+        },
+        {
+            "title": "DevOps Engineer",
+            "employer": "ABSS",
+            "detailUrl": "https://mit.jobs/jobs/10530-devops-engineer",
+            "pay": "6,500 -9,000",
+            "paidBy": "MYR 每月",
+            "location": "Kuala Lumpur, Malaysia",
+            "summary": "",
+            "tags": [
+                "#PHP",
+                "#Web applications",
+                "#Agile Software Development"
+            ]
+        },
+        {
+            "title": "Backend Developer",
+            "employer": "FLEXIROAM",
+            "detailUrl": "https://mit.jobs/jobs/10529-backend-developer",
+            "pay": "3,500 -7,000",
+            "paidBy": "MYR 每月",
+            "location": "Petaling Jaya, Malaysia",
+            "summary": "",
+            "tags": [
+                "#PHP",
+                "#MySQL",
+                "#JavaScript",
+                "#Node.js",
+                "#HTML5 & CSS3",
+                "#Laravel",
+                "#Amazon Web Services (AWS)",
+                "#Codeigniter"
+            ]
+        },
+        {
+            "title": "Backend Developer",
+            "employer": "FLEXIROAM",
+            "detailUrl": "https://mit.jobs/jobs/10528-backend-developer",
+            "pay": "3,500 -7,000",
+            "paidBy": "MYR 每月",
+            "location": "Petaling Jaya, Malaysia",
+            "summary": "",
+            "tags": [
+                "#PHP",
+                "#MySQL",
+                "#JavaScript",
+                "#Node.js",
+                "#HTML5 & CSS3",
+                "#Laravel",
+                "#Amazon Web Services (AWS)",
+                "#Codeigniter"
+            ]
+        },
+        {
+            "title": "BI Developer / Data Scientist",
+            "employer": "Involve Asia Technologies Sdn Bhd",
+            "detailUrl": "https://mit.jobs/jobs/10527-bi-developer-data-scientist",
+            "pay": "3,000 -8,000",
+            "paidBy": "MYR 每月",
+            "location": "Kuala Lumpur, Malaysia",
+            "summary": "",
+            "tags": [
+                "#PHP",
+                "#MySQL",
+                "#JavaScript",
+                "#Python",
+                "#Java",
+                "#Product Management",
+                "#HTML5 & CSS3"
+            ]
+        },
+        {
+            "title": "Digital Marketing Analyst",
+            "employer": "Hitchbird",
+            "detailUrl": "https://mit.jobs/jobs/10526-digital-marketing-analyst",
+            "pay": "4,000 -5,000",
+            "paidBy": "MYR 每月",
+            "location": "Kuala Lumpur, Malaysia",
+            "summary": "",
+            "tags": [
+                "#Digital Marketing",
+                "#Business Development & Partnerships",
+                "#Sales & Marketing"
+            ]
+        },
+        {
             "title": "驻点马尼拉、薪优福利完整-人资/营销/客服/助理",
             "employer": "捷師管理顧問有限公司",
             "detailUrl": "https://mit.jobs/jobs/10525-%E9%A9%BB%E7%82%B9%E9%A9%AC%E5%B0%BC%E6%8B%89%E8%96%AA%E4%BC%98%E7%A6%8F%E5%88%A9%E5%AE%8C%E6%95%B4-%E4%BA%BA%E8%B5%84%E8%90%A5%E9%94%80%E5%AE%A2%E6%9C%8D%E5%8A%A9%E7%90%86",
@@ -12917,24 +13088,6 @@
                 "#netsuite",
                 "#English",
                 "#mandarin"
-            ]
-        },
-        {
-            "title": "[跨境電商] 前端工程師 Front-End Developer",
-            "employer": "PrimePlus 美商恆昌盛電子商務有限公司台灣分公司",
-            "detailUrl": "https://mit.jobs/jobs/10477-%E8%B7%A8%E5%A2%83%E9%9B%BB%E5%95%86-%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB-front-end-developer",
-            "employerDetailUrl": "https://primeplus.mit.jobs/",
-            "pay": "450,000 -1,200,000",
-            "paidBy": "TWD 每年",
-            "location": "Taipei City, Taiwan",
-            "summary": "【跨境電商】前端工程師招募中！\n實作專案為：\n1) 產品銷售數據管理後台\n2) 官方網站功能擴充\n3) Product Landing Page等方向/項目\n4) 平台功能開發\n\n...",
-            "tags": [
-                "#HTML",
-                "#CSS",
-                "#JavaScript",
-                "#jQuery",
-                "#Node.js",
-                "#English"
             ]
         },
         {
@@ -18608,24 +18761,6 @@
                 "#scala",
                 "#Spark",
                 "#Statistics analysis"
-            ]
-        },
-        {
-            "title": "2019 前端工程師 - Spring 2019 Recruitment Program _Front-end Developer",
-            "employer": "PrimePlus 美商恆昌盛電子商務有限公司台灣分公司",
-            "detailUrl": "https://mit.jobs/jobs/9834-2019-%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB-spring-2019-recruitment-program-_front-end-developer",
-            "employerDetailUrl": "https://primeplus.mit.jobs/",
-            "pay": "450,000 -1,200,000",
-            "paidBy": "TWD 每年",
-            "location": "Taipei City, Taiwan",
-            "summary": "【跨境電商】2019 前端工程師招募中！\n實作專案為：產品銷售數據管理後台、官方網站功能擴充、Product Landing Page等方向/項目\n因業務擴編、進而儲備工程團隊。\n尋找應屆...",
-            "tags": [
-                "#HTML",
-                "#CSS",
-                "#JavaScript",
-                "#jQuery",
-                "#Node.js",
-                "#English"
             ]
         },
         {
