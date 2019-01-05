@@ -1,6 +1,641 @@
 {
-    "updated": "Mon Dec 24 2018 13:49:32 GMT+0800 (台北標準時間)",
+    "updated": "Sat Jan 05 2019 17:04:05 GMT+0800 (台北標準時間)",
     "jobs": [
+        {
+            "title": "Head of Software Development / 軟體總工程師",
+            "employer": "FooSpace Co.",
+            "detailUrl": "https://mit.jobs/jobs/10650-head-of-software-development-%E8%BB%9F%E9%AB%94%E7%B8%BD%E5%B7%A5%E7%A8%8B%E5%B8%AB",
+            "employerDetailUrl": "https://foospace.mit.jobs/",
+            "pay": "800,000 -1,200,000",
+            "paidBy": "TWD 每年",
+            "location": "Taiwan",
+            "summary": "FooSpace致力於發展新零售無人商店。結合無人零售、人工智慧及全通路體驗，我們以提供最令人滿意的消費體驗為目標，運用創新科技為零售及廣告市場帶來下一個顛覆。\n\nWe are lookin...",
+            "tags": [
+                "#Android",
+                "#Backend Development",
+                "#Node.js",
+                "#Database Systems",
+                "#Cloud Architecture"
+            ]
+        },
+        {
+            "title": "Head of Data / 數據總工程師",
+            "employer": "FooSpace Co.",
+            "detailUrl": "https://mit.jobs/jobs/10649-head-of-data-%E6%95%B8%E6%93%9A%E7%B8%BD%E5%B7%A5%E7%A8%8B%E5%B8%AB",
+            "employerDetailUrl": "https://foospace.mit.jobs/",
+            "pay": "800,000 -1,200,000",
+            "paidBy": "TWD 每年",
+            "location": "Taiwan",
+            "summary": "FooSpace致力於發展新零售無人商店。結合無人零售、人工智慧及全通路體驗，我們以提供最令人滿意的消費體驗為目標，運用創新科技為零售及廣告市場帶來下一個顛覆。\n\nWe are lookin...",
+            "tags": [
+                "#Python",
+                "#R",
+                "#Machine Learning",
+                "#Data Science",
+                "#Database Systems"
+            ]
+        },
+        {
+            "title": "Customer Service Specialist 線上文字客服專員",
+            "employer": "帥哥科技有限公司",
+            "detailUrl": "https://mit.jobs/jobs/10648-customer-service-specialist-%E7%B7%9A%E4%B8%8A%E6%96%87%E5%AD%97%E5%AE%A2%E6%9C%8D%E5%B0%88%E5%93%A1",
+            "employerDetailUrl": "https://swag.mit.jobs/",
+            "pay": "30,000 -35,000",
+            "paidBy": "TWD 每月",
+            "location": "Taiwan",
+            "summary": "這份工作需要無比的耐心與熱忱，負責解決用戶的使用問題，並給予解答與安撫；除此之外，也須協助審核app內容是否符合規範。如果你喜歡解決問題，又對於工作處理有無比的細心與耐心，歡迎您加入我們～",
+            "tags": [
+                "#線上客服",
+                "#文字客服",
+                "#English",
+                "#Japanese",
+                "#Chinese"
+            ]
+        },
+        {
+            "title": "技術長/CTO",
+            "employer": "悠達天下股份有限公司",
+            "detailUrl": "https://mit.jobs/jobs/10647-%E6%8A%80%E8%A1%93%E9%95%B7cto",
+            "employerDetailUrl": "https://yotta.mit.jobs/",
+            "pay": "1,680,000 -2,100,000",
+            "paidBy": "TWD 每年",
+            "location": "Taipei City, Taiwan",
+            "summary": "1. 對 Web 開發具高度熱忱，有寬廣的技術視野，能給團隊引入合適的技術，並協助開發團隊完成開發任務，具有較強的技術影響力。 \n2. 協助夥伴夥伴建立良好的溝通 \n3. 與團隊協同作業以 ...",
+            "tags": [
+                "#PHP",
+                "#Git",
+                "#MySQL",
+                "#HTML",
+                "#Linux",
+                "#CSS",
+                "#JavaScript"
+            ]
+        },
+        {
+            "title": "Robot Software Engineer",
+            "employer": "MOVEL AI",
+            "detailUrl": "https://mit.jobs/jobs/10645-robot-software-engineer",
+            "employerDetailUrl": "https://movelai.mit.jobs/",
+            "pay": "5,000 -8,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "The Software engineer has broad and up-to-date knowledge in robot and sensors technology. He/she ...",
+            "tags": [
+                "#English",
+                "#Chinese"
+            ]
+        },
+        {
+            "title": "後端工程師（Back-end Engineer)",
+            "employer": "iStaging Corp. 開曼群島商愛實境股份有限台灣分公司",
+            "detailUrl": "https://mit.jobs/jobs/10618-%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%ABback-end-engineer",
+            "employerDetailUrl": "https://istaging.mit.jobs/",
+            "pay": "55,000 -79,999",
+            "paidBy": "TWD 每月",
+            "location": "no office location",
+            "summary": "- Develop bots, rest APIs and data pipelines using Node.js, while leveraging cloud platforms\n- D...",
+            "tags": [
+                "#JavaScript",
+                "#NodeJS",
+                "#Docker (Kubernetes)",
+                "#English",
+                "#Chinese"
+            ]
+        },
+        {
+            "title": "雲端服務解決方案工程師 (Solution Engineer)",
+            "employer": "愛卡拉 iKala",
+            "detailUrl": "https://mit.jobs/jobs/10617-%E9%9B%B2%E7%AB%AF%E6%9C%8D%E5%8B%99%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88%E5%B7%A5%E7%A8%8B%E5%B8%AB-solution-engineer",
+            "employerDetailUrl": "https://ikala.mit.jobs/",
+            "pay": "65,000 -80,000",
+            "paidBy": "TWD 每月",
+            "location": "Taipei City, Taiwan",
+            "summary": "\t愛卡拉是一間以 AI 為核心的行銷科技公司，我們致力於發展行銷技術產品，協助廣告主及企業主進行精準行銷投放。總部設於台灣，營運遍佈新加坡、台灣、日本、泰國、及越南。\n",
+            "tags": []
+        },
+        {
+            "title": "網站可靠性工程師 (Site Reliability Engineer, SRE)",
+            "employer": "愛卡拉 iKala",
+            "detailUrl": "https://mit.jobs/jobs/10616-%E7%B6%B2%E7%AB%99%E5%8F%AF%E9%9D%A0%E6%80%A7%E5%B7%A5%E7%A8%8B%E5%B8%AB-site-reliability-engineer-sre",
+            "employerDetailUrl": "https://ikala.mit.jobs/",
+            "pay": "65,000 -100,000",
+            "paidBy": "TWD 每月",
+            "location": "Taipei City, Taiwan",
+            "summary": "iKala is an AI-driven marketing technology company. Headquartered in Taiwan and operating in Sing...",
+            "tags": [
+                "#Linux",
+                "#Unix"
+            ]
+        },
+        {
+            "title": "Community Manager",
+            "employer": "Codementor",
+            "detailUrl": "https://mit.jobs/jobs/10612-community-manager",
+            "employerDetailUrl": "https://codementor.mit.jobs/",
+            "pay": "40,000 -80,000",
+            "paidBy": "TWD 每月",
+            "location": "Taipei, Taiwan",
+            "summary": "CodementorX (https://hire.codementor.io) is the top 2% of Codementor's network of expert develope...",
+            "tags": [
+                "#Excellent verbal and written communication skills",
+                "#English"
+            ]
+        },
+        {
+            "title": "Technical Recruiter",
+            "employer": "Codementor",
+            "detailUrl": "https://mit.jobs/jobs/10611-technical-recruiter",
+            "employerDetailUrl": "https://codementor.mit.jobs/",
+            "pay": "40,000 -80,000",
+            "paidBy": "TWD 每月",
+            "location": "Taipei, Taiwan",
+            "summary": "CodementorX (https://hire.codementor.io) is the top 2% of Codementor's network of expert develope...",
+            "tags": [
+                "#Excellent verbal and written communication skills",
+                "#English"
+            ]
+        },
+        {
+            "title": "Imagineer, UI designer (UI/UX Design Team)",
+            "employer": "Migo 熱鬧點科技有限公司",
+            "detailUrl": "https://mit.jobs/jobs/10604-imagineer-ui-designer-uiux-design-team",
+            "employerDetailUrl": "https://migo.mit.jobs/",
+            "pay": "38,000 -90,000",
+            "paidBy": "TWD 每月",
+            "location": "Taipei City, Taiwan",
+            "summary": "At Migo, you will be responsible for designing, building and delivering experiences to millions o...",
+            "tags": [
+                "#UI/UX",
+                "#English",
+                "#Chinese"
+            ]
+        },
+        {
+            "title": "技術主管",
+            "employer": "創順科技有限公司",
+            "detailUrl": "https://mit.jobs/jobs/10603-%E6%8A%80%E8%A1%93%E4%B8%BB%E7%AE%A1",
+            "employerDetailUrl": "https://unnotech.mit.jobs/",
+            "pay": "130,000+",
+            "paidBy": "TWD 每月",
+            "location": "台北市, Taiwan",
+            "summary": "人生苦短，我用 Python。\n",
+            "tags": [
+                "#WEB",
+                "#DevOps",
+                "#python/django",
+                "#Docker",
+                "#k8s",
+                "#English",
+                "#Chinese"
+            ]
+        },
+        {
+            "title": "Sr. Python Engineer",
+            "employer": "創順科技有限公司",
+            "detailUrl": "https://mit.jobs/jobs/10602-sr-python-engineer",
+            "employerDetailUrl": "https://unnotech.mit.jobs/",
+            "pay": "80,000 -120,000",
+            "paidBy": "TWD 每月",
+            "location": "台北市, Taiwan",
+            "summary": "",
+            "tags": [
+                "#python/django",
+                "#Web Development",
+                "#Django/Flask",
+                "#Google Cloud Platform",
+                "#Python frameworks",
+                "#AZURE",
+                "#Python + Django/Flask",
+                "#English",
+                "#Chinese"
+            ]
+        },
+        {
+            "title": "React Native Engineer",
+            "employer": "創順科技有限公司",
+            "detailUrl": "https://mit.jobs/jobs/10601-react-native-engineer",
+            "employerDetailUrl": "https://unnotech.mit.jobs/",
+            "pay": "50,000 -80,000",
+            "paidBy": "TWD 每月",
+            "location": "台北市, Taiwan",
+            "summary": "",
+            "tags": [
+                "#JavaScript",
+                "#iOS Development",
+                "#ReactNative",
+                "#English",
+                "#Chinese"
+            ]
+        },
+        {
+            "title": "Sr. Front-end Engineer",
+            "employer": "創順科技有限公司",
+            "detailUrl": "https://mit.jobs/jobs/10600-sr-front-end-engineer",
+            "employerDetailUrl": "https://unnotech.mit.jobs/",
+            "pay": "80,000 -120,000",
+            "paidBy": "TWD 每月",
+            "location": "台北市, Taiwan",
+            "summary": "此職務為資深職缺，希望您有多年前端經驗，熟悉 Vue，應徵請附上詳細履歷及作品。",
+            "tags": [
+                "#HTML",
+                "#CSS",
+                "#JavaScript",
+                "#Vue.js",
+                "#English",
+                "#Chinese"
+            ]
+        },
+        {
+            "title": "資深人事行政主管（工作地點：馬尼拉）",
+            "employer": "創順科技有限公司",
+            "detailUrl": "https://mit.jobs/jobs/10599-%E8%B3%87%E6%B7%B1%E4%BA%BA%E4%BA%8B%E8%A1%8C%E6%94%BF%E4%B8%BB%E7%AE%A1%E5%B7%A5%E4%BD%9C%E5%9C%B0%E9%BB%9E%E9%A6%AC%E5%B0%BC%E6%8B%89",
+            "employerDetailUrl": "https://unnotech.mit.jobs/",
+            "pay": "150,000 -200,000",
+            "paidBy": "TWD 每月",
+            "location": "no office location",
+            "summary": "-- 此職務為委派招募，工作地馬尼拉，相關福利制度以對方公司為主 --",
+            "tags": [
+                "#Recruiting",
+                "#Human Resources",
+                "#Payroll",
+                "#Performance",
+                "#English"
+            ]
+        },
+        {
+            "title": "Software Engineer in Test 軟體測試工程師",
+            "employer": "Gogoro 睿能創意",
+            "detailUrl": "https://mit.jobs/jobs/10595-software-engineer-in-test-%E8%BB%9F%E9%AB%94%E6%B8%AC%E8%A9%A6%E5%B7%A5%E7%A8%8B%E5%B8%AB",
+            "employerDetailUrl": "https://gogoro.mit.jobs/",
+            "pay": "850,000 -1,100,000",
+            "paidBy": "TWD 每年",
+            "location": "Taipei City, Taiwan",
+            "summary": "Gogoro正在打造世界級的系統平台，在我們軟體開發過程中，從功能需求、設計開發到維護，軟體開發測試工程師將與我們軟體工程師一同參與，且在各開發過程中運用使用者角度來思考，以利軟體開發工程師可以...",
+            "tags": [
+                "#MySQL",
+                "#Python",
+                "#Java",
+                "#Jenkins",
+                "#JMeter",
+                "#英文 -- 聽 /精通、說 /精通、讀 /精通、寫 /精通"
+            ]
+        },
+        {
+            "title": "Senior SRE Engineer 資深開發維運工程師",
+            "employer": "Gogoro 睿能創意",
+            "detailUrl": "https://mit.jobs/jobs/10594-senior-sre-engineer-%E8%B3%87%E6%B7%B1%E9%96%8B%E7%99%BC%E7%B6%AD%E9%81%8B%E5%B7%A5%E7%A8%8B%E5%B8%AB",
+            "employerDetailUrl": "https://gogoro.mit.jobs/",
+            "pay": "1,000,000 -1,400,000",
+            "paidBy": "TWD 每年",
+            "location": "Taipei City, Taiwan",
+            "summary": "The Senior Site Reliability Engineer has the responsibility to ensure optimal performance and upt...",
+            "tags": [
+                "#Git",
+                "#Python",
+                "#Ansible",
+                "#AWS",
+                "#Kubernetes",
+                "#Windows/Linux"
+            ]
+        },
+        {
+            "title": "Business Development Director 商業開發主管",
+            "employer": "JOYSO (塞席爾商共識科技有限公司)",
+            "detailUrl": "https://mit.jobs/jobs/10590-business-development-director-%E5%95%86%E6%A5%AD%E9%96%8B%E7%99%BC%E4%B8%BB%E7%AE%A1",
+            "employerDetailUrl": "https://joyso.mit.jobs/",
+            "pay": "70,000 -150,000",
+            "paidBy": "TWD 每月",
+            "location": "Taipei, Taiwan",
+            "summary": "",
+            "tags": [
+                "#Business Development",
+                "#New Business Development",
+                "#Marketing Strategy",
+                "#English",
+                "#Chinese"
+            ]
+        },
+        {
+            "title": "Associate BD Manager 商務開發副理",
+            "employer": "JOYSO (塞席爾商共識科技有限公司)",
+            "detailUrl": "https://mit.jobs/jobs/10589-associate-bd-manager-%E5%95%86%E5%8B%99%E9%96%8B%E7%99%BC%E5%89%AF%E7%90%86",
+            "employerDetailUrl": "https://joyso.mit.jobs/",
+            "pay": "40,000 -70,000",
+            "paidBy": "TWD 每月",
+            "location": "Taipei, Taiwan",
+            "summary": "歡迎以後想往商務開發發展職涯，願意務實學習者。 \n歡迎現在已熟悉了解區塊鏈產業，或是願意學習產業知識者。",
+            "tags": [
+                "#Business Development",
+                "#New Business Development",
+                "#Marketing Strategy",
+                "#English",
+                "#Chinese"
+            ]
+        },
+        {
+            "title": "Content Manager (Global Social Media) 社群內容經理",
+            "employer": "JOYSO (塞席爾商共識科技有限公司)",
+            "detailUrl": "https://mit.jobs/jobs/10591-content-manager-global-social-media-%E7%A4%BE%E7%BE%A4%E5%85%A7%E5%AE%B9%E7%B6%93%E7%90%86",
+            "employerDetailUrl": "https://joyso.mit.jobs/",
+            "pay": "30,000 -55,000",
+            "paidBy": "TWD 每月",
+            "location": "Taipei, Taiwan",
+            "summary": "• 負責公司經營中的全球主流社群平台以及幣圈愛用社群上的圖文發想。\n• 擔任優質的社群小編，了解社群對產品的期待，有效反應給公司。\n• 撰寫中英文文案，於FB、Twitter、SLACK、m...",
+            "tags": [
+                "#Community Management",
+                "#English",
+                "#Chinese"
+            ]
+        },
+        {
+            "title": "Blockchain Industry Researcher 區塊鏈產業研究員",
+            "employer": "JOYSO (塞席爾商共識科技有限公司)",
+            "detailUrl": "https://mit.jobs/jobs/10592-blockchain-industry-researcher-%E5%8D%80%E5%A1%8A%E9%8F%88%E7%94%A2%E6%A5%AD%E7%A0%94%E7%A9%B6%E5%93%A1",
+            "employerDetailUrl": "https://joyso.mit.jobs/",
+            "pay": "45,000 -80,000",
+            "paidBy": "TWD 每月",
+            "location": "Taipei, Taiwan",
+            "summary": "We are looking for an experienced Blockchain Industry Researcher, who is PASSIONATE about the new...",
+            "tags": [
+                "#Market Research and Analysis",
+                "#Blockchain",
+                "#Chinese"
+            ]
+        },
+        {
+            "title": "Blockchain Engineer (Dapp Researcher) 區塊鏈研究開發工程師",
+            "employer": "JOYSO (塞席爾商共識科技有限公司)",
+            "detailUrl": "https://mit.jobs/jobs/10593-blockchain-engineer-dapp-researcher-%E5%8D%80%E5%A1%8A%E9%8F%88%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BC%E5%B7%A5%E7%A8%8B%E5%B8%AB",
+            "employerDetailUrl": "https://joyso.mit.jobs/",
+            "pay": "45,000 -100,000",
+            "paidBy": "TWD 每月",
+            "location": "Taipei, Taiwan",
+            "summary": "We are looking for an experienced Blockchain Engineer, who is PASSIONATE about developing smart c...",
+            "tags": [
+                "#JavaScript",
+                "#Market Research and Analysis",
+                "#Blockchain",
+                "#Solidity",
+                "#web3.JS",
+                "#Chinese"
+            ]
+        },
+        {
+            "title": "Warehouse Specialist",
+            "employer": "Gogoro 睿能創意",
+            "detailUrl": "https://mit.jobs/jobs/10587-warehouse-specialist",
+            "employerDetailUrl": "https://gogoro.mit.jobs/",
+            "pay": "490,000 -532,000",
+            "paidBy": "TWD 每年",
+            "location": "Taipei City, Taiwan",
+            "summary": "",
+            "tags": [
+                "#EXCEL",
+                "#SAP",
+                "#英文 -- 聽 /普通、說 /普通：讀 /普通、寫 /普通"
+            ]
+        },
+        {
+            "title": "Energy Services Asset Management Manager",
+            "employer": "Gogoro 睿能創意",
+            "detailUrl": "https://mit.jobs/jobs/10586-energy-services-asset-management-manager",
+            "employerDetailUrl": "https://gogoro.mit.jobs/",
+            "pay": "1,000,000 -1,400,000",
+            "paidBy": "TWD 每年",
+            "location": "Taipei City, Taiwan",
+            "summary": "",
+            "tags": [
+                "#ERP",
+                "#MSffice",
+                "#PLM",
+                "#Visio (Lucidchart)",
+                "#英文 -- 聽 /中等、說 /中等：讀 /中等、寫 /中等"
+            ]
+        },
+        {
+            "title": "Energy Services Operation Support Specialist",
+            "employer": "Gogoro 睿能創意",
+            "detailUrl": "https://mit.jobs/jobs/10585-energy-services-operation-support-specialist",
+            "employerDetailUrl": "https://gogoro.mit.jobs/",
+            "pay": "560,000 -700,000",
+            "paidBy": "TWD 每年",
+            "location": "Taipei City, Taiwan",
+            "summary": "",
+            "tags": [
+                "#MS Office",
+                "#Apple Keynote",
+                "#英文 -- 聽 /中等、說 /中等、讀 /中等、寫 /中等"
+            ]
+        },
+        {
+            "title": "Energy Services Operation Support Senior Specialist",
+            "employer": "Gogoro 睿能創意",
+            "detailUrl": "https://mit.jobs/jobs/10584-energy-services-operation-support-senior-specialist",
+            "employerDetailUrl": "https://gogoro.mit.jobs/",
+            "pay": "840,000 -980,000",
+            "paidBy": "TWD 每年",
+            "location": "Taipei City, Taiwan",
+            "summary": "",
+            "tags": [
+                "#MS Office",
+                "#Apple Keynote",
+                "#英文 -- 聽 /精通、說 /精通、讀 /精通、寫 /精通"
+            ]
+        },
+        {
+            "title": "Energy Services Go-to-Market Manager",
+            "employer": "Gogoro 睿能創意",
+            "detailUrl": "https://mit.jobs/jobs/10583-energy-services-go-to-market-manager",
+            "employerDetailUrl": "https://gogoro.mit.jobs/",
+            "pay": "1,000,000 -1,400,000",
+            "paidBy": "TWD 每年",
+            "location": "Taipei City, Taiwan",
+            "summary": "",
+            "tags": [
+                "#MS Office",
+                "#Apple Keynote",
+                "#英文 -- 聽 /精通、說 /精通、讀 /精通、寫 /精通"
+            ]
+        },
+        {
+            "title": "Energy Services SOP Magagement Senior Specialist",
+            "employer": "Gogoro 睿能創意",
+            "detailUrl": "https://mit.jobs/jobs/10582-energy-services-sop-magagement-senior-specialist",
+            "employerDetailUrl": "https://gogoro.mit.jobs/",
+            "pay": "910,000 -1,200,000",
+            "paidBy": "TWD 每年",
+            "location": "Taipei City, Taiwan",
+            "summary": "",
+            "tags": [
+                "#MS Office",
+                "#LMS",
+                "#Lucidchart",
+                "#英文 -- 聽 /中等、說 /中等、讀 /中等、寫 /中等"
+            ]
+        },
+        {
+            "title": "Energy Services Process Compliance Assitant Manager",
+            "employer": "Gogoro 睿能創意",
+            "detailUrl": "https://mit.jobs/jobs/10581-energy-services-process-compliance-assitant-manager",
+            "employerDetailUrl": "https://gogoro.mit.jobs/",
+            "pay": "910,000 -1,200,000",
+            "paidBy": "TWD 每年",
+            "location": "Taipei City, Taiwan",
+            "summary": "",
+            "tags": []
+        },
+        {
+            "title": "Energy Services System Efficiency Senior Specialist",
+            "employer": "Gogoro 睿能創意",
+            "detailUrl": "https://mit.jobs/jobs/10580-energy-services-system-efficiency-senior-specialist",
+            "employerDetailUrl": "https://gogoro.mit.jobs/",
+            "pay": "770,000 -1,000,000",
+            "paidBy": "TWD 每年",
+            "location": "Taipei City, Taiwan",
+            "summary": "",
+            "tags": [
+                "#Axure",
+                "#MS Office",
+                "#Lucidchart",
+                "#Jira/Redmine",
+                "#英文 -- 聽 /中等、說 /中等、讀 /中等、寫 /中等"
+            ]
+        },
+        {
+            "title": "Energy Servies System Efficiency Assitant Manager",
+            "employer": "Gogoro 睿能創意",
+            "detailUrl": "https://mit.jobs/jobs/10579-energy-servies-system-efficiency-assitant-manager",
+            "employerDetailUrl": "https://gogoro.mit.jobs/",
+            "pay": "910,000 -1,200,000",
+            "paidBy": "TWD 每年",
+            "location": "Taipei City, Taiwan",
+            "summary": "",
+            "tags": [
+                "#Axure",
+                "#MS Office",
+                "#Lucidchart",
+                "#Jira/Redmine",
+                "#英文 -- 聽 /精通、說 /精通、讀 /精通、寫 /精通"
+            ]
+        },
+        {
+            "title": "Energy Services Process & System Manager",
+            "employer": "Gogoro 睿能創意",
+            "detailUrl": "https://mit.jobs/jobs/10578-energy-services-process-system-manager",
+            "employerDetailUrl": "https://gogoro.mit.jobs/",
+            "pay": "1,000,000 -1,300,000",
+            "paidBy": "TWD 每年",
+            "location": "Taipei City, Taiwan",
+            "summary": "",
+            "tags": [
+                "#MS Office",
+                "#Apple Keynote",
+                "#英文 -- 聽 /精通、說 /精通、讀 /精通、寫 /精通"
+            ]
+        },
+        {
+            "title": "Energy Services Talent Development Specialist",
+            "employer": "Gogoro 睿能創意",
+            "detailUrl": "https://mit.jobs/jobs/10577-energy-services-talent-development-specialist",
+            "employerDetailUrl": "https://gogoro.mit.jobs/",
+            "pay": "760,000 -850,000",
+            "paidBy": "TWD 每年",
+            "location": "Taipei City, Taiwan",
+            "summary": "",
+            "tags": [
+                "#MS Office",
+                "#Apple Keynote",
+                "#LMS",
+                "#英文 -- 聽 /中等、說 /中等、讀 /中等、寫 /中等"
+            ]
+        },
+        {
+            "title": "Energy Service Talent Development Manager",
+            "employer": "Gogoro 睿能創意",
+            "detailUrl": "https://mit.jobs/jobs/10576-energy-service-talent-development-manager",
+            "employerDetailUrl": "https://gogoro.mit.jobs/",
+            "pay": "1,120,000 -1,400,000",
+            "paidBy": "TWD 每年",
+            "location": "Taipei City, Taiwan",
+            "summary": "",
+            "tags": [
+                "#MS Office",
+                "#Apple Keynote",
+                "#LMS",
+                "#英文 -- 聽 /精通、說 /精通、讀 /精通、寫 /精通"
+            ]
+        },
+        {
+            "title": "Junior Backend Developer 後端工程師",
+            "employer": "大聲公行動股份有限公司",
+            "detailUrl": "https://mit.jobs/jobs/8959-junior-backend-developer-%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB",
+            "employerDetailUrl": "https://pklotcorp.mit.jobs/",
+            "pay": "45,000 -70,000",
+            "paidBy": "TWD 每月",
+            "location": "Taipei City, Taiwan",
+            "summary": "這份工作負責讓《車麻吉》在開發藍圖上順利運作，成為全台最大的車主付款服務的最強後盾。",
+            "tags": [
+                "#Ruby on Rails",
+                "#AWS/EC2/ELB/S3/DynamoDB"
+            ]
+        },
+        {
+            "title": "Backend Engineer (Vietnam)",
+            "employer": "honestbee",
+            "detailUrl": "https://mit.jobs/jobs/10537-backend-engineer-vietnam",
+            "employerDetailUrl": "https://honestbee.mit.jobs/",
+            "pay": "1,500 -3,000",
+            "paidBy": "USD 每月",
+            "location": "no office location",
+            "summary": "",
+            "tags": []
+        },
+        {
+            "title": "QA Engineer (Automation) (Vietnam)",
+            "employer": "honestbee",
+            "detailUrl": "https://mit.jobs/jobs/10536-qa-engineer-automation-vietnam",
+            "employerDetailUrl": "https://honestbee.mit.jobs/",
+            "pay": "1,500 -3,000",
+            "paidBy": "USD 每月",
+            "location": "no office location",
+            "summary": "",
+            "tags": []
+        },
+        {
+            "title": "[Test] 全職甜點助手 Dec 2018",
+            "employer": "Rex的火箭實驗室",
+            "detailUrl": "https://mit.jobs/jobs/10544-test-%E5%85%A8%E8%81%B7%E7%94%9C%E9%BB%9E%E5%8A%A9%E6%89%8B-dec-2018",
+            "employerDetailUrl": "https://rex-rocket.mit.jobs/",
+            "pay": "30,000 -50,000",
+            "paidBy": "TWD 每月",
+            "location": "Taipei, Taiwan",
+            "summary": "[測試] 這是一個測試的職缺\n測試一下連結唷\n第一種\nmit.Jobs\n第二種\nwww.google.com\n第三種\nhttp://mit.jobs\nhttps://mit.jobs",
+            "tags": [
+                "#Espresso",
+                "#English",
+                "#Chinese"
+            ]
+        },
+        {
+            "title": "Imagineer , Software Architect軟體架構師",
+            "employer": "Migo 熱鬧點科技有限公司",
+            "detailUrl": "https://mit.jobs/jobs/10538-imagineer-software-architect-%E8%BB%9F%E9%AB%94%E6%9E%B6%E6%A7%8B%E5%B8%AB",
+            "employerDetailUrl": "https://migo.mit.jobs/",
+            "pay": "780,000 -1,300,000",
+            "paidBy": "TWD 每年",
+            "location": "Taipei City, Taiwan",
+            "summary": "【厭倦一成不變的碼農人生嗎？Be an Imagineer 成為共同建構企業級解決方案的軟體架構師吧！】Migo 軟體工程師將第一線傾聽使用者需求、參與軟體開發設計與決策，透過敏捷式開發，培養設...",
+            "tags": [
+                "#Python",
+                "#Java",
+                "#Node.js",
+                "#Software Engineering",
+                "#Backend",
+                "#Agile development",
+                "#English",
+                "#Chinese"
+            ]
+        },
         {
             "title": "Site Reliability Engineer (AIM BA) (8481)",
             "employer": "趨勢科技股份有限公司",
@@ -15,23 +650,23 @@
             ]
         },
         {
-            "title": "UI Developer (UI Designer 改造機會)",
+            "title": "Front-End Developer (UI Designer 改造機會)",
             "employer": "Wisers Information Limited 慧科",
-            "detailUrl": "https://mit.jobs/jobs/10506-ui-developer-ui-designer-%E6%94%B9%E9%80%A0%E6%A9%9F%E6%9C%83",
+            "detailUrl": "https://mit.jobs/jobs/10506-front-end-developer-ui-designer-%E6%94%B9%E9%80%A0%E6%A9%9F%E6%9C%83",
             "employerDetailUrl": "https://wisers.mit.jobs/",
             "pay": "600,000 -900,000",
             "paidBy": "TWD 每年",
-            "location": "Taipei City, Taiwan",
-            "summary": "我們正在尋找希望從 UI Designer 改造成為 UI Developer 的隊員，\n參與開發大數據產品同時由專業團隊提供 UI 技術訓練，\n經過項目實踐改造成為擁有設計及用戶體驗觸覺的...",
+            "location": "Taipei City, Taiwan / Beijing, China",
+            "summary": "我們正在尋找希望從 UI Designer 改造成為 Front-end Developer 的隊員，\n參與開發大數據產品同時由專業團隊提供 UI 技術訓練，\n經過項目實踐改造成為擁有設計及...",
             "tags": [
                 "#English",
                 "#mandarin"
             ]
         },
         {
-            "title": "資深 APP 軟體 QA 工程師",
+            "title": "Senior APP 軟體 QA 工程師",
             "employer": "大聲公行動股份有限公司",
-            "detailUrl": "https://mit.jobs/jobs/10505-%E8%B3%87%E6%B7%B1-app-%E8%BB%9F%E9%AB%94-qa-%E5%B7%A5%E7%A8%8B%E5%B8%AB",
+            "detailUrl": "https://mit.jobs/jobs/10505-senior-app-%E8%BB%9F%E9%AB%94-qa-%E5%B7%A5%E7%A8%8B%E5%B8%AB",
             "employerDetailUrl": "https://pklotcorp.mit.jobs/",
             "pay": "50,000 -100,000",
             "paidBy": "TWD 每月",
@@ -141,17 +776,6 @@
                 "#Data Engineering",
                 "#English"
             ]
-        },
-        {
-            "title": "整合行銷業務專員 (Sales Specialist)",
-            "employer": "愛卡拉 iKala",
-            "detailUrl": "https://mit.jobs/jobs/10493-%E6%95%B4%E5%90%88%E8%A1%8C%E9%8A%B7%E6%A5%AD%E5%8B%99%E5%B0%88%E5%93%A1-sales-specialist",
-            "employerDetailUrl": "https://ikala.mit.jobs/",
-            "pay": "25,000 -40,000",
-            "paidBy": "TWD 每月",
-            "location": "Taipei City, Taiwan",
-            "summary": "愛卡拉是一間以 AI 為核心的行銷科技公司，我們致力於發展行銷技術產品，協助廣告主及企業主進行精準行銷投放。總部設於台灣，營運遍佈新加坡、台灣、日本、泰國、及越南。",
-            "tags": []
         },
         {
             "title": "資深影音串流前端工程師 (Senior Frontend Engineer)",
@@ -341,98 +965,6 @@
             "tags": []
         },
         {
-            "title": "Sr. Python Engineer",
-            "employer": "創順科技有限公司",
-            "detailUrl": "https://mit.jobs/jobs/10476-sr-python-engineer",
-            "employerDetailUrl": "https://unnotech.mit.jobs/",
-            "pay": "80,000 -120,000",
-            "paidBy": "TWD 每月",
-            "location": "台北市, Taiwan",
-            "summary": "",
-            "tags": [
-                "#python/django",
-                "#Web Development",
-                "#Django/Flask",
-                "#Google Cloud Platform",
-                "#Python frameworks",
-                "#AZURE",
-                "#Python + Django/Flask",
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "Sr. Front-end Engineer",
-            "employer": "創順科技有限公司",
-            "detailUrl": "https://mit.jobs/jobs/10475-sr-front-end-engineer",
-            "employerDetailUrl": "https://unnotech.mit.jobs/",
-            "pay": "80,000 -120,000",
-            "paidBy": "TWD 每月",
-            "location": "台北市, Taiwan",
-            "summary": "此職務為資深職缺，希望您有多年前端經驗，熟悉 Vue，應徵請附上詳細履歷及作品。",
-            "tags": [
-                "#HTML",
-                "#CSS",
-                "#JavaScript",
-                "#Vue.js",
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "React Native Engineer",
-            "employer": "創順科技有限公司",
-            "detailUrl": "https://mit.jobs/jobs/10474-react-native-engineer",
-            "employerDetailUrl": "https://unnotech.mit.jobs/",
-            "pay": "50,000 -80,000",
-            "paidBy": "TWD 每月",
-            "location": "台北市, Taiwan",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#iOS Development",
-                "#ReactNative",
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "技術主管",
-            "employer": "創順科技有限公司",
-            "detailUrl": "https://mit.jobs/jobs/10473-%E6%8A%80%E8%A1%93%E4%B8%BB%E7%AE%A1",
-            "employerDetailUrl": "https://unnotech.mit.jobs/",
-            "pay": "130,000+",
-            "paidBy": "TWD 每月",
-            "location": "台北市, Taiwan",
-            "summary": "人生苦短，我用 Python。\n",
-            "tags": [
-                "#WEB",
-                "#DevOps",
-                "#python/django",
-                "#Docker",
-                "#k8s",
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "資深人事行政主管（工作地點：馬尼拉）",
-            "employer": "創順科技有限公司",
-            "detailUrl": "https://mit.jobs/jobs/10472-%E8%B3%87%E6%B7%B1%E4%BA%BA%E4%BA%8B%E8%A1%8C%E6%94%BF%E4%B8%BB%E7%AE%A1%E5%B7%A5%E4%BD%9C%E5%9C%B0%E9%BB%9E%E9%A6%AC%E5%B0%BC%E6%8B%89",
-            "employerDetailUrl": "https://unnotech.mit.jobs/",
-            "pay": "150,000 -200,000",
-            "paidBy": "TWD 每月",
-            "location": "no office location",
-            "summary": "-- 此職務為委派招募，工作地馬尼拉，相關福利制度以對方公司為主 --",
-            "tags": [
-                "#Recruiting",
-                "#Human Resources",
-                "#Payroll",
-                "#Performance",
-                "#English"
-            ]
-        },
-        {
             "title": "Senior DevOps Engineer",
             "employer": "honestbee",
             "detailUrl": "https://mit.jobs/jobs/10471-senior-devops-engineer",
@@ -576,26 +1108,6 @@
             "location": "Taiwan",
             "summary": "※ 可年後上班 ※ \n\n● 必要條件 : \n1. 兩年以上多媒體串流服務開發經驗。 \n2. 熟悉 AAC / H264 / H265 編碼。 \n3. 熟悉 WebRTC / RTMP ...",
             "tags": []
-        },
-        {
-            "title": "[ 聖誕節的禮物 ] Backend Engineer (PMAC/Email Campaign Solution)",
-            "employer": "趨勢科技股份有限公司",
-            "detailUrl": "https://mit.jobs/jobs/10438-%E8%81%96%E8%AA%95%E7%AF%80%E7%9A%84%E7%A6%AE%E7%89%A9-backend-engineer-pmacemail-campaign-solution",
-            "employerDetailUrl": "https://trendmicro.mit.jobs/",
-            "pay": "700,000 -1,500,000",
-            "paidBy": "TWD 每年",
-            "location": "Taipei City, Taiwan",
-            "summary": "特別的禮給特別的你/妳，專業的工作內容，只專屬於你/妳 ！\n\n專屬好禮你可以:\n\nYou will join the Trend Micro Consumer WSE (Web Serv...",
-            "tags": [
-                "#Python",
-                "#Java",
-                "#C#",
-                "#Rabbitmq",
-                "#Kafka",
-                "#Backend",
-                "#English",
-                "#Chinese"
-            ]
         },
         {
             "title": "[ 聖誕節的禮物 ] Sr. Engineer (FRS Infra)",
@@ -761,21 +1273,6 @@
             ]
         },
         {
-            "title": "整合行銷業務經理 (Sales Manager)",
-            "employer": "愛卡拉 iKala",
-            "detailUrl": "https://mit.jobs/jobs/10432-%E6%95%B4%E5%90%88%E8%A1%8C%E9%8A%B7%E6%A5%AD%E5%8B%99%E7%B6%93%E7%90%86-sales-manager",
-            "employerDetailUrl": "https://ikala.mit.jobs/",
-            "pay": "45,000+",
-            "paidBy": "TWD 每月",
-            "location": "Taipei City, Taiwan",
-            "summary": "愛卡拉是一間以 AI 為核心的行銷科技公司，我們致力於發展行銷技術產品，協助廣告主及企業主進行精準行銷投放。總部設於台灣，營運遍佈新加坡、台灣、日本、泰國、及越南。\n\n旗下 KOL Rada...",
-            "tags": [
-                "#Sales Strategy and Management",
-                "#sales",
-                "#English"
-            ]
-        },
-        {
             "title": "資深招募專員 (Senior Talent Acquisition Coordinator)",
             "employer": "愛卡拉 iKala",
             "detailUrl": "https://mit.jobs/jobs/10433-%E8%B3%87%E6%B7%B1%E6%8B%9B%E5%8B%9F%E5%B0%88%E5%93%A1-senior-talent-acquisition-coordinator",
@@ -886,14 +1383,12 @@
             "tags": [
                 "#Linux",
                 "#JavaScript",
-                "#Frontend Development",
                 "#Automation",
                 "#Docker",
-                "#Database Systems",
-                "#Vue.js",
                 "#system architecture design",
                 "#Python frameworks",
                 "#Python + Django/Flask",
+                "#Microservice Architecture",
                 "#system architecting"
             ]
         },
@@ -1068,9 +1563,9 @@
             ]
         },
         {
-            "title": "後端工程師（Back-end Engineer)",
+            "title": "資深後端工程師（Senior Back-end Engineer)",
             "employer": "iStaging Corp. 開曼群島商愛實境股份有限台灣分公司",
-            "detailUrl": "https://mit.jobs/jobs/10384-%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%ABback-end-engineer",
+            "detailUrl": "https://mit.jobs/jobs/10384-%E8%B3%87%E6%B7%B1%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%ABsenior-back-end-engineer",
             "employerDetailUrl": "https://istaging.mit.jobs/",
             "pay": "80,000 -150,000",
             "paidBy": "TWD 每月",
@@ -1085,9 +1580,9 @@
             ]
         },
         {
-            "title": "前端工程師(Front-end Engineer)",
+            "title": "資深前端工程師(Senior Front-end Engineer)",
             "employer": "iStaging Corp. 開曼群島商愛實境股份有限台灣分公司",
-            "detailUrl": "https://mit.jobs/jobs/10382-%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%ABfront-end-engineer",
+            "detailUrl": "https://mit.jobs/jobs/10382-%E8%B3%87%E6%B7%B1%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%ABsenior-front-end-engineer",
             "employerDetailUrl": "https://istaging.mit.jobs/",
             "pay": "80,000 -150,000",
             "paidBy": "TWD 每月",
@@ -1295,20 +1790,6 @@
             "tags": []
         },
         {
-            "title": "財務會計專員 (Financial Accounting Specialist)",
-            "employer": "愛卡拉 iKala",
-            "detailUrl": "https://mit.jobs/jobs/10333-%E8%B2%A1%E5%8B%99%E6%9C%83%E8%A8%88%E5%B0%88%E5%93%A1-financial-accounting-specialist",
-            "employerDetailUrl": "https://ikala.mit.jobs/",
-            "pay": "30,000 -40,000",
-            "paidBy": "TWD 每年",
-            "location": "Taipei City, Taiwan",
-            "summary": "愛卡拉是一間以 AI 為核心的行銷科技公司，我們致力於發展行銷技術產品，協助廣告主及企業主進行精準行銷投放。總部設於台灣，營運遍佈新加坡、台灣、日本、泰國、及越南。",
-            "tags": [
-                "#accounting",
-                "#English"
-            ]
-        },
-        {
             "title": "Junior Backend Developer - 後端開發者",
             "employer": "AmazingTalker",
             "detailUrl": "https://mit.jobs/jobs/10327-junior-backend-developer-%E5%BE%8C%E7%AB%AF%E9%96%8B%E7%99%BC%E8%80%85",
@@ -1509,9 +1990,9 @@
             ]
         },
         {
-            "title": "營運專員Marketing Specialist",
+            "title": "營運專員Operation Specialist",
             "employer": "大聲公行動股份有限公司",
-            "detailUrl": "https://mit.jobs/jobs/10247-%E7%87%9F%E9%81%8B%E5%B0%88%E5%93%A1-marketing-specialist",
+            "detailUrl": "https://mit.jobs/jobs/10247-%E7%87%9F%E9%81%8B%E5%B0%88%E5%93%A1-operation-specialist",
             "employerDetailUrl": "https://pklotcorp.mit.jobs/",
             "pay": "28,000 -35,000",
             "paidBy": "TWD 每月",
@@ -1568,21 +2049,6 @@
                 "#JavaScript",
                 "#Ajax",
                 "#W3C"
-            ]
-        },
-        {
-            "title": "特別助理 Special Assistant",
-            "employer": "mit.Jobs Ltd.",
-            "detailUrl": "https://mit.jobs/jobs/10186-%E7%89%B9%E5%88%A5%E5%8A%A9%E7%90%86-special-assistant",
-            "employerDetailUrl": "https://mitjobs.mit.jobs/",
-            "pay": "32,000 -48,000",
-            "paidBy": "TWD 每月",
-            "location": "Taipei, Taiwan",
-            "summary": "1. 協助執行長安排各項工作，工作性質類似於機要秘書\n2. 月薪新台幣 32,000 - 48,000 TWD/ mth\n3. 歡迎剛出社會，還未確定職涯發展方向，想要多方嘗試的熱血青年",
-            "tags": [
-                "#MS Office",
-                "#English",
-                "#Chinese"
             ]
         },
         {
@@ -1671,22 +2137,6 @@
             "summary": "",
             "tags": [
                 "#C++"
-            ]
-        },
-        {
-            "title": "Ruby on Rails Back-End Developer 後端工程師",
-            "employer": "Infocast",
-            "detailUrl": "https://mit.jobs/jobs/10172-ruby-on-rails-back-end-developer-%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB",
-            "employerDetailUrl": "https://infocast.mit.jobs/",
-            "pay": "60,000+",
-            "paidBy": "TWD 每月",
-            "location": "Taiwan",
-            "summary": "Seeking an experienced rails developer with emphasis in back-end development, for maintaining an ...",
-            "tags": [
-                "#Ruby on Rails",
-                "#Rails",
-                "#English",
-                "#中文"
             ]
         },
         {
@@ -2143,53 +2593,6 @@
             ]
         },
         {
-            "title": "======== Founding Team ======== Head of Engineering / 技術總管",
-            "employer": "FooSpace Co.",
-            "detailUrl": "https://mit.jobs/jobs/10027-founding-team-head-of-engineering-%E6%8A%80%E8%A1%93%E7%B8%BD%E7%AE%A1",
-            "employerDetailUrl": "https://foospace.mit.jobs/",
-            "pay": "800,000 -1,200,000",
-            "paidBy": "TWD 每年",
-            "location": "Taiwan",
-            "summary": "FooSpace致力於發展新零售無人商店。結合無人零售、人工智慧及全通路體驗，我們以提供最令人滿意的消費體驗為目標，運用創新科技為零售及廣告市場帶來下一個顛覆。\n\nWe are lookin...",
-            "tags": [
-                "#Backend Development",
-                "#Database Systems",
-                "#GCP",
-                "#Data Engineering"
-            ]
-        },
-        {
-            "title": "======== Founding Team ======== Software Engineer / 軟體工程師",
-            "employer": "FooSpace Co.",
-            "detailUrl": "https://mit.jobs/jobs/10028-founding-team-software-engineer-%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB",
-            "employerDetailUrl": "https://foospace.mit.jobs/",
-            "pay": "600,000 -1,000,000",
-            "paidBy": "TWD 每年",
-            "location": "Taiwan",
-            "summary": "FooSpace致力於發展新零售無人商店。結合無人零售、人工智慧及全通路體驗，我們以提供最令人滿意的消費體驗為目標，運用創新科技為零售及廣告市場帶來下一個顛覆。\n\nWe are lookin...",
-            "tags": [
-                "#Backend Development",
-                "#Database Systems",
-                "#GCP"
-            ]
-        },
-        {
-            "title": "======== Founding Team ======== Data Engineer / 數據工程師",
-            "employer": "FooSpace Co.",
-            "detailUrl": "https://mit.jobs/jobs/10029-founding-team-data-engineer-%E6%95%B8%E6%93%9A%E5%B7%A5%E7%A8%8B%E5%B8%AB",
-            "employerDetailUrl": "https://foospace.mit.jobs/",
-            "pay": "600,000 -1,000,000",
-            "paidBy": "TWD 每年",
-            "location": "Taiwan",
-            "summary": "FooSpace致力於發展新零售無人商店。結合無人零售、人工智慧及全通路體驗，我們以提供最令人滿意的消費體驗為目標，運用創新科技為零售及廣告市場帶來下一個顛覆。\n\nWe are lookin...",
-            "tags": [
-                "#Python",
-                "#R",
-                "#Data Science",
-                "#Database Systems"
-            ]
-        },
-        {
             "title": "Web Developer 網站開發工程師 全職/兼職 ( Python - Django )",
             "employer": "德翼拉股份有限公司",
             "detailUrl": "https://mit.jobs/jobs/10026-web-developer-%E7%B6%B2%E7%AB%99%E9%96%8B%E7%99%BC%E5%B7%A5%E7%A8%8B%E5%B8%AB-%E5%85%A8%E8%81%B7%E5%85%BC%E8%81%B7-python-django",
@@ -2201,40 +2604,6 @@
             "tags": [
                 "#MySQL",
                 "#python/django",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "Business Development Director 商業開發主管",
-            "employer": "JOYSO (塞席爾商共識科技有限公司)",
-            "detailUrl": "https://mit.jobs/jobs/10024-business-development-director-%E5%95%86%E6%A5%AD%E9%96%8B%E7%99%BC%E4%B8%BB%E7%AE%A1",
-            "employerDetailUrl": "https://joyso.mit.jobs/",
-            "pay": "70,000 -150,000",
-            "paidBy": "TWD 每月",
-            "location": "Taipei, Taiwan",
-            "summary": "",
-            "tags": [
-                "#Business Development",
-                "#New Business Development",
-                "#Marketing Strategy",
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "Associate BD Manager 商務開發副理",
-            "employer": "JOYSO (塞席爾商共識科技有限公司)",
-            "detailUrl": "https://mit.jobs/jobs/10023-associate-bd-manager-%E5%95%86%E5%8B%99%E9%96%8B%E7%99%BC%E5%89%AF%E7%90%86",
-            "employerDetailUrl": "https://joyso.mit.jobs/",
-            "pay": "40,000 -70,000",
-            "paidBy": "TWD 每月",
-            "location": "Taipei, Taiwan",
-            "summary": "歡迎以後想往商務開發發展職涯，願意務實學習者。 \n歡迎現在已熟悉了解區塊鏈產業，或是願意學習產業知識者。",
-            "tags": [
-                "#Business Development",
-                "#New Business Development",
-                "#Marketing Strategy",
-                "#English",
                 "#Chinese"
             ]
         },
@@ -2586,7 +2955,7 @@
         },
         {
             "title": "Frontend Engineer（React Native App）⚡️職缺開放中",
-            "employer": "饌元股份有限公司（早餐吃麥片 / 運動吃蛋白）",
+            "employer": "饌元股份有限公司（早餐吃麥片 / 運動吃蛋白 / UrMart）",
             "detailUrl": "https://mit.jobs/jobs/9875-frontend-engineerreact-native-app%E2%9A%A1%EF%B8%8F%E8%81%B7%E7%BC%BA%E9%96%8B%E6%94%BE%E4%B8%AD",
             "employerDetailUrl": "https://fastretain.mit.jobs/",
             "pay": "51,000 -85,000",
@@ -4774,13 +5143,12 @@
             "pay": "45,000 -70,000",
             "paidBy": "TWD 每月",
             "location": "Taipei City, Taiwan",
-            "summary": "- 協助程式設計師設計製作3D臉部偵測及建模相關演算法.  \n- Basic Salary: 45K~70K NTD/month.  (Yes, we do have bonus but no...",
+            "summary": "- 協助程式設計師設計開發3D臉部偵測及建模相關演算法.  \n- Basic Salary: 45K~70K NTD/month.  (Yes, we do have bonus but no...",
             "tags": [
                 "#微積分",
                 "#線性代數",
                 "#統計機率",
                 "#四元數",
-                "#English",
                 "#Chinese"
             ]
         },
@@ -5096,9 +5464,8 @@
             "pay": "45,000 -70,000",
             "paidBy": "TWD 每月",
             "location": "Taipei City, Taiwan",
-            "summary": "- AR feature developer for mobile device (3+ years experience )  \n- Basic Salary: 45K~70K NTD/mo...",
+            "summary": "- AR feature developer for mobile device (1+ years experience )  \n- Basic Salary: 45K~70K NTD/mo...",
             "tags": [
-                "#Java",
                 "#OpenCV",
                 "#C/C++",
                 "#English",
@@ -5164,54 +5531,6 @@
             ]
         },
         {
-            "title": "Blockchain Engineer (Dapp Researcher) 區塊鏈研究開發工程師",
-            "employer": "JOYSO (塞席爾商共識科技有限公司)",
-            "detailUrl": "https://mit.jobs/jobs/9299-blockchain-engineer-dapp-researcher-%E5%8D%80%E5%A1%8A%E9%8F%88%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BC%E5%B7%A5%E7%A8%8B%E5%B8%AB",
-            "employerDetailUrl": "https://joyso.mit.jobs/",
-            "pay": "45,000 -100,000",
-            "paidBy": "TWD 每月",
-            "location": "Taipei, Taiwan",
-            "summary": "We are looking for an experienced Blockchain Engineer, who is PASSIONATE about developing smart c...",
-            "tags": [
-                "#JavaScript",
-                "#Market Research and Analysis",
-                "#Blockchain",
-                "#Solidity",
-                "#web3.JS",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "Blockchain Industry Researcher 區塊鏈產業研究員",
-            "employer": "JOYSO (塞席爾商共識科技有限公司)",
-            "detailUrl": "https://mit.jobs/jobs/9303-blockchain-industry-researcher-%E5%8D%80%E5%A1%8A%E9%8F%88%E7%94%A2%E6%A5%AD%E7%A0%94%E7%A9%B6%E5%93%A1",
-            "employerDetailUrl": "https://joyso.mit.jobs/",
-            "pay": "45,000 -80,000",
-            "paidBy": "TWD 每月",
-            "location": "Taipei, Taiwan",
-            "summary": "We are looking for an experienced Blockchain Industry Researcher, who is PASSIONATE about the new...",
-            "tags": [
-                "#Market Research and Analysis",
-                "#Blockchain",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "Content Manager (Global Social Media) 社群內容經理",
-            "employer": "JOYSO (塞席爾商共識科技有限公司)",
-            "detailUrl": "https://mit.jobs/jobs/9298-content-manager-global-social-media-%E7%A4%BE%E7%BE%A4%E5%85%A7%E5%AE%B9%E7%B6%93%E7%90%86",
-            "employerDetailUrl": "https://joyso.mit.jobs/",
-            "pay": "30,000 -55,000",
-            "paidBy": "TWD 每月",
-            "location": "Taipei, Taiwan",
-            "summary": "• 負責公司經營中的全球主流社群平台以及幣圈愛用社群上的圖文發想。\n• 擔任優質的社群小編，了解社群對產品的期待，有效反應給公司。\n• 撰寫中英文文案，於FB、Twitter、SLACK、m...",
-            "tags": [
-                "#Community Management",
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
             "title": "Senior Engineer of Computer Vision",
             "employer": "SPEED 3D Inc.",
             "detailUrl": "https://mit.jobs/jobs/9229-senior-engineer-of-computer-vision",
@@ -5234,7 +5553,7 @@
             "employer": "Codementor",
             "detailUrl": "https://mit.jobs/jobs/9289-content-marketing-manager",
             "employerDetailUrl": "https://codementor.mit.jobs/",
-            "pay": "40,000 -100,000",
+            "pay": "40,000 -80,000",
             "paidBy": "TWD 每月",
             "location": "Taipei, Taiwan",
             "summary": "We’re currently looking for a Content Marketing Manager responsible for:\n\n- Ensuring the succes...",
@@ -5986,9 +6305,9 @@
             ]
         },
         {
-            "title": "Imagineer ,軟體工程師 (Scalable Operations & automation project)",
+            "title": "Imagineer ,Software Developer 軟體工程師 (Scalable Operations & automation project)",
             "employer": "Migo 熱鬧點科技有限公司",
-            "detailUrl": "https://mit.jobs/jobs/9091-imagineer-%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB-scalable-operations-automation-project",
+            "detailUrl": "https://mit.jobs/jobs/9091-imagineer-software-developer-%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB-scalable-operations-automation-project",
             "employerDetailUrl": "https://migo.mit.jobs/",
             "pay": "780,000 -1,300,000",
             "paidBy": "TWD 每年",
@@ -6000,26 +6319,6 @@
                 "#Software Development",
                 "#Scalable Systems",
                 "#Backend",
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "Imagineer ,軟體工程師 (Infrastructure project)",
-            "employer": "Migo 熱鬧點科技有限公司",
-            "detailUrl": "https://mit.jobs/jobs/9090-imagineer-%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB-infrastructure-project",
-            "employerDetailUrl": "https://migo.mit.jobs/",
-            "pay": "780,000 -1,300,000",
-            "paidBy": "TWD 每年",
-            "location": "Taipei City, Taiwan",
-            "summary": "【厭倦一成不變的碼農人生嗎？Be an Imagineer 成為共同建構企業級解決方案的軟體設計師吧！】Migo 軟體工程師將第一線傾聽使用者需求、參與軟體開發設計與決策，透過敏捷式開發，培養設...",
-            "tags": [
-                "#Python",
-                "#Java",
-                "#Node.js",
-                "#Software Engineering",
-                "#Backend",
-                "#Agile development",
                 "#English",
                 "#Chinese"
             ]
@@ -6517,7 +6816,7 @@
             "employer": "Codementor",
             "detailUrl": "https://mit.jobs/jobs/8826-product-manager",
             "employerDetailUrl": "https://codementor.mit.jobs/",
-            "pay": "40,000 -100,000",
+            "pay": "40,000 -80,000",
             "paidBy": "TWD 每月",
             "location": "Taipei, Taiwan",
             "summary": "",
@@ -7031,7 +7330,7 @@
             "pay": "800,000 -1,200,000",
             "paidBy": "TWD 每年",
             "location": "台北市, Taiwan",
-            "summary": "必要條件 (歡迎具備SRE或MIS經驗的夥伴來聊聊)\n1. 維持產品穩定運作 (Site Reliability Engineer)\n  ➀ AWS Core Services: VPC, ...",
+            "summary": "",
             "tags": []
         },
         {
@@ -8235,87 +8534,6 @@
             "location": "Taipei, Taiwan",
             "summary": "",
             "tags": [
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "高階 SRE 專家 / Sr. SRE",
-            "employer": "奔騰網路科技有限公司",
-            "detailUrl": "https://mit.jobs/jobs/8003-%E9%AB%98%E9%9A%8E-sre-%E5%B0%88%E5%AE%B6-sr-sre",
-            "employerDetailUrl": "https://pentium.mit.jobs/",
-            "pay": "120,000 -160,000",
-            "paidBy": "TWD 每月",
-            "location": "台北市, Taiwan",
-            "summary": "",
-            "tags": [
-                "#Linux",
-                "#JavaScript",
-                "#Python",
-                "#Ansible",
-                "#DevOps",
-                "#Puppet",
-                "#CI/CD",
-                "#jave",
-                "#sre",
-                "#chef",
-                "#k8s",
-                "#elk stack"
-            ]
-        },
-        {
-            "title": "高階平台開發者 / Sr. Platform Developer",
-            "employer": "奔騰網路科技有限公司",
-            "detailUrl": "https://mit.jobs/jobs/8002-%E9%AB%98%E9%9A%8E%E5%B9%B3%E5%8F%B0%E9%96%8B%E7%99%BC%E8%80%85-sr-platform-developer",
-            "employerDetailUrl": "https://pentium.mit.jobs/",
-            "pay": "120,000 -160,000",
-            "paidBy": "TWD 每月",
-            "location": "台北市, Taiwan",
-            "summary": "",
-            "tags": [
-                "#Linux",
-                "#Python",
-                "#Ansible",
-                "#NoSQL",
-                "#Node.js",
-                "#RESTful API",
-                "#RDBMS",
-                "#RDB",
-                "#chatbot"
-            ]
-        },
-        {
-            "title": "平台開發者 / Platform Developer",
-            "employer": "奔騰網路科技有限公司",
-            "detailUrl": "https://mit.jobs/jobs/8001-%E5%B9%B3%E5%8F%B0%E9%96%8B%E7%99%BC%E8%80%85-platform-developer",
-            "employerDetailUrl": "https://pentium.mit.jobs/",
-            "pay": "75,000 -90,000",
-            "paidBy": "TWD 每月",
-            "location": "台北市, Taiwan",
-            "summary": "",
-            "tags": [
-                "#Python",
-                "#Unix",
-                "#Node.js",
-                "#RESTful API",
-                "#RDBMS",
-                "#RDB",
-                "#chatbot"
-            ]
-        },
-        {
-            "title": "產品經理 / Product Manager",
-            "employer": "奔騰網路科技有限公司",
-            "detailUrl": "https://mit.jobs/jobs/8000-%E7%94%A2%E5%93%81%E7%B6%93%E7%90%86-product-manager",
-            "employerDetailUrl": "https://pentium.mit.jobs/",
-            "pay": "65,000 -90,000",
-            "paidBy": "TWD 每月",
-            "location": "台北市, Taiwan",
-            "summary": "",
-            "tags": [
-                "#Software Development",
-                "#SCRUM",
-                "#Web Development",
                 "#English",
                 "#Chinese"
             ]
@@ -10432,7 +10650,7 @@
         },
         {
             "title": "全端工程師 Fullstack Engineer（熟 python/django & js） - 目前無缺收履歷狀態，未來有缺會通知",
-            "employer": "饌元股份有限公司（早餐吃麥片 / 運動吃蛋白）",
+            "employer": "饌元股份有限公司（早餐吃麥片 / 運動吃蛋白 / UrMart）",
             "detailUrl": "https://mit.jobs/jobs/6421-%E5%85%A8%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB-fullstack-engineer%E7%86%9F-pythondjango-js-%E7%9B%AE%E5%89%8D%E7%84%A1%E7%BC%BA%E6%94%B6%E5%B1%A5%E6%AD%B7%E7%8B%80%E6%85%8B%E6%9C%AA%E4%BE%86%E6%9C%89%E7%BC%BA%E6%9C%83%E9%80%9A%E7%9F%A5",
             "employerDetailUrl": "https://fastretain.mit.jobs/",
             "pay": "65,000 -85,000",
@@ -10460,7 +10678,7 @@
         },
         {
             "title": "後端網頁工程師（Python） - 目前無缺收履歷狀態，未來有缺會通知",
-            "employer": "饌元股份有限公司（早餐吃麥片 / 運動吃蛋白）",
+            "employer": "饌元股份有限公司（早餐吃麥片 / 運動吃蛋白 / UrMart）",
             "detailUrl": "https://mit.jobs/jobs/6671-%E5%BE%8C%E7%AB%AF%E7%B6%B2%E9%A0%81%E5%B7%A5%E7%A8%8B%E5%B8%ABpython-%E7%9B%AE%E5%89%8D%E7%84%A1%E7%BC%BA%E6%94%B6%E5%B1%A5%E6%AD%B7%E7%8B%80%E6%85%8B%E6%9C%AA%E4%BE%86%E6%9C%89%E7%BC%BA%E6%9C%83%E9%80%9A%E7%9F%A5",
             "employerDetailUrl": "https://fastretain.mit.jobs/",
             "pay": "60,000 -80,000",
@@ -12073,7 +12291,7 @@
         },
         {
             "title": "前端網頁工程師（Front-End Engineer, F2E）⚡️職缺開放中",
-            "employer": "饌元股份有限公司（早餐吃麥片 / 運動吃蛋白）",
+            "employer": "饌元股份有限公司（早餐吃麥片 / 運動吃蛋白 / UrMart）",
             "detailUrl": "https://mit.jobs/jobs/3771-%E5%89%8D%E7%AB%AF%E7%B6%B2%E9%A0%81%E5%B7%A5%E7%A8%8B%E5%B8%ABfront-end-engineer-f2e%E2%9A%A1%EF%B8%8F%E8%81%B7%E7%BC%BA%E9%96%8B%E6%94%BE%E4%B8%AD",
             "employerDetailUrl": "https://fastretain.mit.jobs/",
             "pay": "51,000 -85,000",
@@ -12628,6 +12846,1069 @@
             ]
         },
         {
+            "title": "iOS Developer",
+            "employer": "KNIT",
+            "detailUrl": "https://mit.jobs/jobs/10644-ios-developer",
+            "pay": "20,000 -27,000",
+            "paidBy": "EUR 每月",
+            "location": "Lisbon, Portugal",
+            "summary": "",
+            "tags": [
+                "#Swift",
+                "#ios",
+                "#Objective-C",
+                "#English"
+            ]
+        },
+        {
+            "title": "Back-end Developer",
+            "employer": "KNIT",
+            "detailUrl": "https://mit.jobs/jobs/10643-back-end-developer",
+            "pay": "20,000 -30,000",
+            "paidBy": "EUR 每年",
+            "location": "Lisbon, Portugal",
+            "summary": "",
+            "tags": [
+                "#MySQL",
+                "#JavaScript",
+                "#Go",
+                "#React",
+                "#Amazon Web Services (AWS)",
+                "#Portuguese"
+            ]
+        },
+        {
+            "title": "Social & Content Manager",
+            "employer": "Sonno",
+            "detailUrl": "https://mit.jobs/jobs/10642-social-content-manager",
+            "pay": "3,000 -6,000",
+            "paidBy": "SGD 每月",
+            "location": "Kuala Lumpur, Malaysia",
+            "summary": "",
+            "tags": [
+                "#Marketing",
+                "#Content Marketing",
+                "#Digital Marketing",
+                "#Marketing Communications",
+                "#English"
+            ]
+        },
+        {
+            "title": "Growth Marketer",
+            "employer": "Moovaz Innovation Pte Ltd",
+            "detailUrl": "https://mit.jobs/jobs/10641-growth-marketer",
+            "pay": "2,600 -3,600",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Business Development",
+                "#Marketing",
+                "#Content Marketing",
+                "#Digital Marketing",
+                "#Marketing Communications",
+                "#Communication Skills",
+                "#Adobe Photoshop",
+                "#Marketing Strategy",
+                "#Sales & Marketing",
+                "#English"
+            ]
+        },
+        {
+            "title": "Digital Content Executive",
+            "employer": "Plato Medical",
+            "detailUrl": "https://mit.jobs/jobs/10640-digital-content-executive",
+            "pay": "4,000 -5,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Marketing",
+                "#Content Marketing",
+                "#Digital Marketing",
+                "#Marketing Communications",
+                "#Communication Skills",
+                "#Marketing Strategy",
+                "#Sales & Marketing",
+                "#English"
+            ]
+        },
+        {
+            "title": "Growth hacker",
+            "employer": "Flair",
+            "detailUrl": "https://mit.jobs/jobs/10639-growth-hacker",
+            "pay": "3,000 -4,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Business Development",
+                "#Analytics",
+                "#Marketing",
+                "#SEO/SEM",
+                "#Digital Marketing",
+                "#Growth Hacking",
+                "#A/B Testing",
+                "#Creative Problem Solving",
+                "#English"
+            ]
+        },
+        {
+            "title": "Full Stack Developer",
+            "employer": "Microsec Pte Ltd",
+            "detailUrl": "https://mit.jobs/jobs/10638-full-stack-developer",
+            "pay": "4,000 -6,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Git",
+                "#Linux",
+                "#Python",
+                "#Linux System Administration",
+                "#django",
+                "#Amazon Web Services (AWS)",
+                "#Information Security",
+                "#English"
+            ]
+        },
+        {
+            "title": "Strategic Partnership",
+            "employer": "PolicyPal",
+            "detailUrl": "https://mit.jobs/jobs/10637-strategic-partnership",
+            "pay": "3,500 -6,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Business Development",
+                "#management",
+                "#Blockchain",
+                "#Business Development & Partnerships",
+                "#Strategic Partnerships",
+                "#Customer service",
+                "#Sales & Marketing",
+                "#customer experience",
+                "#Sales Strategy & Management",
+                "#Customer Relationship",
+                "#English"
+            ]
+        },
+        {
+            "title": "Business Development Manager - Singapore",
+            "employer": "Agorize",
+            "detailUrl": "https://mit.jobs/jobs/10636-business-development-manager-singapore",
+            "pay": "3,500 -7,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Business Development",
+                "#Business Development & Partnerships",
+                "#Sales & Marketing",
+                "#Sales Strategy & Management",
+                "#English"
+            ]
+        },
+        {
+            "title": "Business Development Executive",
+            "employer": "Plato Medical",
+            "detailUrl": "https://mit.jobs/jobs/10635-business-development-executive",
+            "pay": "3,500 -4,500",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Business Development & Partnerships",
+                "#Sales & Marketing",
+                "#Sales Strategy & Management",
+                "#English"
+            ]
+        },
+        {
+            "title": "Java Developer - Business System Analyst (Oracle/PLSQL)",
+            "employer": "Softenger (Singapore) Pte Ltd",
+            "detailUrl": "https://mit.jobs/jobs/10634-java-developer-business-system-analyst-oracleplsql",
+            "pay": "5,000 -5,700",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Java",
+                "#oracle",
+                "#Java J2EE",
+                "#English"
+            ]
+        },
+        {
+            "title": "Sales Executive",
+            "employer": "DREA Singapore",
+            "detailUrl": "https://mit.jobs/jobs/10633-sales-executive",
+            "pay": "3,000 -4,500",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Business Development",
+                "#sales",
+                "#Business Development & Partnerships",
+                "#Salesforce",
+                "#Inside Sales",
+                "#Sales & Marketing",
+                "#Sales Training",
+                "#Sales Strategy & Management",
+                "#Sales Support",
+                "#English"
+            ]
+        },
+        {
+            "title": "Software Engineer",
+            "employer": "KeyReply",
+            "detailUrl": "https://mit.jobs/jobs/10632-software-engineer",
+            "pay": "4,000 -6,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Machine Learning",
+                "#Software Development",
+                "#Node.js",
+                "#Software Engineering",
+                "#Natural Language Processing (NLP)",
+                "#Artificial Intelligence (AI)",
+                "#English"
+            ]
+        },
+        {
+            "title": "PHP Developer",
+            "employer": "AiChat",
+            "detailUrl": "https://mit.jobs/jobs/10631-php-developer",
+            "pay": "3,500 -6,500",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#PHP",
+                "#Node.js",
+                "#Laravel",
+                "#English"
+            ]
+        },
+        {
+            "title": "Front-end Developer",
+            "employer": "Pand.ai",
+            "detailUrl": "https://mit.jobs/jobs/10630-front-end-developer",
+            "pay": "4,000 -6,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#JavaScript",
+                "#AngularJS",
+                "#React.js",
+                "#Node.js",
+                "#Redux",
+                "#Vue.js",
+                "#Javascript Frameworks",
+                "#Ember.js",
+                "#English"
+            ]
+        },
+        {
+            "title": "Backend Developer",
+            "employer": "TabSquare",
+            "detailUrl": "https://mit.jobs/jobs/10629-backend-developer",
+            "pay": "4,000 -5,500",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#PHP",
+                "#MySQL",
+                "#Product Management",
+                "#English"
+            ]
+        },
+        {
+            "title": "Full-stack Developer",
+            "employer": "Deloitte",
+            "detailUrl": "https://mit.jobs/jobs/10628-full-stack-developer",
+            "pay": "3,000 -5,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Linux",
+                "#JavaScript",
+                "#HTML5 & CSS3",
+                "#English"
+            ]
+        },
+        {
+            "title": "Software/Mobile Developer",
+            "employer": "Y3 Technologies Pte Ltd",
+            "detailUrl": "https://mit.jobs/jobs/10627-softwaremobile-developer",
+            "pay": "3,600 -6,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#MySQL",
+                "#JavaScript",
+                "#React.js",
+                "#Node.js",
+                "#Golang",
+                "#English"
+            ]
+        },
+        {
+            "title": "Front End Developer",
+            "employer": "ADVANCE.AI",
+            "detailUrl": "https://mit.jobs/jobs/10626-front-end-developer",
+            "pay": "4,000 -8,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#HTML",
+                "#CSS",
+                "#JavaScript",
+                "#English"
+            ]
+        },
+        {
+            "title": "Senior Back-End Developer",
+            "employer": "ADVANCE.AI",
+            "detailUrl": "https://mit.jobs/jobs/10625-senior-back-end-developer",
+            "pay": "5,000 -8,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#MySQL",
+                "#MongoDB",
+                "#Hadoop",
+                "#Spark",
+                "#Redis",
+                "#MVC",
+                "#English"
+            ]
+        },
+        {
+            "title": "Senior Front End Developer",
+            "employer": "ADVANCE.AI",
+            "detailUrl": "https://mit.jobs/jobs/10624-senior-front-end-developer",
+            "pay": "4,000 -8,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#HTML",
+                "#CSS",
+                "#JavaScript",
+                "#Vue.js",
+                "#English"
+            ]
+        },
+        {
+            "title": "Senior Manager, Software Engineering",
+            "employer": "Indeed Singapore",
+            "detailUrl": "https://mit.jobs/jobs/10623-senior-manager-software-engineering",
+            "pay": "12,000 -24,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Java",
+                "#Distributed Systems",
+                "#Team Management",
+                "#Agile Software Development",
+                "#English"
+            ]
+        },
+        {
+            "title": "Full Stack Engineer",
+            "employer": "Plato Medical",
+            "detailUrl": "https://mit.jobs/jobs/10622-full-stack-engineer",
+            "pay": "6,000 -7,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#PHP",
+                "#MySQL",
+                "#JavaScript",
+                "#Node.js",
+                "#Laravel",
+                "#Javascript Frameworks",
+                "#English"
+            ]
+        },
+        {
+            "title": "software engineer",
+            "employer": "GREYPANEL",
+            "detailUrl": "https://mit.jobs/jobs/10621-software-engineer",
+            "pay": "3,000 -5,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#MySQL",
+                "#JavaScript",
+                "#Python",
+                "#Java",
+                "#HTML5 & CSS3"
+            ]
+        },
+        {
+            "title": "Software Engineer",
+            "employer": "KeyReply",
+            "detailUrl": "https://mit.jobs/jobs/10620-software-engineer",
+            "pay": "4,000 -6,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Machine Learning",
+                "#Software Development",
+                "#Node.js",
+                "#Software Engineering",
+                "#Natural Language Processing (NLP)",
+                "#Artificial Intelligence (AI)"
+            ]
+        },
+        {
+            "title": "Software Developer (Frontend)",
+            "employer": "Toki.Games",
+            "detailUrl": "https://mit.jobs/jobs/10619-software-developer-frontend",
+            "pay": "3,000 -4,200",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Git",
+                "#JavaScript",
+                "#React.js",
+                "#RESTful Services",
+                "#agile",
+                "#Front-End Development",
+                "#angular",
+                "#HTML+CSS"
+            ]
+        },
+        {
+            "title": "前端開發工程師",
+            "employer": "五二在線有限公司",
+            "detailUrl": "https://mit.jobs/jobs/10614-%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC%E5%B7%A5%E7%A8%8B%E5%B8%AB",
+            "employerDetailUrl": "https://52online.mit.jobs/",
+            "pay": "40,000 -60,000",
+            "paidBy": "TWD 每月",
+            "location": "Taipei City, Taiwan",
+            "summary": "\t- 熟悉程式語言如 Go、Node.js、JavaScirpt 等，且願意學習其它程式語言\n- 熟悉使用 TCP/IP、HTTP\n- 良好的 OOP 觀念, 寫作習慣良好, 程式碼清晰易讀...",
+            "tags": [
+                "#MySQL",
+                "#JavaScript",
+                "#MongoDB",
+                "#TCP/IP",
+                "#Redis",
+                "#HTTP",
+                "#Socket",
+                "#Node.js",
+                "#OOP",
+                "#GitHub",
+                "#Gitlab"
+            ]
+        },
+        {
+            "title": "前端開發工程師",
+            "employer": "五二在線有限公司",
+            "detailUrl": "https://mit.jobs/jobs/10613-%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC%E5%B7%A5%E7%A8%8B%E5%B8%AB",
+            "employerDetailUrl": "https://52online.mit.jobs/",
+            "pay": "40,000 -60,000",
+            "paidBy": "TWD 每月",
+            "location": "Taipei City, Taiwan",
+            "summary": "-熟悉 Bootstrap, CSS, SCSS, Javascript, Typescript, GitHub, JQuery, Ajax, Vue.js, JSON\n-良好的分析和解決問題...",
+            "tags": [
+                "#CSS",
+                "#JavaScript",
+                "#jQuery",
+                "#Ajax",
+                "#bootstrap",
+                "#Node.js",
+                "#SCSS",
+                "#GitHub",
+                "#Vue.js",
+                "#DHTML",
+                "#TypeScript"
+            ]
+        },
+        {
+            "title": "Digital Marketing Executive (Communications & PR)",
+            "employer": "Kristal.Ai",
+            "detailUrl": "https://mit.jobs/jobs/10610-digital-marketing-executive-communications-pr",
+            "pay": "20,000 -40,000",
+            "paidBy": "HKD 每月",
+            "location": "Hong Kong",
+            "summary": "",
+            "tags": []
+        },
+        {
+            "title": "Data Analyst",
+            "employer": "55 the data company",
+            "detailUrl": "https://mit.jobs/jobs/10609-data-analyst",
+            "pay": "20,000 -40,000",
+            "paidBy": "HKD 每月",
+            "location": "Hong Kong",
+            "summary": "",
+            "tags": []
+        },
+        {
+            "title": "Sales & Business Development Manager",
+            "employer": "Garage Society",
+            "detailUrl": "https://mit.jobs/jobs/10608-sales-business-development-manager",
+            "pay": "20,000 -40,000",
+            "paidBy": "HKD 每月",
+            "location": "Hong Kong",
+            "summary": "",
+            "tags": []
+        },
+        {
+            "title": "Account Manager",
+            "employer": "Shootsta",
+            "detailUrl": "https://mit.jobs/jobs/10607-account-manager",
+            "pay": "20,000 -40,000",
+            "paidBy": "HKD 每月",
+            "location": "Hong Kong",
+            "summary": "",
+            "tags": []
+        },
+        {
+            "title": "Web Frontend Developer (AI / Chat tech, Ads tech)",
+            "employer": "Easychat",
+            "detailUrl": "https://mit.jobs/jobs/10606-web-frontend-developer-ai-chat-tech-ads-tech",
+            "pay": "20,000 -40,000",
+            "paidBy": "HKD 每月",
+            "location": "Hong Kong",
+            "summary": "",
+            "tags": []
+        },
+        {
+            "title": "Fullstack Javascript Developer",
+            "employer": "JustDo",
+            "detailUrl": "https://mit.jobs/jobs/10605-fullstack-javascript-developer",
+            "pay": "40,000 -60,000",
+            "paidBy": "HKD 每月",
+            "location": "Hong Kong",
+            "summary": "",
+            "tags": []
+        },
+        {
+            "title": "Full-Stack Engineer",
+            "employer": "Finimize",
+            "detailUrl": "https://mit.jobs/jobs/10575-full-stack-engineer",
+            "pay": "40,000 -80,000",
+            "paidBy": "EUR 每年",
+            "location": "London, United Kingdom",
+            "summary": "",
+            "tags": [
+                "#Python",
+                "#Backend Development",
+                "#django",
+                "#React",
+                "#English"
+            ]
+        },
+        {
+            "title": "Research Scientist (Computer Vision)",
+            "employer": "ADVANCE.AI",
+            "detailUrl": "https://mit.jobs/jobs/10574-research-scientist-computer-vision",
+            "pay": "5,000 -9,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Computer vision",
+                "#Data Analysis",
+                "#Data Science",
+                "#Data Management",
+                "#English"
+            ]
+        },
+        {
+            "title": "Data Engineer (Deep Learning)",
+            "employer": "ADVANCE.AI",
+            "detailUrl": "https://mit.jobs/jobs/10573-data-engineer-deep-learning",
+            "pay": "4,000 -5,500",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Python",
+                "#Computer vision",
+                "#Engineering",
+                "#English"
+            ]
+        },
+        {
+            "title": "Business Intelligence Analyst (Computer Vision)",
+            "employer": "ADVANCE.AI",
+            "detailUrl": "https://mit.jobs/jobs/10572-business-intelligence-analyst-computer-vision",
+            "pay": "4,000 -5,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Python",
+                "#SQL",
+                "#Data Analysis",
+                "#Analytical Skills",
+                "#English"
+            ]
+        },
+        {
+            "title": "Strategic Partnership",
+            "employer": "PolicyPal",
+            "detailUrl": "https://mit.jobs/jobs/10571-strategic-partnership",
+            "pay": "3,500 -6,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Business Development",
+                "#Customer Relationship Management",
+                "#Blockchain",
+                "#Business Development & Partnerships",
+                "#Strategic Partnerships",
+                "#Customer service",
+                "#Sales & Marketing",
+                "#customer experience",
+                "#Sales Strategy & Management",
+                "#English"
+            ]
+        },
+        {
+            "title": "Business Development Manager - Singapore",
+            "employer": "Agorize",
+            "detailUrl": "https://mit.jobs/jobs/10570-business-development-manager-singapore",
+            "pay": "3,500 -7,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Business Development",
+                "#Business Development & Partnerships",
+                "#Sales & Marketing",
+                "#Sales Strategy & Management",
+                "#English"
+            ]
+        },
+        {
+            "title": "Backend Developer",
+            "employer": "MediLOT Technologies",
+            "detailUrl": "https://mit.jobs/jobs/10569-backend-developer",
+            "pay": "4,000 -6,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#JavaScript",
+                "#Java",
+                "#frameworks",
+                "#C/C++",
+                "#English"
+            ]
+        },
+        {
+            "title": "Full-Stack Developers",
+            "employer": "Zilliqa",
+            "detailUrl": "https://mit.jobs/jobs/10568-full-stack-developers",
+            "pay": "4,000 -8,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#MySQL",
+                "#HTML",
+                "#Linux",
+                "#JavaScript",
+                "#Python",
+                "#MongoDB",
+                "#jQuery",
+                "#AngularJS",
+                "#React.js",
+                "#bootstrap",
+                "#NoSQL",
+                "#Node.js",
+                "#HTML5 & CSS3",
+                "#angular",
+                "#HTML+CSS",
+                "#Javascript Frameworks",
+                "#jQuery Mobile",
+                "#English"
+            ]
+        },
+        {
+            "title": "Software Engineer (Backend)",
+            "employer": "Toki.Games",
+            "detailUrl": "https://mit.jobs/jobs/10567-software-engineer-backend",
+            "pay": "3,000 -4,200",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Java",
+                "#spring",
+                "#agile",
+                "#Amazon Web Services (AWS)",
+                "#maven",
+                "#English"
+            ]
+        },
+        {
+            "title": "Senior Backend Engineer (Node.js)",
+            "employer": "Wunder Mobility",
+            "detailUrl": "https://mit.jobs/jobs/10566-senior-backend-engineer-nodejs",
+            "pay": "60,000 -78,000",
+            "paidBy": "EUR 每年",
+            "location": "Hamburg, Germany",
+            "summary": "",
+            "tags": [
+                "#SQL",
+                "#Backend Development",
+                "#SCRUM",
+                "#Node.js"
+            ]
+        },
+        {
+            "title": "Senior Front-end Engineer",
+            "employer": "Atfarm",
+            "detailUrl": "https://mit.jobs/jobs/10565-senior-front-end-engineer",
+            "pay": "50,000 -80,000",
+            "paidBy": "EUR 每年",
+            "location": "Berlin, Germany",
+            "summary": "",
+            "tags": [
+                "#JavaScript",
+                "#React",
+                "#Amazon Web Services (AWS)",
+                "#English"
+            ]
+        },
+        {
+            "title": "Engineering Lead (Chapter)",
+            "employer": "Wunder Mobility",
+            "detailUrl": "https://mit.jobs/jobs/10564-engineering-lead-chapter",
+            "pay": "72,000 -96,000",
+            "paidBy": "EUR 每年",
+            "location": "Hamburg, Germany",
+            "summary": "",
+            "tags": [
+                "#Software Development",
+                "#Team Leadership",
+                "#Software Architect",
+                "#English"
+            ]
+        },
+        {
+            "title": "Senior Software Engineer",
+            "employer": "FreightHub",
+            "detailUrl": "https://mit.jobs/jobs/10563-senior-software-engineer",
+            "pay": "30,000 -50,000",
+            "paidBy": "EUR 每年",
+            "location": "Portugal",
+            "summary": "",
+            "tags": [
+                "#JavaScript",
+                "#MongoDB",
+                "#Node.js",
+                "#English"
+            ]
+        },
+        {
+            "title": "Back-end Developer",
+            "employer": "Pipedrive",
+            "detailUrl": "https://mit.jobs/jobs/10562-back-end-developer",
+            "pay": "30,000 -50,000",
+            "paidBy": "EUR 每年",
+            "location": "Lisbon, Portugal",
+            "summary": "",
+            "tags": [
+                "#Go",
+                "#Node.js",
+                "#TypeScript"
+            ]
+        },
+        {
+            "title": "Back-end Developer",
+            "employer": "BESTSELLER",
+            "detailUrl": "https://mit.jobs/jobs/10561-back-end-developer",
+            "pay": "35,000 -40,000",
+            "paidBy": "EUR 每年",
+            "location": "Lisbon, Portugal",
+            "summary": "",
+            "tags": [
+                "#Java",
+                "#spring",
+                "#Kafka",
+                "#Amazon Web Services (AWS)",
+                "#English"
+            ]
+        },
+        {
+            "title": "Senior Java Hybris Developer - Stuttgart",
+            "employer": "diconium group",
+            "detailUrl": "https://mit.jobs/jobs/10560-senior-java-hybris-developer-stuttgart",
+            "pay": "45,000 -65,000",
+            "paidBy": "EUR 每年",
+            "location": "Stuttgart, Germany",
+            "summary": "",
+            "tags": [
+                "#Hibernate",
+                "#hybris",
+                "#JavaSpring",
+                "#English"
+            ]
+        },
+        {
+            "title": "Engineering Squad Lead",
+            "employer": "Wunder Mobility",
+            "detailUrl": "https://mit.jobs/jobs/10559-engineering-squad-lead",
+            "pay": "72,000 -96,000",
+            "paidBy": "EUR 每年",
+            "location": "Hamburg, Germany",
+            "summary": "",
+            "tags": [
+                "#Agile Methodologies",
+                "#Team Leadership",
+                "#Software Architect",
+                "#Full-Stack Development",
+                "#English"
+            ]
+        },
+        {
+            "title": "Fullstack Web Developer",
+            "employer": "Stocard",
+            "detailUrl": "https://mit.jobs/jobs/10558-fullstack-web-developer",
+            "pay": "40,000 -70,000",
+            "paidBy": "EUR 每年",
+            "location": "Mannheim, Germany",
+            "summary": "",
+            "tags": [
+                "#JavaScript",
+                "#Node.js",
+                "#Web Development",
+                "#TypeScript",
+                "#Full-Stack Development",
+                "#English"
+            ]
+        },
+        {
+            "title": "Agile Coach",
+            "employer": "Holaluz",
+            "detailUrl": "https://mit.jobs/jobs/10557-agile-coach",
+            "pay": "30,000 -40,000",
+            "paidBy": "EUR 每年",
+            "location": "Barcelona, Spain",
+            "summary": "",
+            "tags": [
+                "#Project Management",
+                "#SCRUM",
+                "#Agile Methodologies",
+                "#Agile Coaching"
+            ]
+        },
+        {
+            "title": "Python Developer",
+            "employer": "Habit Analytics",
+            "detailUrl": "https://mit.jobs/jobs/10556-python-developer",
+            "pay": "30,000 -60,000",
+            "paidBy": "EUR 每年",
+            "location": "Lisbon, Portugal",
+            "summary": "",
+            "tags": [
+                "#JavaScript",
+                "#Python",
+                "#REST APIs",
+                "#Databases",
+                "#English"
+            ]
+        },
+        {
+            "title": "Android Engineering Lead",
+            "employer": "Wunder Mobility",
+            "detailUrl": "https://mit.jobs/jobs/10555-android-engineering-lead",
+            "pay": "66,000 -90,000",
+            "paidBy": "EUR 每年",
+            "location": "Hamburg, Germany",
+            "summary": "",
+            "tags": [
+                "#Android",
+                "#Kotlin",
+                "#Team Leadership",
+                "#Mobile Architecture",
+                "#English"
+            ]
+        },
+        {
+            "title": "Mobile Engineering Lead",
+            "employer": "Wunder Mobility",
+            "detailUrl": "https://mit.jobs/jobs/10554-mobile-engineering-lead",
+            "pay": "66,000 -90,000",
+            "paidBy": "EUR 每月",
+            "location": "Hamburg, Germany",
+            "summary": "",
+            "tags": [
+                "#Swift",
+                "#Android",
+                "#ios",
+                "#Clean Code",
+                "#Kotlin",
+                "#English"
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "employer": "Clay Solutions - A SALTO Group Company",
+            "detailUrl": "https://mit.jobs/jobs/10553-web-developer",
+            "pay": "30,000 -50,000",
+            "paidBy": "EUR 每年",
+            "location": "Amsterdam, Netherlands",
+            "summary": "",
+            "tags": [
+                "#PHP",
+                "#HTML",
+                "#CSS",
+                "#JavaScript",
+                "#Wordpress",
+                "#English"
+            ]
+        },
+        {
+            "title": "Account Manager",
+            "employer": "Hapz",
+            "detailUrl": "https://mit.jobs/jobs/10552-account-manager",
+            "pay": "3,000 -5,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Business Development",
+                "#Communication Skills",
+                "#Business Development & Partnerships",
+                "#business analysis",
+                "#Sales Strategy & Management"
+            ]
+        },
+        {
+            "title": "Business Analyst",
+            "employer": "Hapz",
+            "detailUrl": "https://mit.jobs/jobs/10551-business-analyst",
+            "pay": "2,200 -3,800",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Analytics",
+                "#Data Analysis",
+                "#Communication Skills",
+                "#Analytical Skills",
+                "#business analysis",
+                "#Analytics & Reporting"
+            ]
+        },
+        {
+            "title": "Marketing Executive (Community)",
+            "employer": "You Technologies Group Limited (YouTrip)",
+            "detailUrl": "https://mit.jobs/jobs/10550-marketing-executive-community",
+            "pay": "2,500 -3,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Marketing",
+                "#Digital Marketing",
+                "#Marketing Communications",
+                "#Communication Skills",
+                "#Business Development & Partnerships",
+                "#Marketing Strategy",
+                "#Sales & Marketing"
+            ]
+        },
+        {
+            "title": "Digital Marketing Lead",
+            "employer": "Toki.Games",
+            "detailUrl": "https://mit.jobs/jobs/10549-digital-marketing-lead",
+            "pay": "3,000 -6,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Marketing",
+                "#SEO/SEM",
+                "#Digital Marketing",
+                "#Marketing Communications",
+                "#Growth Hacking",
+                "#Marketing Strategy"
+            ]
+        },
+        {
+            "title": "Deep Learning Engineer",
+            "employer": "ABEJA",
+            "detailUrl": "https://mit.jobs/jobs/10547-deep-learning-engineer",
+            "pay": "5,000 -8,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Machine Learning",
+                "#Data Analysis",
+                "#Data Science",
+                "#Big Data"
+            ]
+        },
+        {
+            "title": "Senior Executive, Data Management",
+            "employer": "Singapore Land Authority",
+            "detailUrl": "https://mit.jobs/jobs/10546-senior-executive-data-management",
+            "pay": "2,800 -5,600",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Data Analysis",
+                "#Data Science",
+                "#Big Data",
+                "#data warehouse",
+                "#Databases",
+                "#Relational Databases",
+                "#Information Architecture",
+                "#ata Management",
+                "#English"
+            ]
+        },
+        {
+            "title": "Assistant Manager, GeoAnalytics",
+            "employer": "Singapore Land Authority",
+            "detailUrl": "https://mit.jobs/jobs/10545-assistant-manager-geoanalytics",
+            "pay": "4,000 -7,000",
+            "paidBy": "SGD 每月",
+            "location": "Singapore",
+            "summary": "",
+            "tags": [
+                "#Data Analysis",
+                "#Data Science",
+                "#Programming",
+                "#Information Technology",
+                "#web analytics",
+                "#Infrastructure",
+                "#Data Management",
+                "#data warehouse",
+                "#Information Architecture",
+                "#Statistical Analysis",
+                "#English"
+            ]
+        },
+        {
             "title": "React Developer",
             "employer": "Pytheas",
             "detailUrl": "https://mit.jobs/jobs/10535-react-developer",
@@ -12919,21 +14200,6 @@
                 "#Digital Marketing",
                 "#Marketing Communications",
                 "#English"
-            ]
-        },
-        {
-            "title": "Digital Marketing Analyst",
-            "employer": "Hitchbird",
-            "detailUrl": "https://mit.jobs/jobs/10514-digital-marketing-analyst",
-            "pay": "4,000 -5,000",
-            "paidBy": "SGD 每月",
-            "location": "Kuala Lumpur, Malaysia",
-            "summary": "",
-            "tags": [
-                "#Marketing",
-                "#Sales & Marketing",
-                "#Digital Marketin",
-                "#g Business Development & Partnerships"
             ]
         },
         {
@@ -15211,21 +16477,6 @@
             ]
         },
         {
-            "title": "Digital Marketing",
-            "employer": "PolicyPal",
-            "detailUrl": "https://mit.jobs/jobs/10234-digital-marketing",
-            "pay": "3,000 -10,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Content Marketing",
-                "#Digital Marketing",
-                "#CRM",
-                "#English"
-            ]
-        },
-        {
             "title": "Marketing Associate (Content)",
             "employer": "Janio Technologies",
             "detailUrl": "https://mit.jobs/jobs/10233-marketing-associate-content",
@@ -15804,20 +17055,6 @@
             ]
         },
         {
-            "title": "PM專案助理",
-            "employer": "科技部人工智慧普適研究中心",
-            "detailUrl": "https://mit.jobs/jobs/10185-pm%E5%B0%88%E6%A1%88%E5%8A%A9%E7%90%86",
-            "employerDetailUrl": "https://pair.mit.jobs/",
-            "pay": "35,000 -65,000",
-            "paidBy": "TWD 每月",
-            "location": "Taiwan",
-            "summary": "【工作內容】：\n一、協助處理AI研究中心轄下專案計劃之執行、管理及報告。\n二、協助處理AI研究中心國際交流計畫之規劃、協調及執行。\n三、協助處理AI研究中心產學計畫之聯繫、發文、核銷與報表...",
-            "tags": [
-                "#MS Office",
-                "#English"
-            ]
-        },
-        {
             "title": "Windows Server Engineer",
             "employer": "田中系統顧問股份有限公司",
             "detailUrl": "https://mit.jobs/jobs/10173-windows-server-engineer",
@@ -15831,20 +17068,6 @@
                 "#Active Directory",
                 "#Exchange",
                 "#Chinese"
-            ]
-        },
-        {
-            "title": "iOS Developer",
-            "employer": "諾亞克科技股份有限公司",
-            "detailUrl": "https://mit.jobs/jobs/10167-ios-developer",
-            "employerDetailUrl": "https://uark.mit.jobs/",
-            "pay": "40,000 -55,000",
-            "paidBy": "TWD 每月",
-            "location": "Taiwan",
-            "summary": "開發並協助上架醫療、護理、長照、健康管理相關應用APP",
-            "tags": [
-                "#Git",
-                "#iOS(Swift)"
             ]
         },
         {
@@ -16468,24 +17691,6 @@
             ]
         },
         {
-            "title": "Customer Care Associate - Remote China",
-            "employer": "Axiom Real-Time Metrics Inc.",
-            "detailUrl": "https://mit.jobs/jobs/10082-customer-care-associate-remote-china",
-            "employerDetailUrl": "https://axiommetrics.mit.jobs/",
-            "pay": "240,000 -252,000",
-            "paidBy": "CNY 每年",
-            "location": "China",
-            "summary": "The Customer Care Associate is an integral part of the Axiom team focusing on maintaining day to ...",
-            "tags": [
-                "#Excellent verbal and written communication skills",
-                "#english",
-                "#team player",
-                "#Customer Support",
-                "#time management",
-                "#English"
-            ]
-        },
-        {
             "title": "Full Stack Developers",
             "employer": "Tourego",
             "detailUrl": "https://mit.jobs/jobs/10081-full-stack-developers",
@@ -16896,20 +18101,6 @@
             ]
         },
         {
-            "title": "Digital Marketing",
-            "employer": "PolicyPal",
-            "detailUrl": "https://mit.jobs/jobs/10049-digital-marketing",
-            "pay": "3,000 -10,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Marketing",
-                "#Content Marketing",
-                "#CRM"
-            ]
-        },
-        {
             "title": "ReactJS Developer",
             "employer": "Upstack Studio",
             "detailUrl": "https://mit.jobs/jobs/10048-reactjs-developer",
@@ -16964,19 +18155,6 @@
             "tags": [
                 "#Git",
                 "#Solidity",
-                "#English"
-            ]
-        },
-        {
-            "title": "海外越南廠區財務主管 (需派駐越南) Finance Manager",
-            "employer": "首席國際獵才有限公司",
-            "detailUrl": "https://mit.jobs/jobs/10037-%E6%B5%B7%E5%A4%96%E8%B6%8A%E5%8D%97%E5%BB%A0%E5%8D%80%E8%B2%A1%E5%8B%99%E4%B8%BB%E7%AE%A1-%E9%9C%80%E6%B4%BE%E9%A7%90%E8%B6%8A%E5%8D%97-finance-manager",
-            "employerDetailUrl": "https://chiefhunter.mit.jobs/",
-            "pay": "1,200,000 -1,400,000",
-            "paidBy": "TWD 每年",
-            "location": "Taiwan",
-            "summary": "全球知名運動品牌",
-            "tags": [
                 "#English"
             ]
         },
@@ -17050,20 +18228,6 @@
             ]
         },
         {
-            "title": "顾问助理 | Assistant to Advisor（零售学徒）",
-            "employer": "Lotusonwater Feng Shui Pte Ltd",
-            "detailUrl": "https://mit.jobs/jobs/10019-%E9%A1%BE%E9%97%AE%E5%8A%A9%E7%90%86-assistant-to-advisor%E9%9B%B6%E5%94%AE%E5%AD%A6%E5%BE%92",
-            "employerDetailUrl": "https://lotusonwater.mit.jobs/",
-            "pay": "1,880 -15,000",
-            "paidBy": "SGD 每月",
-            "location": "no office location",
-            "summary": "新加坡风水珠宝界的头号公司，诚聘：顾问助理 | Assistant to Advisor（零售学徒）",
-            "tags": [
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
             "title": "(Sr.) Android Developer",
             "employer": "Booking.com",
             "detailUrl": "https://mit.jobs/jobs/10018-sr-android-developer",
@@ -17095,20 +18259,6 @@
                 "#HTML5/CSS/Javascript",
                 "#svg",
                 "#canvas"
-            ]
-        },
-        {
-            "title": "Assistant to Advisor (Retail Assistant Apprenticeship)",
-            "employer": "Lotusonwater Feng Shui Pte Ltd",
-            "detailUrl": "https://mit.jobs/jobs/10016-assistant-to-advisor-retail-assistant-apprenticeship",
-            "employerDetailUrl": "https://lotusonwater.mit.jobs/",
-            "pay": "1,880 -15,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore, Singapore",
-            "summary": "Apprenticeship entry-level postion, for retail/service career in one of most prestigious Asian br...",
-            "tags": [
-                "#English",
-                "#Chinese"
             ]
         },
         {
@@ -17911,2078 +19061,6 @@
                 "#HTML",
                 "#CSS",
                 "#JavaScript",
-                "#English"
-            ]
-        },
-        {
-            "title": "SEO 搜尋引擎優化專員",
-            "employer": "Aloha Group Limited",
-            "detailUrl": "https://mit.jobs/jobs/9905-seo-%E6%90%9C%E5%B0%8B%E5%BC%95%E6%93%8E%E5%84%AA%E5%8C%96%E5%B0%88%E5%93%A1",
-            "employerDetailUrl": "https://alohaonline.mit.jobs/",
-            "pay": "50,000 -100,000",
-            "paidBy": "TWD 每月",
-            "location": "Taiwan",
-            "summary": "",
-            "tags": [
-                "#HTML",
-                "#CSS",
-                "#JavaScript",
-                "#Google Analytics",
-                "#Google Adwords",
-                "#google search console",
-                "#Bing ad",
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "Program Associate",
-            "employer": "BE Accelerator",
-            "detailUrl": "https://mit.jobs/jobs/9903-program-associate",
-            "employerDetailUrl": "https://beaccelerator.mit.jobs/",
-            "pay": "30,000 -60,000",
-            "paidBy": "TWD 每月",
-            "location": "Taiwan",
-            "summary": "The Program Associate will play an integral role in the execution and delivery of our acceleratio...",
-            "tags": [
-                "#Project Management",
-                "#Business Development",
-                "#Online Marketing",
-                "#Passion",
-                "#Teamwork",
-                "#Comunication Skills",
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "Front-end Software Engineerr",
-            "employer": "muse.ai",
-            "detailUrl": "https://mit.jobs/jobs/9896-front-end-software-engineerr",
-            "pay": "25,000 -30,000",
-            "paidBy": "EUR 每年",
-            "location": "Lisbon, Portugal",
-            "summary": "",
-            "tags": [
-                "#CSS",
-                "#JavaScript",
-                "#Python",
-                "#HTML5",
-                "#jQuery",
-                "#English"
-            ]
-        },
-        {
-            "title": "Full-stack Python Developer",
-            "employer": "Logitravel Group",
-            "detailUrl": "https://mit.jobs/jobs/9895-full-stack-python-developer",
-            "pay": "30,000 -40,000",
-            "paidBy": "EUR 每年",
-            "location": "Palma, Spain",
-            "summary": "",
-            "tags": [
-                "#Python",
-                "#MongoDB",
-                "#REST APIs",
-                "#django",
-                "#NoSQL",
-                "#Spanish"
-            ]
-        },
-        {
-            "title": "Senior Full-Stack Engineer React / Python",
-            "employer": "Babbel",
-            "detailUrl": "https://mit.jobs/jobs/9894-senior-full-stack-engineer-react-python",
-            "pay": "50,000 -70,000",
-            "paidBy": "EUR 每年",
-            "location": "Berlin, Germany",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#Python",
-                "#Ruby",
-                "#React",
-                "#Amazon Web Services (AWS)",
-                "#English"
-            ]
-        },
-        {
-            "title": "Senior Full-stack Developer",
-            "employer": "Better Payment Germany GmbH",
-            "detailUrl": "https://mit.jobs/jobs/9893-senior-full-stack-developer",
-            "pay": "50,000 -60,000",
-            "paidBy": "EUR 每年",
-            "location": "Berlin, Germany",
-            "summary": "",
-            "tags": [
-                "#Ruby on Rails",
-                "#JavaScript",
-                "#AngularJS",
-                "#REST APIs",
-                "#PostgreSQL",
-                "#English"
-            ]
-        },
-        {
-            "title": "Back-end Developer",
-            "employer": "Pipedrive",
-            "detailUrl": "https://mit.jobs/jobs/9892-back-end-developer",
-            "pay": "30,000 -50,000",
-            "paidBy": "EUR 每年",
-            "location": "Lisbon, Portugal",
-            "summary": "",
-            "tags": [
-                "#Go",
-                "#Node.js",
-                "#TypeScript",
-                "#English"
-            ]
-        },
-        {
-            "title": "Senior Android Developer",
-            "employer": "Stocard",
-            "detailUrl": "https://mit.jobs/jobs/9891-senior-android-developer",
-            "pay": "50,000 -70,000",
-            "paidBy": "EUR 每年",
-            "location": "Mannheim, Germany",
-            "summary": "",
-            "tags": [
-                "#Android",
-                "#Kotlin",
-                "#AndroidSDK",
-                "#English"
-            ]
-        },
-        {
-            "title": "Senior DevOps / Site Reliability Engineer",
-            "employer": "Landing.Partner DE",
-            "detailUrl": "https://mit.jobs/jobs/9888-senior-devops-site-reliability-engineer",
-            "pay": "60,000 -75,000",
-            "paidBy": "EUR 每年",
-            "location": "Hamburg, Germany",
-            "summary": "",
-            "tags": [
-                "#Docker",
-                "#Kubernetes",
-                "#Continuous Integration",
-                "#Continuous Deployment",
-                "#English"
-            ]
-        },
-        {
-            "title": "Senior DevOps Engineer",
-            "employer": "Landing.Partner DE",
-            "detailUrl": "https://mit.jobs/jobs/9887-senior-devops-engineer",
-            "pay": "55,000 -78,000",
-            "paidBy": "EUR 每年",
-            "location": "Berlin, Germany",
-            "summary": "",
-            "tags": [
-                "#Kafka",
-                "#Jenkins",
-                "#Docker",
-                "#Amazon Web Services (AWS)",
-                "#Kubernetes",
-                "#English"
-            ]
-        },
-        {
-            "title": "Robot Software Engineer",
-            "employer": "MOVEL AI",
-            "detailUrl": "https://mit.jobs/jobs/9886-robot-software-engineer",
-            "employerDetailUrl": "https://movelai.mit.jobs/",
-            "pay": "5,000 -8,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "The Software engineer has broad and up-to-date knowledge in robot and sensors technology. He/she ...",
-            "tags": [
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "Autonomous navigation Research Scientist",
-            "employer": "MOVEL AI",
-            "detailUrl": "https://mit.jobs/jobs/9885-autonomous-navigation-research-scientist",
-            "employerDetailUrl": "https://movelai.mit.jobs/",
-            "pay": "5,000 -8,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "\nThe research Scientist should have deep specialized knowledge in either computer vision or robo...",
-            "tags": [
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "Android Developer",
-            "employer": "Stocard",
-            "detailUrl": "https://mit.jobs/jobs/9884-android-developer",
-            "pay": "45,000 -60,000",
-            "paidBy": "EUR 每年",
-            "location": "Mannheim, Germany",
-            "summary": "",
-            "tags": [
-                "#Android",
-                "#Kotlin",
-                "#AndroidSDK",
-                "#English"
-            ]
-        },
-        {
-            "title": "Full-stack PHP Developer",
-            "employer": "Interactive Offers",
-            "detailUrl": "https://mit.jobs/jobs/9883-full-stack-php-developer",
-            "pay": "25,000 -50,000",
-            "paidBy": "EUR 每年",
-            "location": "Lisbon, Portugal",
-            "summary": "",
-            "tags": [
-                "#PHP",
-                "#MySQL",
-                "#CSS",
-                "#JavaScript",
-                "#SQL",
-                "#English"
-            ]
-        },
-        {
-            "title": "Senior Java Engineer",
-            "employer": "N26",
-            "detailUrl": "https://mit.jobs/jobs/9882-senior-java-engineer",
-            "pay": "59,000 -78,000",
-            "paidBy": "EUR 每年",
-            "location": "Barcelona, Spain",
-            "summary": "",
-            "tags": [
-                "#Java",
-                "#spring",
-                "#Amazon Web Services (AWS)",
-                "#Continuous Integration",
-                "#Continuous Deployment",
-                "#English"
-            ]
-        },
-        {
-            "title": "Front-end Developer",
-            "employer": "Pipedrive",
-            "detailUrl": "https://mit.jobs/jobs/9881-front-end-developer",
-            "pay": "30,000 -40,000",
-            "paidBy": "EUR 每年",
-            "location": "Lisbon, Portugal",
-            "summary": "",
-            "tags": [
-                "#SaaS",
-                "#React",
-                "#TypeScript",
-                "#English"
-            ]
-        },
-        {
-            "title": ".NET Senior Web Developers",
-            "employer": "同發安科研有限公司",
-            "detailUrl": "https://mit.jobs/jobs/9874-net-senior-web-developers",
-            "employerDetailUrl": "https://tfatech.mit.jobs/",
-            "pay": "70,000 -90,000",
-            "paidBy": "TWD 每月",
-            "location": "台北, Taiwan",
-            "summary": "1. 有良好的coding style\n2.熟悉.NET MVC\n3.Javscript與jQuery基本用法\n4.Entity Framework和MySQL\n5.熟悉WebAPI\n...",
-            "tags": [
-                "#Git",
-                "#MySQL",
-                "#Linux",
-                "#JavaScript",
-                "#jQuery",
-                "#.net",
-                "#WebAPI",
-                "#AWS",
-                "#Redis",
-                "#Jenkins",
-                "#ASP. Net MVC 3.0/4.0",
-                "#Entity Framework",
-                "#TypeScript",
-                "#UnitTest",
-                "#.NET CORE",
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "Junior Project Manager",
-            "employer": "Innov8tif",
-            "detailUrl": "https://mit.jobs/jobs/9873-junior-project-manager",
-            "pay": "3,500 -5,000",
-            "paidBy": "MYR 每月",
-            "location": "Subang Jaya, Malaysia",
-            "summary": "",
-            "tags": [
-                "#Project Management",
-                "#business analysis",
-                "#Comunication Skills"
-            ]
-        },
-        {
-            "title": "PRODUCT MANAGER",
-            "employer": "AVANA (Square.my)",
-            "detailUrl": "https://mit.jobs/jobs/9872-product-manager",
-            "pay": "3,500 -4,500",
-            "paidBy": "MYR 每月",
-            "location": "Petaling Jaya, Malaysia",
-            "summary": "",
-            "tags": [
-                "#Product Management",
-                "#product development",
-                "#E-commerce"
-            ]
-        },
-        {
-            "title": "Product Owner",
-            "employer": "HYPERLAB",
-            "detailUrl": "https://mit.jobs/jobs/9871-product-owner",
-            "pay": "4,000 -8,000",
-            "paidBy": "MYR 每月",
-            "location": "Kuala Lumpur, Malaysia",
-            "summary": "",
-            "tags": [
-                "#Product Management",
-                "#Product Design",
-                "#Product Launch"
-            ]
-        },
-        {
-            "title": "Android Mobile Application Developer",
-            "employer": "FLEXIROAM",
-            "detailUrl": "https://mit.jobs/jobs/9870-android-mobile-application-developer",
-            "pay": "4,000 -7,000",
-            "paidBy": "MYR 每月",
-            "location": "Petaling Jaya, Malaysia",
-            "summary": "",
-            "tags": [
-                "#PHP",
-                "#MySQL",
-                "#Java",
-                "#APIs"
-            ]
-        },
-        {
-            "title": "Reactjs Developer",
-            "employer": "123RF",
-            "detailUrl": "https://mit.jobs/jobs/9869-reactjs-developer",
-            "pay": "3,000 -6,000",
-            "paidBy": "MYR 每月",
-            "location": "Petaling Jaya, Malaysia",
-            "summary": "",
-            "tags": [
-                "#SEO",
-                "#React.js",
-                "#RESTful Services"
-            ]
-        },
-        {
-            "title": "Senior Backend Developer",
-            "employer": "YOPESO",
-            "detailUrl": "https://mit.jobs/jobs/9868-senior-backend-developer",
-            "pay": "7,000 -23,000",
-            "paidBy": "MYR 每月",
-            "location": "Kota Kinabalu, Malaysia",
-            "summary": "",
-            "tags": [
-                "#PHP",
-                "#Linux",
-                "#REST",
-                "#Web Services"
-            ]
-        },
-        {
-            "title": "Business Development Executive",
-            "employer": "Matdespatch.com",
-            "detailUrl": "https://mit.jobs/jobs/9867-business-development-executive",
-            "pay": "3,000 -5,000",
-            "paidBy": "MYR 每月",
-            "location": "Kuala Lumpur, Malaysia",
-            "summary": "",
-            "tags": [
-                "#Project Management",
-                "#Business Development",
-                "#Digital Marketing"
-            ]
-        },
-        {
-            "title": "Key Account Managers (Australia / Malaysia Market)",
-            "employer": "123RF",
-            "detailUrl": "https://mit.jobs/jobs/9866-key-account-managers-australia-malaysia-market",
-            "pay": "3,000 -7,000",
-            "paidBy": "MYR 每月",
-            "location": "Petaling Jaya, Malaysia",
-            "summary": "",
-            "tags": [
-                "#Sales and Marketing",
-                "#Sales Strategy and Management",
-                "#Inside Sales"
-            ]
-        },
-        {
-            "title": "Business Development Executive",
-            "employer": "Keyword Tool",
-            "detailUrl": "https://mit.jobs/jobs/9865-business-development-executive",
-            "pay": "4,000 -10,000",
-            "paidBy": "MYR 每月",
-            "location": "Kuala Lumpur, Malaysia",
-            "summary": "",
-            "tags": [
-                "#Business Development",
-                "#SEO/SEM",
-                "#Digital Marketing"
-            ]
-        },
-        {
-            "title": "Customer Engagement Specialist",
-            "employer": "Deemples Golf",
-            "detailUrl": "https://mit.jobs/jobs/9864-customer-engagement-specialist",
-            "pay": "2,500 -4,000",
-            "paidBy": "MYR 每月",
-            "location": "Kuala Lumpur, Malaysia",
-            "summary": "",
-            "tags": [
-                "#Customer Acquisition",
-                "#Customer service",
-                "#Comunication Skills"
-            ]
-        },
-        {
-            "title": "Account Manager (Sales Ninja)",
-            "employer": "EasyUni",
-            "detailUrl": "https://mit.jobs/jobs/9863-account-manager-sales-ninja",
-            "pay": "3,500 -7,000",
-            "paidBy": "MYR 每月",
-            "location": "Kuala Lumpur, Malaysia",
-            "summary": "",
-            "tags": [
-                "#Business Development",
-                "#Sales Strategy and Management",
-                "#sales"
-            ]
-        },
-        {
-            "title": "Regional Marketing, Manager",
-            "employer": "PostCo",
-            "detailUrl": "https://mit.jobs/jobs/9862-regional-marketing-manager",
-            "pay": "4,000 -6,000",
-            "paidBy": "MYR 每月",
-            "location": "Kuala Lumpur, Malaysia",
-            "summary": "",
-            "tags": [
-                "#Content Marketing",
-                "#Digital Marketing",
-                "#Marketing Strategy"
-            ]
-        },
-        {
-            "title": "Junior React.js Engineer",
-            "employer": "Aspire",
-            "detailUrl": "https://mit.jobs/jobs/9861-junior-reactjs-engineer",
-            "pay": "3,000 -5,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#CSS",
-                "#JavaScript",
-                "#Frontend Development",
-                "#React.js"
-            ]
-        },
-        {
-            "title": "Senior React.js Engineer",
-            "employer": "Aspire",
-            "detailUrl": "https://mit.jobs/jobs/9860-senior-reactjs-engineer",
-            "pay": "5,000 -8,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#CSS",
-                "#JavaScript",
-                "#React.js",
-                "#Javascript Frameworks"
-            ]
-        },
-        {
-            "title": "Front end developer",
-            "employer": "Industrial Electronics Pte Ltd",
-            "detailUrl": "https://mit.jobs/jobs/9859-front-end-developer",
-            "pay": "3,600 -5,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#React.js",
-                "#Redux",
-                "#UI/UX Design"
-            ]
-        },
-        {
-            "title": "Technical Team Leader",
-            "employer": "Adactive Asia Pte. Ltd.",
-            "detailUrl": "https://mit.jobs/jobs/9858-technical-team-leader",
-            "pay": "5,000 -7,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#React.js",
-                "#Node.js"
-            ]
-        },
-        {
-            "title": "Full Stack Developer",
-            "employer": "MediLOT Technologies",
-            "detailUrl": "https://mit.jobs/jobs/9857-full-stack-developer",
-            "pay": "4,000 -6,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#Java",
-                "#APIs",
-                "#coding"
-            ]
-        },
-        {
-            "title": "Backend Developer",
-            "employer": "MediLOT Technologies",
-            "detailUrl": "https://mit.jobs/jobs/9856-backend-developer",
-            "pay": "4,000 -6,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#Java",
-                "#Mobile Application Development",
-                "#C/C++"
-            ]
-        },
-        {
-            "title": "Back End Engineer (Laravel)",
-            "employer": "Tech in Asia",
-            "detailUrl": "https://mit.jobs/jobs/9855-back-end-engineer-laravel",
-            "pay": "5,500 -7,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#PHP",
-                "#REST APIs",
-                "#Laravel",
-                "#Amazon Web Services (AWS)"
-            ]
-        },
-        {
-            "title": "Software Engineeer (Full-Stack)",
-            "employer": "Knorex",
-            "detailUrl": "https://mit.jobs/jobs/9854-software-engineeer-full-stack",
-            "pay": "3,500 -4,500",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Java",
-                "#React.js",
-                "#HTML+CSS"
-            ]
-        },
-        {
-            "title": "Technical Manager",
-            "employer": "Knorex",
-            "detailUrl": "https://mit.jobs/jobs/9853-technical-manager",
-            "pay": "4,300 -5,500",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Linux",
-                "#leadership",
-                "#web technologies"
-            ]
-        },
-        {
-            "title": "Chief Technology Officer",
-            "employer": "The Edge Property",
-            "detailUrl": "https://mit.jobs/jobs/9852-chief-technology-officer",
-            "pay": "8,000 -12,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#PHP",
-                "#React.js",
-                "#Drupal"
-            ]
-        },
-        {
-            "title": "Senior Front-end Engineer",
-            "employer": "Intelllex",
-            "detailUrl": "https://mit.jobs/jobs/9851-senior-front-end-engineer",
-            "pay": "4,000 -6,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#APIs",
-                "#Frontend Development",
-                "#React.js"
-            ]
-        },
-        {
-            "title": "Senior PHP back-end programmer",
-            "employer": "BeMyGuest",
-            "detailUrl": "https://mit.jobs/jobs/9850-senior-php-back-end-programmer",
-            "pay": "6,500 -9,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#PHP",
-                "#Git",
-                "#Laravel",
-                "#GitHub"
-            ]
-        },
-        {
-            "title": "PHP back-end programmer",
-            "employer": "BeMyGuest",
-            "detailUrl": "https://mit.jobs/jobs/9849-php-back-end-programmer",
-            "pay": "4,500 -7,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#PHP",
-                "#Git",
-                "#Laravel",
-                "#GitHub"
-            ]
-        },
-        {
-            "title": "Javascript / React-Redux Developers",
-            "employer": "Datavis Pte Ltd",
-            "detailUrl": "https://mit.jobs/jobs/9848-javascript-react-redux-developers",
-            "pay": "3,000 -3,500",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#React.js",
-                "#Node.js",
-                "#Redux",
-                "#Mongo DB"
-            ]
-        },
-        {
-            "title": "SaaS Sales Executive - Full Time",
-            "employer": "EngageRocket",
-            "detailUrl": "https://mit.jobs/jobs/9847-saas-sales-executive-full-time",
-            "pay": "4,000 -16,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Business Development",
-                "#SaaS",
-                "#Lead Generation",
-                "#presentation skills"
-            ]
-        },
-        {
-            "title": "Pre-Sales Technical Support",
-            "employer": "Elixir Technology Pte Ltd",
-            "detailUrl": "https://mit.jobs/jobs/9846-pre-sales-technical-support",
-            "pay": "3,000 -4,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Business Development",
-                "#Communication Skills",
-                "#Business Development & Partnerships"
-            ]
-        },
-        {
-            "title": "Sales Development Representative",
-            "employer": "Linkfluence Asia Pte Ltd",
-            "detailUrl": "https://mit.jobs/jobs/9845-sales-development-representative",
-            "pay": "3,500 -4,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Japanese",
-                "#mandarin",
-                "#Korean",
-                "#Cantonese",
-                "#Vietnamese",
-                "#Bahasa Melayu."
-            ]
-        },
-        {
-            "title": "Account Manager",
-            "employer": "Windsor.ai",
-            "detailUrl": "https://mit.jobs/jobs/9844-account-manager",
-            "pay": "4,000 -8,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Data Science",
-                "#Sales and Marketing",
-                "#Digital Marketing",
-                "#Analytics&Reporting"
-            ]
-        },
-        {
-            "title": "Account Manager",
-            "employer": "Windsor.ai",
-            "detailUrl": "https://mit.jobs/jobs/9843-account-manager",
-            "pay": "4,000 -8,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Data Science",
-                "#Sales and Marketing",
-                "#web analytics",
-                "#Analytics &Reporting"
-            ]
-        },
-        {
-            "title": "Sales Manager (B2B Marketing Platform)",
-            "employer": "Leadbook",
-            "detailUrl": "https://mit.jobs/jobs/9842-sales-manager-b2b-marketing-platform",
-            "pay": "4,000 -6,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Marketing",
-                "#Content Marketing",
-                "#business analysis",
-                "#Digtal Marketing"
-            ]
-        },
-        {
-            "title": "Business Development Manager",
-            "employer": "CardUp",
-            "detailUrl": "https://mit.jobs/jobs/9841-business-development-manager",
-            "pay": "4,000 -6,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Business Development",
-                "#CRM",
-                "#Relationship Building"
-            ]
-        },
-        {
-            "title": "Business Development Executive",
-            "employer": "Plato Medical",
-            "detailUrl": "https://mit.jobs/jobs/9840-business-development-executive",
-            "pay": "3,500 -4,500",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#sales",
-                "#Business Development & Partnerships",
-                "#Inside Sales",
-                "#Sales Training"
-            ]
-        },
-        {
-            "title": "Junior Market Analyst",
-            "employer": "Kpler",
-            "detailUrl": "https://mit.jobs/jobs/9839-junior-market-analyst",
-            "pay": "3,000 -4,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#SQL",
-                "#Market Research and Analysis",
-                "#Market Research",
-                "#English"
-            ]
-        },
-        {
-            "title": "Search Engineer Optimization Specialist",
-            "employer": "The Edge Property",
-            "detailUrl": "https://mit.jobs/jobs/9838-search-engineer-optimization-specialist",
-            "pay": "4,000 -6,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#SEO/SEM",
-                "#Google Adwords",
-                "#Web Design",
-                "#HTML/CSS"
-            ]
-        },
-        {
-            "title": "Advertising Analytics Lead",
-            "employer": "The Carousell",
-            "detailUrl": "https://mit.jobs/jobs/9837-advertising-analytics-lead",
-            "pay": "8,000 -12,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Python",
-                "#SQL",
-                "#Data Analysis",
-                "#Data Science"
-            ]
-        },
-        {
-            "title": "Data Scientist (Machine Learning)",
-            "employer": "GECO Asia Pte Ltd",
-            "detailUrl": "https://mit.jobs/jobs/9836-data-scientist-machine-learning",
-            "pay": "5,500 -8,500",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Python",
-                "#scala",
-                "#Spark",
-                "#Statistics analysis"
-            ]
-        },
-        {
-            "title": "C# Full-Stack Engineer",
-            "employer": "諾亞克科技股份有限公司",
-            "detailUrl": "https://mit.jobs/jobs/9799-c-full-stack-engineer",
-            "employerDetailUrl": "https://uark.mit.jobs/",
-            "pay": "520,000 -770,000",
-            "paidBy": "TWD 每年",
-            "location": "Taiwan",
-            "summary": "In this role, you will:\n1. Design architecture of systems for both products and projects.\n2. Bu...",
-            "tags": [
-                "#Microsoft .NET(C#)",
-                "#MSSQL",
-                "#HTML5/CSS/Javascript",
-                "#MVC framework",
-                "#English",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "Ruby Back-end Developer",
-            "employer": "SeQura",
-            "detailUrl": "https://mit.jobs/jobs/9798-ruby-back-end-developer",
-            "pay": "35,000 -45,000",
-            "paidBy": "EUR 每年",
-            "location": "Barcelona, Spain",
-            "summary": "",
-            "tags": [
-                "#Ruby on Rails",
-                "#JavaScript",
-                "#Test Driven Development",
-                "#Amazon Web Services (AWS)",
-                "#Agile Methodologies"
-            ]
-        },
-        {
-            "title": "C++ Developer",
-            "employer": "think-cell",
-            "detailUrl": "https://mit.jobs/jobs/9797-c-developer",
-            "pay": "75,000 -120,000",
-            "paidBy": "EUR 每年",
-            "location": "Berlin, Germany",
-            "summary": "",
-            "tags": []
-        },
-        {
-            "title": "Android Developer",
-            "employer": "Stocard",
-            "detailUrl": "https://mit.jobs/jobs/9796-android-developer",
-            "pay": "45,000 -60,000",
-            "paidBy": "EUR 每年",
-            "location": "Mannheim, Germany",
-            "summary": "",
-            "tags": []
-        },
-        {
-            "title": "Senior Android Developer",
-            "employer": "Stocard",
-            "detailUrl": "https://mit.jobs/jobs/9795-senior-android-developer",
-            "pay": "50,000 -70,000",
-            "paidBy": "EUR 每年",
-            "location": "Mannheim, Germany",
-            "summary": "",
-            "tags": [
-                "#Android",
-                "#Kotlin",
-                "#AndroidSDK"
-            ]
-        },
-        {
-            "title": "Digital Product Designer",
-            "employer": "Wunder Mobility",
-            "detailUrl": "https://mit.jobs/jobs/9794-digital-product-designer",
-            "pay": "60,000 -80,000",
-            "paidBy": "EUR 每年",
-            "location": "Hamburg, Germany",
-            "summary": "",
-            "tags": [
-                "#Photoshop",
-                "#mobile design",
-                "#User Interface Design",
-                "#UX Design",
-                "#UX/UI Design"
-            ]
-        },
-        {
-            "title": "Senior Java Engineer",
-            "employer": "HeavenHR",
-            "detailUrl": "https://mit.jobs/jobs/9793-senior-java-engineer",
-            "pay": "60,000 -70,000",
-            "paidBy": "EUR 每年",
-            "location": "Berlin, Germany",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#Java",
-                "#spring",
-                "#Hibernate",
-                "#Amazon Web Services (AWS)",
-                "#English"
-            ]
-        },
-        {
-            "title": "アバントグループIR担当者",
-            "employer": "AVANT CORPORATION",
-            "detailUrl": "https://mit.jobs/jobs/9792-%E3%82%A2%E3%83%90%E3%83%B3%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97ir%E6%8B%85%E5%BD%93%E8%80%85",
-            "pay": "5,000,000 -7,500,000",
-            "paidBy": "JPY 每年",
-            "location": "Japan",
-            "summary": "",
-            "tags": []
-        },
-        {
-            "title": "System Engineer/ Programmer",
-            "employer": "株式会社テクノトップ",
-            "detailUrl": "https://mit.jobs/jobs/9791-system-engineer-programmer",
-            "pay": "3,500,000 -6,000,000",
-            "paidBy": "JPY 每年",
-            "location": "Japan",
-            "summary": "",
-            "tags": []
-        },
-        {
-            "title": "Web/ Mobile Engineer",
-            "employer": "日本美食株式会社",
-            "detailUrl": "https://mit.jobs/jobs/9790-web-mobile-engineer",
-            "pay": "4,500,000 -9,000,000",
-            "paidBy": "JPY 每年",
-            "location": "Japan",
-            "summary": "",
-            "tags": []
-        },
-        {
-            "title": "GM",
-            "employer": "Company undisclosed A",
-            "detailUrl": "https://mit.jobs/jobs/9789-gm",
-            "pay": "7,000,000 -9,000,000",
-            "paidBy": "JPY 每年",
-            "location": "Moscow, Russia",
-            "summary": "",
-            "tags": [
-                "#English",
-                "#Japanese"
-            ]
-        },
-        {
-            "title": "AWSソリューションアーキテクト【AWSコンサルティング】",
-            "employer": "Classmethod, Inc.",
-            "detailUrl": "https://mit.jobs/jobs/9788-aws%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88aws%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0",
-            "pay": "4,000,000 -7,000,000",
-            "paidBy": "JPY 每月",
-            "location": "Japan",
-            "summary": "",
-            "tags": [
-                "#English",
-                "#Japanese"
-            ]
-        },
-        {
-            "title": "AWSエンジニア",
-            "employer": "Classmethod, Inc.",
-            "detailUrl": "https://mit.jobs/jobs/9787-aws%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2",
-            "pay": "3,000,000 -6,000,000",
-            "paidBy": "JPY 每年",
-            "location": "Japan",
-            "summary": "",
-            "tags": [
-                "#English",
-                "#Japanese"
-            ]
-        },
-        {
-            "title": "プロダクト開発エンジニア",
-            "employer": "Classmethod, Inc.",
-            "detailUrl": "https://mit.jobs/jobs/9786-%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2",
-            "pay": "5,000,000 -7,000,000",
-            "paidBy": "JPY 每年",
-            "location": "Japan",
-            "summary": "",
-            "tags": [
-                "#English",
-                "#Japanese"
-            ]
-        },
-        {
-            "title": "ビジネス開発",
-            "employer": "CONNEXX SYSTEMS Corporation",
-            "detailUrl": "https://mit.jobs/jobs/9785-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E9%96%8B%E7%99%BA",
-            "pay": "6,000,000 -6,000,000",
-            "paidBy": "JPY 每年",
-            "location": "Japan",
-            "summary": "",
-            "tags": [
-                "#English",
-                "#Japanese",
-                "#Chinese"
-            ]
-        },
-        {
-            "title": "Overseas Sales Assistant",
-            "employer": "JSOL Corporation",
-            "detailUrl": "https://mit.jobs/jobs/9784-overseas-sales-assistant",
-            "pay": "4,000,000 -6,000,000",
-            "paidBy": "JPY 每年",
-            "location": "Japan",
-            "summary": "",
-            "tags": []
-        },
-        {
-            "title": "Finance Manager",
-            "employer": "Hmlet Pte Ltd",
-            "detailUrl": "https://mit.jobs/jobs/9783-finance-manager",
-            "pay": "6,000 -7,500",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Account Management",
-                "#accounting",
-                "#Financial Management"
-            ]
-        },
-        {
-            "title": "Ionic Developer",
-            "employer": "Liquid Pay",
-            "detailUrl": "https://mit.jobs/jobs/9782-ionic-developer",
-            "pay": "5,000 -9,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#AngularJS",
-                "#RESTful APIs",
-                "#MVC"
-            ]
-        },
-        {
-            "title": "Senior Web Programmer",
-            "employer": "AviationLearn",
-            "detailUrl": "https://mit.jobs/jobs/9781-senior-web-programmer",
-            "pay": "4,000 -5,600",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#SDK",
-                "#Laravel",
-                "#ASP.NET",
-                "#MVC"
-            ]
-        },
-        {
-            "title": "Senior Software Developer",
-            "employer": "AviationLearn",
-            "detailUrl": "https://mit.jobs/jobs/9780-senior-software-developer",
-            "pay": "4,000 -6,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#PHP",
-                "#MySQL",
-                "#C#",
-                "#Unity3D"
-            ]
-        },
-        {
-            "title": "Full-Stack Engineer",
-            "employer": "StyleDoubler",
-            "detailUrl": "https://mit.jobs/jobs/9779-full-stack-engineer",
-            "pay": "40,000 -120,000",
-            "paidBy": "SGD 每月",
-            "location": "Bangkok, Thailand",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#Agile Software Develoment",
-                "#Enterprise Software"
-            ]
-        },
-        {
-            "title": "Applications/Software Architect",
-            "employer": "Sopra Steria Asia Pte. Ltd.",
-            "detailUrl": "https://mit.jobs/jobs/9778-applicationssoftware-architect",
-            "pay": "5,000 -10,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#MySQL",
-                "#CRM",
-                "#agile"
-            ]
-        },
-        {
-            "title": "Software Developers (Java)",
-            "employer": "Sopra Steria Asia Pte. Ltd.",
-            "detailUrl": "https://mit.jobs/jobs/9777-software-developers-java",
-            "pay": "3,000 -6,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Java",
-                "#C++",
-                "#SQL",
-                "#Java J2EE"
-            ]
-        },
-        {
-            "title": "Data Scientist",
-            "employer": "Sopra Steria Asia Pte. Ltd.",
-            "detailUrl": "https://mit.jobs/jobs/9776-data-scientist",
-            "pay": "4,000 -9,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Python",
-                "#Big Data",
-                "#SAS"
-            ]
-        },
-        {
-            "title": "Senior UI UX Designer",
-            "employer": "IT Application Company",
-            "detailUrl": "https://mit.jobs/jobs/9775-senior-ui-ux-designer",
-            "pay": "20,000,000 -30,000,000",
-            "paidBy": "IDR 每月",
-            "location": "Indonesia",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#Java",
-                "#HTML5 & CSS3"
-            ]
-        },
-        {
-            "title": "Business Development Manager",
-            "employer": "ADVANCE.AI",
-            "detailUrl": "https://mit.jobs/jobs/9774-business-development-manager",
-            "pay": "18,000,000 -35,000,000",
-            "paidBy": "IDR 每月",
-            "location": "Indonesia",
-            "summary": "",
-            "tags": [
-                "#Business Development",
-                "#New Business Development",
-                "#Negotiation",
-                "#English"
-            ]
-        },
-        {
-            "title": "Site Reliability Engineer",
-            "employer": "TransferWise Singapore Pte Ltd",
-            "detailUrl": "https://mit.jobs/jobs/9773-site-reliability-engineer",
-            "pay": "7,000 -9,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#DevOps",
-                "#Amazon Web Services (AWS)"
-            ]
-        },
-        {
-            "title": "Senior Full Stack Developer",
-            "employer": "TransferWise Singapore Pte Ltd",
-            "detailUrl": "https://mit.jobs/jobs/9772-senior-full-stack-developer",
-            "pay": "7,000 -12,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#MySQL",
-                "#Java",
-                "#spring"
-            ]
-        },
-        {
-            "title": "Signal Processing Engineer",
-            "employer": "Biorithm",
-            "detailUrl": "https://mit.jobs/jobs/9771-signal-processing-engineer",
-            "pay": "4,000 -4,500",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#Python",
-                "#Product Management"
-            ]
-        },
-        {
-            "title": "UIUX Designer",
-            "employer": "BeScene",
-            "detailUrl": "https://mit.jobs/jobs/9770-uiux-designer",
-            "pay": "3,000 -4,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#graphic design",
-                "#mobile design",
-                "#interface Design",
-                "#design research"
-            ]
-        },
-        {
-            "title": "Customer Success Manager",
-            "employer": "EngageRocket",
-            "detailUrl": "https://mit.jobs/jobs/9769-customer-success-manager",
-            "pay": "3,500 -7,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Analytical Skills",
-                "#customer experience",
-                "#presentation skills"
-            ]
-        },
-        {
-            "title": "Marketing Manager",
-            "employer": "Taqniaty",
-            "detailUrl": "https://mit.jobs/jobs/9768-marketing-manager",
-            "pay": "7,000 -12,000",
-            "paidBy": "SAR 每月",
-            "location": "Mecca, Saudi Arabia",
-            "summary": "",
-            "tags": [
-                "#Sales and Marketing",
-                "#Digital Marketing",
-                "#Marketing Strategy"
-            ]
-        },
-        {
-            "title": "Senior Fullstack Web Dev (Laravel + VueJS)",
-            "employer": "CoinJax Pte Ltd",
-            "detailUrl": "https://mit.jobs/jobs/9767-senior-fullstack-web-dev-laravel-vuejs",
-            "pay": "4,000 -5,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#Project Management",
-                "#Laravel"
-            ]
-        },
-        {
-            "title": "Operations Manager",
-            "employer": "ROCKSTAGVID Productions",
-            "detailUrl": "https://mit.jobs/jobs/9766-operations-manager",
-            "pay": "3,000 -4,500",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Operations Management",
-                "#business strategy",
-                "#Business Operations"
-            ]
-        },
-        {
-            "title": "Business Development/Operational Manager",
-            "employer": "Mikro Kapital Indonesia",
-            "detailUrl": "https://mit.jobs/jobs/9765-business-developmentoperational-manager",
-            "pay": "20,000,000 -30,000,000",
-            "paidBy": "SGD 每月",
-            "location": "Indonesia",
-            "summary": "",
-            "tags": [
-                "#New Business Development",
-                "#Business Development & Partnerships",
-                "#Business Operations"
-            ]
-        },
-        {
-            "title": "Risk Manager",
-            "employer": "Mikro Kapital Indonesia",
-            "detailUrl": "https://mit.jobs/jobs/9764-risk-manager",
-            "pay": "20,000,000 -30,000,000",
-            "paidBy": "SGD 每月",
-            "location": "Indonesia",
-            "summary": "",
-            "tags": [
-                "#Risk management",
-                "#Risk analysis",
-                "#Statistics analysis",
-                "#English"
-            ]
-        },
-        {
-            "title": "Account Manager",
-            "employer": "Ad-Lib Digital",
-            "detailUrl": "https://mit.jobs/jobs/9763-account-manager",
-            "pay": "3,500 -5,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Project Management",
-                "#Marketing",
-                "#Digital Marketing"
-            ]
-        },
-        {
-            "title": "Senior Sales/ Business Development Manager",
-            "employer": "Ad-Lib Digital",
-            "detailUrl": "https://mit.jobs/jobs/9762-senior-sales-business-development-manager",
-            "pay": "5,000 -10,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Business Development",
-                "#Sales and Marketing",
-                "#Sales Strategy and Management"
-            ]
-        },
-        {
-            "title": "Customer Success Lead",
-            "employer": "Ad-Lib Digital",
-            "detailUrl": "https://mit.jobs/jobs/9761-customer-success-lead",
-            "pay": "8,000 -12,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Project Management",
-                "#Business Development",
-                "#Digital Marketing"
-            ]
-        },
-        {
-            "title": "Senior Technical Project Manager",
-            "employer": "Yojee",
-            "detailUrl": "https://mit.jobs/jobs/9760-senior-technical-project-manager",
-            "pay": "7,000 -11,000",
-            "paidBy": "SGD 每年",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Project Management",
-                "#Product Management",
-                "#Technical Support"
-            ]
-        },
-        {
-            "title": "Customer Success Manager",
-            "employer": "Saleswhale",
-            "detailUrl": "https://mit.jobs/jobs/9759-customer-success-manager",
-            "pay": "4,000 -6,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Sales and Marketing",
-                "#Communication Skills",
-                "#Salesforce"
-            ]
-        },
-        {
-            "title": "Commercial Partnership Manager",
-            "employer": "Latitude Venture Partners",
-            "detailUrl": "https://mit.jobs/jobs/9758-commercial-partnership-manager",
-            "pay": "20,000,000 -40,000,000",
-            "paidBy": "SGD 每月",
-            "location": "Indonesia",
-            "summary": "",
-            "tags": [
-                "#Sales and Marketing",
-                "#Product Management",
-                "#Communication Skills"
-            ]
-        },
-        {
-            "title": "Financial Planning & Analysis Manager",
-            "employer": "Galton Voysey",
-            "detailUrl": "https://mit.jobs/jobs/9757-financial-planning-analysis-manager",
-            "pay": "40,000 -50,000",
-            "paidBy": "SGD 每月",
-            "location": "Hong Kong",
-            "summary": "",
-            "tags": [
-                "#Financial Analysis",
-                "#Inventory Management",
-                "#Budgeting"
-            ]
-        },
-        {
-            "title": "Machine Learning & Computer Vision Engineer",
-            "employer": "FireVisor Systems",
-            "detailUrl": "https://mit.jobs/jobs/9756-machine-learning-computer-vision-engineer",
-            "pay": "6,000 -10,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Python",
-                "#Machine Learning",
-                "#Software Development"
-            ]
-        },
-        {
-            "title": "DevOps",
-            "employer": "Piktochart",
-            "detailUrl": "https://mit.jobs/jobs/9755-devops",
-            "pay": "5,000 -10,000",
-            "paidBy": "MYR 每月",
-            "location": "Malaysia",
-            "summary": "",
-            "tags": [
-                "#MySQL",
-                "#Amazon Web Services (AWS)",
-                "#Ngnix"
-            ]
-        },
-        {
-            "title": "Head of Frontend",
-            "employer": "Piktochart",
-            "detailUrl": "https://mit.jobs/jobs/9754-head-of-frontend",
-            "pay": "10,000 -20,000",
-            "paidBy": "MYR 每月",
-            "location": "Malaysia",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#leadership",
-                "#HTML5 & CSS3"
-            ]
-        },
-        {
-            "title": "UI/UX designer",
-            "employer": "Nextone",
-            "detailUrl": "https://mit.jobs/jobs/9753-uiux-designer",
-            "pay": "4,500 -7,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Adobe Photoshop",
-                "#interface Design",
-                "#Design Thinking"
-            ]
-        },
-        {
-            "title": "SEO Marketing Manager",
-            "employer": "Cybersprout Pte Ltd",
-            "detailUrl": "https://mit.jobs/jobs/9752-seo-marketing-manager",
-            "pay": "4,500 -6,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#SEO/SEM",
-                "#Google Analytics",
-                "#google apps"
-            ]
-        },
-        {
-            "title": "Digital Marketing Specialist",
-            "employer": "Xat",
-            "detailUrl": "https://mit.jobs/jobs/9751-digital-marketing-specialist",
-            "pay": "25,000,000 -50,000,000",
-            "paidBy": "IDR 每月",
-            "location": "Indonesia",
-            "summary": "",
-            "tags": [
-                "#Digital Marketing",
-                "#Marketing Strategy"
-            ]
-        },
-        {
-            "title": "Business Intelligence / Data Analyst",
-            "employer": "Aspire",
-            "detailUrl": "https://mit.jobs/jobs/9750-business-intelligence-data-analyst",
-            "pay": "3,000 -5,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#MySQL",
-                "#Data Analysis",
-                "#Databases"
-            ]
-        },
-        {
-            "title": "Lead Software Engineer (Android)",
-            "employer": "Glittering Boost Digital",
-            "detailUrl": "https://mit.jobs/jobs/9749-lead-software-engineer-android",
-            "pay": "5,000 -9,000",
-            "paidBy": "SGD 每年",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Android",
-                "#product development",
-                "#Mobile Development"
-            ]
-        },
-        {
-            "title": "Senior React.js Engineer",
-            "employer": "Aspire",
-            "detailUrl": "https://mit.jobs/jobs/9748-senior-reactjs-engineer",
-            "pay": "5,000 -8,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#React.js",
-                "#Amazon Web Services (AWS)",
-                "#CCS3"
-            ]
-        },
-        {
-            "title": "Junior React.js Engineer",
-            "employer": "Aspire",
-            "detailUrl": "https://mit.jobs/jobs/9747-junior-reactjs-engineer",
-            "pay": "3,000 -5,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#Frontend Development",
-                "#React.js"
-            ]
-        },
-        {
-            "title": "DevOps Team Lead / Developers",
-            "employer": "Y3 Technologies Pte Ltd",
-            "detailUrl": "https://mit.jobs/jobs/9746-devops-team-lead-developers",
-            "pay": "3,500 -7,500",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Backend Development",
-                "#DevOps",
-                "#Java J2EE"
-            ]
-        },
-        {
-            "title": "Back End Developer",
-            "employer": "ADVANCE.AI",
-            "detailUrl": "https://mit.jobs/jobs/9745-back-end-developer",
-            "pay": "5,000 -8,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#MySQL",
-                "#Redis",
-                "#MVC"
-            ]
-        },
-        {
-            "title": "Research Engineer (Deep Learning)",
-            "employer": "ADVANCE.AI",
-            "detailUrl": "https://mit.jobs/jobs/9744-research-engineer-deep-learning",
-            "pay": "5,000 -10,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Computer vision",
-                "#research and development"
-            ]
-        },
-        {
-            "title": "Data Engineer",
-            "employer": "ADVANCE.AI",
-            "detailUrl": "https://mit.jobs/jobs/9743-data-engineer",
-            "pay": "3,000 -4,500",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Python",
-                "#Data Analysis"
-            ]
-        },
-        {
-            "title": "Junior Data Scientist",
-            "employer": "ADVANCE.AI",
-            "detailUrl": "https://mit.jobs/jobs/9742-junior-data-scientist",
-            "pay": "5,000 -7,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Python",
-                "#Computer vision",
-                "#Natural Language Processing"
-            ]
-        },
-        {
-            "title": "Business Intelligence Analyst",
-            "employer": "ADVANCE.AI",
-            "detailUrl": "https://mit.jobs/jobs/9741-business-intelligence-analyst",
-            "pay": "3,000 -4,500",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Python",
-                "#SQL",
-                "#Data Analysis",
-                "#English",
-                "#mandarin"
-            ]
-        },
-        {
-            "title": "Senior Data Engineer",
-            "employer": "ADVANCE.AI",
-            "detailUrl": "https://mit.jobs/jobs/9740-senior-data-engineer",
-            "pay": "5,000 -9,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Python",
-                "#Java",
-                "#Spark"
-            ]
-        },
-        {
-            "title": "UI Designer",
-            "employer": "ADVANCE.AI",
-            "detailUrl": "https://mit.jobs/jobs/9739-ui-designer",
-            "pay": "5,000 -7,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#UI/UX Design",
-                "#User Interface",
-                "#User Experience"
-            ]
-        },
-        {
-            "title": "Head of Operations (E-commerce)",
-            "employer": "ADVANCE.AI",
-            "detailUrl": "https://mit.jobs/jobs/9733-head-of-operations-e-commerce",
-            "pay": "8,000 -10,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Project Management",
-                "#Business Operations",
-                "#Project Leader"
-            ]
-        },
-        {
-            "title": "Product Operations",
-            "employer": "ADVANCE.AI",
-            "detailUrl": "https://mit.jobs/jobs/9732-product-operations",
-            "pay": "4,000 -5,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#SQL",
-                "#Microsoft Excel",
-                "#Growth Hacking",
-                "#Business Operations",
-                "#Innovation&Growth"
-            ]
-        },
-        {
-            "title": "Data Scientist",
-            "employer": "ADVANCE.AI",
-            "detailUrl": "https://mit.jobs/jobs/9730-data-scientist",
-            "pay": "6,000 -10,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Python",
-                "#Computer vision",
-                "#Big Data",
-                "#Natural Language Processing"
-            ]
-        },
-        {
-            "title": "Web Developer",
-            "employer": "ADVANCE.AI",
-            "detailUrl": "https://mit.jobs/jobs/9729-web-developer",
-            "pay": "4,000 -8,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#HTML/CSS",
-                "#Vue.js"
-            ]
-        },
-        {
-            "title": "Senior Laravel Backend Engineer",
-            "employer": "Aspire",
-            "detailUrl": "https://mit.jobs/jobs/9728-senior-laravel-backend-engineer",
-            "pay": "5,000 -8,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#PHP",
-                "#MySQL",
-                "#Laravel",
-                "#Design Patterns"
-            ]
-        },
-        {
-            "title": "Junior Laravel Backend Engineer",
-            "employer": "Aspire",
-            "detailUrl": "https://mit.jobs/jobs/9727-junior-laravel-backend-engineer",
-            "pay": "3,000 -5,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#PHP",
-                "#MySQL",
-                "#Laravel"
-            ]
-        },
-        {
-            "title": "Full Stack Developer",
-            "employer": "Dathena Science",
-            "detailUrl": "https://mit.jobs/jobs/9726-full-stack-developer",
-            "pay": "3,000 -7,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#Python"
-            ]
-        },
-        {
-            "title": "Lead Software Engineer (iOS)",
-            "employer": "Glittering Boost Digital",
-            "detailUrl": "https://mit.jobs/jobs/9725-lead-software-engineer-ios",
-            "pay": "5,000 -9,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Objective C",
-                "#Agile Software Develoment",
-                "#Mobile Development"
-            ]
-        },
-        {
-            "title": "Lead Software Engineer (Web)",
-            "employer": "Glittering Boost Digital",
-            "detailUrl": "https://mit.jobs/jobs/9724-lead-software-engineer-web",
-            "pay": "5,000 -9,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#React.js",
-                "#Angular.JS",
-                "#Vue.js"
-            ]
-        },
-        {
-            "title": "Mobile AppDeveloper-IOS",
-            "employer": "Mozat Pte Ltd",
-            "detailUrl": "https://mit.jobs/jobs/9723-mobile-appdeveloper-ios",
-            "pay": "4,000 -6,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#iOS Development"
-            ]
-        },
-        {
-            "title": "Product Designer",
-            "employer": "Taiger",
-            "detailUrl": "https://mit.jobs/jobs/9722-product-designer",
-            "pay": "4,000 -7,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#UI/UX Design",
-                "#User Interface Design",
-                "#Rapid prototyping"
-            ]
-        },
-        {
-            "title": "Software Engineer (Full-Stack Preferred)",
-            "employer": "Taiger",
-            "detailUrl": "https://mit.jobs/jobs/9721-software-engineer-full-stack-preferred",
-            "pay": "3,000 -6,500",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Software Engineering",
-                "#Artificial Intelligence",
-                "#Agile Software Develoment"
-            ]
-        },
-        {
-            "title": "Visual Designer",
-            "employer": "Chainstack",
-            "detailUrl": "https://mit.jobs/jobs/9720-visual-designer",
-            "pay": "4,000 -6,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#InVision",
-                "#Sketch",
-                "#Adobe Illustrator",
-                "#Adobe InDesign"
-            ]
-        },
-        {
-            "title": "Software Engineer (Senior)",
-            "employer": "Semut",
-            "detailUrl": "https://mit.jobs/jobs/9719-software-engineer-senior",
-            "pay": "7,500 -15,000",
-            "paidBy": "MYR 每月",
-            "location": "Kuala Lumpur, Malaysia",
-            "summary": "",
-            "tags": [
-                "#PHP",
-                "#MySQL",
-                "#JavaScript"
-            ]
-        },
-        {
-            "title": "Operation Manager",
-            "employer": "Trusting Social Indonesia",
-            "detailUrl": "https://mit.jobs/jobs/9718-operation-manager",
-            "pay": "15,000,000 -30,000,000",
-            "paidBy": "IDR 每月",
-            "location": "Indonesia",
-            "summary": "",
-            "tags": [
-                "#qa",
-                "#Operations Management",
-                "#Business Operations"
-            ]
-        },
-        {
-            "title": "Software Engineer C++",
-            "employer": "Knorex",
-            "detailUrl": "https://mit.jobs/jobs/9717-software-engineer-c",
-            "pay": "3,500 -4,500",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Data Analysis",
-                "#Digital Marketing",
-                "#Golang"
-            ]
-        },
-        {
-            "title": "Executive (Research & Training), Global Learning",
-            "employer": "Office of Global Learning Singapore Institute of Management",
-            "detailUrl": "https://mit.jobs/jobs/9715-executive-research-training-global-learning",
-            "pay": "3,000 -7,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Content Marketing",
-                "#spss",
-                "#business analysis",
-                "#English"
-            ]
-        },
-        {
-            "title": "English Teacher, Global Learning",
-            "employer": "Office of Global Learning Singapore Institute of Management",
-            "detailUrl": "https://mit.jobs/jobs/9714-english-teacher-global-learning",
-            "pay": "2,500 -6,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Digital Marketing",
-                "#Business Development & Partnerships",
-                "#spss",
-                "#English",
-                "#Korean"
-            ]
-        },
-        {
-            "title": "Project Manager",
-            "employer": "UnaBiz",
-            "detailUrl": "https://mit.jobs/jobs/9713-project-manager",
-            "pay": "5,000 -7,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#CRM",
-                "#Software Architecture",
-                "#Project Leader",
-                "#sales force",
-                "#English"
-            ]
-        },
-        {
-            "title": "IoT Presales Manager",
-            "employer": "UnaBiz",
-            "detailUrl": "https://mit.jobs/jobs/9712-iot-presales-manager",
-            "pay": "4,000 -7,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#System design",
-                "#web technologies",
-                "#software design",
-                "#English"
-            ]
-        },
-        {
-            "title": "Head of Growth & User Acquisition",
-            "employer": "Tigerhall",
-            "detailUrl": "https://mit.jobs/jobs/9711-head-of-growth-user-acquisition",
-            "pay": "5,000 -7,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Digital Marketing",
-                "#Marketing Strategy",
-                "#business analysis",
-                "#English"
-            ]
-        },
-        {
-            "title": "Head of Branding & Communications",
-            "employer": "Tigerhall",
-            "detailUrl": "https://mit.jobs/jobs/9710-head-of-branding-communications",
-            "pay": "5,000 -7,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#blogging",
-                "#brand design",
-                "#Brand management",
-                "#brand&identity design",
-                "#English"
-            ]
-        },
-        {
-            "title": "Symfony Full stack Web Developer",
-            "employer": "Villa-Finder.com",
-            "detailUrl": "https://mit.jobs/jobs/9709-symfony-full-stack-web-developer",
-            "pay": "4,000 -7,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#PHP",
-                "#Symfony",
-                "#HTML5 & CSS3",
-                "#English"
-            ]
-        },
-        {
-            "title": "Full-stack Developer",
-            "employer": "Deloitte",
-            "detailUrl": "https://mit.jobs/jobs/9708-full-stack-developer",
-            "pay": "3,000 -5,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Linux",
-                "#JavaScript",
-                "#HTML5 & CSS3",
-                "#English"
-            ]
-        },
-        {
-            "title": "DevOps Engineer",
-            "employer": "Deloitte",
-            "detailUrl": "https://mit.jobs/jobs/9707-devops-engineer",
-            "pay": "3,000 -5,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#Linux",
-                "#Cloud Computing",
-                "#shell script",
-                "#English"
-            ]
-        },
-        {
-            "title": "Mobile Developer (Ionic Developer)",
-            "employer": "Liquid Group Pte Ltd",
-            "detailUrl": "https://mit.jobs/jobs/9706-mobile-developer-ionic-developer",
-            "pay": "4,000 -8,000",
-            "paidBy": "SGD 每月",
-            "location": "Singapore",
-            "summary": "",
-            "tags": [
-                "#JavaScript",
-                "#AngularJS",
-                "#RESTful Services",
-                "#Agile Software Develoment",
                 "#English"
             ]
         },
